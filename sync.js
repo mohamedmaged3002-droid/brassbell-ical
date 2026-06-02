@@ -11,7 +11,25 @@ const { shouldWrite } = require('./src/guard');
 const { horizonNights } = require('./src/scrape');
 const cfg = require('./src/config');
 
+const { bbSlug } = require('./src/units');
+
 const OUT = path.join(__dirname, 'docs');
+
+// Default source is Supabase. If BRASSBELL_UNITS_FILE is set, load the unit list
+// from that JSON file instead (array of { wp, slug?, bbSlug?, title? }). Useful
+// for bootstrap/offline runs and as a CI fallback if Supabase is unreachable.
+async function loadUnits() {
+  const file = process.env.BRASSBELL_UNITS_FILE;
+  if (file) {
+    const arr = JSON.parse(fs.readFileSync(file, 'utf8'));
+    console.log(`Loaded ${arr.length} units from file ${file}`);
+    return arr.map((u) => {
+      const slug = u.slug || u.bbSlug;
+      return { wp: u.wp, slug, bbSlug: u.bbSlug || bbSlug(slug), title: u.title || slug };
+    });
+  }
+  return loadBrassbellUnits(getSupabase());
+}
 
 function loadPrevIndex() {
   const p = path.join(OUT, 'index.json');
@@ -40,8 +58,7 @@ async function main() {
   const startDate = new Date(); startDate.setHours(12, 0, 0, 0);
   const nights = horizonNights(startDate, cfg.HORIZON_MONTHS);
 
-  const sb = getSupabase();
-  let units = await loadBrassbellUnits(sb);
+  let units = await loadUnits();
   if (onlyArgs.length) units = units.filter((u) => onlyArgs.includes(u.wp));
   console.log(`Scraping ${units.length} units, horizon=${nights} nights, unit-concurrency=${cfg.UNIT_CONCURRENCY}`);
 
