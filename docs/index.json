@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T18:44:35.573Z",
+  "updatedAt": "2026-06-02T21:23:57.275Z",
   "properties": [
     {
       "wp": 70001,
@@ -968,6 +968,214 @@
       "blockedRanges": 2,
       "availableCount": 209,
       "erroredBlocked": 4
+    },
+    {
+      "wp": 70125,
+      "slug": "suite-sea-view-ROOM-087",
+      "title": "Suite Sea View",
+      "blockedRanges": 1,
+      "availableCount": 211,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70126,
+      "slug": "suite-with-balcony-",
+      "title": "Suite with balcony",
+      "blockedRanges": 1,
+      "availableCount": 211,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70127,
+      "slug": "suite-with-balcony-in-a-boutique-hotel-with-breakfast",
+      "title": "Suite With Balcony In a Boutique Hotel With Breakfast",
+      "blockedRanges": 2,
+      "availableCount": 211,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70128,
+      "slug": "superior-apartment-with-city-view-in-the-center-of-downtown-cairo-ROOM-005",
+      "title": "Superior Apartment With City View In The Center Of Downtown Cairo",
+      "blockedRanges": 0,
+      "availableCount": 214,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70129,
+      "slug": "superior-studio-with-balcony-",
+      "title": "Superior Studio With Balcony",
+      "blockedRanges": 1,
+      "availableCount": 213,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70130,
+      "slug": "three-bedroom-apartment-city-view-next-to-om-kolthoom-hotel-ROOM-012",
+      "title": "Three Bedroom Apartment City view Next to Om Kolthoom Hotel",
+      "blockedRanges": 6,
+      "availableCount": 197,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70131,
+      "slug": "three-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-054",
+      "title": "Three Bedroom Apartment In The Center Of Downtown Cairo",
+      "blockedRanges": 1,
+      "availableCount": 213,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70132,
+      "slug": "three-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-ROOM-013",
+      "title": "Three Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
+      "blockedRanges": 4,
+      "availableCount": 200,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70133,
+      "slug": "three-bedrooms-apartment-ROOM-153-3BR",
+      "title": "Three Bedrooms Apartment",
+      "blockedRanges": 1,
+      "availableCount": 213,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70134,
+      "slug": "three-bedrooms-apartment-pyramids-view-ROOM-152-3BR-DLX",
+      "title": "Three Bedrooms Apartment Pyramids View",
+      "blockedRanges": 9,
+      "availableCount": 186,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70135,
+      "slug": "two-bedroom-apartment",
+      "title": "Two Bedroom Apartment",
+      "blockedRanges": 1,
+      "availableCount": 212,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70136,
+      "slug": "two-bedroom-apartment-city-view-2BRACV-3SB",
+      "title": "Two Bedroom Apartment City View",
+      "blockedRanges": 6,
+      "availableCount": 202,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70137,
+      "slug": "two-bedroom-apartment-city-view-ROOM-093",
+      "title": "Two Bedroom Apartment City view",
+      "blockedRanges": 1,
+      "availableCount": 212,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70138,
+      "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-022",
+      "title": "Two Bedroom Apartment City view In The Center Of Zamalek",
+      "blockedRanges": 4,
+      "availableCount": 192,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70139,
+      "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-025",
+      "title": "Two Bedroom Apartment City view In The Center Of Zamalek",
+      "blockedRanges": 8,
+      "availableCount": 182,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70140,
+      "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-098",
+      "title": "Two Bedroom Apartment City View In The Center Of Zamalek",
+      "blockedRanges": 4,
+      "availableCount": 206,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70141,
+      "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-129",
+      "title": "Two Bedroom Apartment City View In The Center Of Zamalek",
+      "blockedRanges": 1,
+      "availableCount": 201,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70142,
+      "slug": "two-bedroom-apartment-court-view-in-the-center-of-zamalek-ROOM-130",
+      "title": "Two Bedroom Apartment Court View In The Center Of Zamalek",
+      "blockedRanges": 1,
+      "availableCount": 210,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70143,
+      "slug": "two-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-053",
+      "title": "Two Bedroom Apartment In The Center of Downtown Cairo",
+      "blockedRanges": 3,
+      "availableCount": 207,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70144,
+      "slug": "two-bedroom-apartment-in-the-center-of-zamalek-ROOM-018",
+      "title": "Two Bedroom Apartment In The Center Of Zamalek",
+      "blockedRanges": 0,
+      "availableCount": 214,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70145,
+      "slug": "two-bedroom-apartment-in-the-center-of-zamalek-ROOM-035",
+      "title": "Two Bedroom Apartment In The Center Of Zamalek",
+      "blockedRanges": 5,
+      "availableCount": 201,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70146,
+      "slug": "two-bedroom-apartment-in-the-center-of-zamalek-ROOM-131",
+      "title": "Two Bedroom Apartment In The Center Of Zamalek",
+      "blockedRanges": 3,
+      "availableCount": 207,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70147,
+      "slug": "two-bedroom-apartment-nile-view-near-ramses-hilton-hotel-ROOM-099",
+      "title": "Two Bedroom Apartment Nile View Near Ramses Hilton Hotel",
+      "blockedRanges": 4,
+      "availableCount": 194,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70148,
+      "slug": "two-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-OMK-95",
+      "title": "Two Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
+      "blockedRanges": 1,
+      "availableCount": 207,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70149,
+      "slug": "two-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-ROOM-011",
+      "title": "Two Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
+      "blockedRanges": 5,
+      "availableCount": 194,
+      "erroredBlocked": 0
+    },
+    {
+      "wp": 70150,
+      "slug": "two-bedrooms-apartment-ROOM-151-2BR",
+      "title": "Two Bedrooms Apartment",
+      "blockedRanges": 0,
+      "availableCount": 214,
+      "erroredBlocked": 0
     }
   ]
 }
