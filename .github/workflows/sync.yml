@@ -1,0 +1,42 @@
+name: Sync Brassbell iCal
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npx playwright install --with-deps chromium
+
+      - name: Scrape brassbell.net and build feeds
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node sync.js
+
+      - name: Wire feed URLs into listing_ical
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node wire.js
+
+      - name: Commit updated feeds
+        run: |
+          git config user.name  "brassbell-ical[bot]"
+          git config user.email "brassbell-ical@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet && echo "No changes" || (git commit -m "chore: sync brassbell ical $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
