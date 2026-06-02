@@ -107,6 +107,27 @@ async function main() {
   report.finishedAt = new Date().toISOString();
   fs.writeFileSync(path.join(OUT, 'index.json'), JSON.stringify({ updatedAt: report.finishedAt, properties: index }, null, 2));
   fs.writeFileSync(path.join(OUT, 'report.json'), JSON.stringify(report, null, 2));
+
+  // links.csv — downloadable directory of every unit + its feed URL, refreshed each run.
+  const bySlug = {};
+  for (const u of units) bySlug[u.wp] = u.bbSlug;
+  const csvEsc = (v) => {
+    const s = String(v ?? '');
+    return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+  };
+  const csv = [['wp_post_id', 'title', 'ical_url', 'brassbell_url', 'blocked_ranges', 'available_nights'].join(',')];
+  for (const e of index) {
+    csv.push([
+      e.wp,
+      csvEsc(e.title),
+      `${cfg.PAGES_BASE_URL}/${e.wp}.ics`,
+      bySlug[e.wp] ? `${cfg.PROPERTY_BASE}/${bySlug[e.wp]}/` : '',
+      e.blockedRanges ?? '',
+      e.availableCount ?? '',
+    ].join(','));
+  }
+  fs.writeFileSync(path.join(OUT, 'links.csv'), csv.join('\n') + '\n');
+
   console.log(`\nDone: wrote ${report.written}, skipped ${report.skipped.length}, indexed ${index.length}`);
 }
 
