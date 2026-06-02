@@ -18,13 +18,26 @@ test('refuses a scrape with zero classified nights', () => {
 });
 
 test('refuses a scrape that errored on too many nights', () => {
-  assert.strictEqual(shouldWrite(null, ok({ available: 50, errors: 120 }), NIGHTS).write, false);
+  // Coverage is fine (205/210) but >5% of nights errored -> reject.
+  const r = shouldWrite(null, ok({ blocked: 5, available: 200, errors: 20 }), NIGHTS);
+  assert.strictEqual(r.write, false);
+  assert.strictEqual(r.reason, 'too-many-errors');
+});
+
+test('refuses a scrape with low coverage', () => {
+  // Only 55 of 210 nights classified -> reject before any collapse check.
+  const r = shouldWrite(null, ok({ blocked: 5, available: 50, errors: 0 }), NIGHTS);
+  assert.strictEqual(r.write, false);
+  assert.strictEqual(r.reason, 'low-coverage');
 });
 
 test('refuses a suspicious availability collapse vs previous run', () => {
   const prev = { availableCount: 200 };
-  // previously 200 available, now only 40 -> likely a scrape glitch, keep last-good
-  assert.strictEqual(shouldWrite(prev, ok({ available: 40, blocked: 5 }), NIGHTS).write, false);
+  // Coverage is fine (205/210) but availability halved vs prior -> likely a
+  // scrape glitch, keep last-good.
+  const r = shouldWrite(prev, ok({ blocked: 115, available: 90, errors: 0 }), NIGHTS);
+  assert.strictEqual(r.write, false);
+  assert.strictEqual(r.reason, 'availability-collapse');
 });
 
 test('accepts a legitimate availability drop (still > 50% of prior)', () => {

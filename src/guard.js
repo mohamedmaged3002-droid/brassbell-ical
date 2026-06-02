@@ -7,8 +7,12 @@ function shouldWrite(prev, current, nights) {
 
   const classified = blocked + available;
   if (classified === 0) return { write: false, reason: 'zero-classified' };
-  if (classified < nights * 0.8) return { write: false, reason: 'low-coverage' };
-  if (errors > nights * 0.2) return { write: false, reason: 'too-many-errors' };
+  // Errored nights publish as OPEN (the feed only emits BLOCKED dates), so a
+  // sloppy scrape could re-open a real block. Demand near-complete coverage and
+  // tolerate only a tiny error fraction; residual errored nights are then folded
+  // into BLOCKED by the caller as a belt-and-braces conservative measure.
+  if (classified < nights * 0.95) return { write: false, reason: 'low-coverage' };
+  if (errors > nights * 0.05) return { write: false, reason: 'too-many-errors' };
 
   if (prev && typeof prev.availableCount === 'number' && prev.availableCount > 0) {
     if (available < prev.availableCount * 0.5) {

@@ -14,12 +14,24 @@ const cfg = require('./src/config');
 const OUT = path.join(__dirname, 'docs');
 
 function loadPrevIndex() {
+  const p = path.join(OUT, 'index.json');
+  if (!fs.existsSync(p)) return {}; // legit first run — no prior index
+  let j;
   try {
-    const j = JSON.parse(fs.readFileSync(path.join(OUT, 'index.json'), 'utf8'));
-    const map = {};
-    for (const e of j.properties || []) map[e.wp] = e;
-    return map;
-  } catch { return {}; }
+    j = JSON.parse(fs.readFileSync(p, 'utf8'));
+  } catch (e) {
+    // File exists but is unreadable/corrupt. Fail CLOSED: running with an empty
+    // prev would silently disable the availability-collapse guard and drop the
+    // index carry-forward for skipped units. Abort so the last-good docs/ tree
+    // on disk is preserved untouched.
+    throw new Error(
+      `docs/index.json exists but could not be parsed (${e.message}). ` +
+      `Aborting to preserve last-good feeds — fix or delete docs/index.json before re-running.`
+    );
+  }
+  const map = {};
+  for (const e of j.properties || []) map[e.wp] = e;
+  return map;
 }
 
 async function main() {
@@ -49,12 +61,16 @@ async function main() {
       report.units.push({ wp: unit.wp, ...counts, decision: decision.reason });
 
       if (decision.write) {
-        const ranges = collapseBlocked(res.blocked);
+        // Conservative: treat any night we couldn't classify as BLOCKED rather
+        // than OPEN, so a probe failure never re-opens a date (worst case a free
+        // night shows the WhatsApp CTA; far safer than a double-booking).
+        const erroredDates = res.errors.filter((e) => e.date).map((e) => e.date);
+        const ranges = collapseBlocked([...res.blocked, ...erroredDates]);
         const ics = buildIcal({ wp: unit.wp, title: unit.title, ranges });
         fs.writeFileSync(path.join(OUT, `${unit.wp}.ics`), ics, 'utf8');
         report.written++;
-        index.push({ wp: unit.wp, slug: unit.slug, title: unit.title, blockedRanges: ranges.length, availableCount: counts.available });
-        console.log(`  [${unit.wp}] WROTE blocked=${counts.blocked} available=${counts.available} ranges=${ranges.length}`);
+        index.push({ wp: unit.wp, slug: unit.slug, title: unit.title, blockedRanges: ranges.length, availableCount: counts.available, erroredBlocked: erroredDates.length });
+        console.log(`  [${unit.wp}] WROTE blocked=${counts.blocked} available=${counts.available} errored->blocked=${erroredDates.length} ranges=${ranges.length}`);
       } else {
         // Keep last-good .ics; carry the previous index entry forward if it existed.
         if (prev[unit.wp]) index.push(prev[unit.wp]);
