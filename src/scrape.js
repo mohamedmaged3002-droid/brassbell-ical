@@ -1,5 +1,5 @@
 const { ymd } = require('./dates');
-const { findBlockedPerNight } = require('./probe');
+const { findBlockedPerNight, findBlockedCoarse } = require('./probe');
 const cfg = require('./config');
 
 // Open the property page, trigger the booking calendar, and read property_id + token.
@@ -71,8 +71,11 @@ async function scrapeUnit(context, unit, { startDate }) {
     const { pid, token } = await sniffPidToken(page, url);
     const nights = horizonNights(startDate, cfg.HORIZON_MONTHS);
     const probeRange = makeProbeRange(page, { pid, token });
-    const { blocked, available, errors } = await findBlockedPerNight({
-      startDate, nights, concurrency: cfg.NIGHT_CONCURRENCY, probeRange,
+    // Coarse-to-fine by default (~5x fewer requests → stays under the volume
+    // throttle). Set SCRAPE_MODE=pernight to force the exhaustive per-night probe.
+    const finder = process.env.SCRAPE_MODE === 'pernight' ? findBlockedPerNight : findBlockedCoarse;
+    const { blocked, available, errors } = await finder({
+      startDate, nights, chunk: cfg.COARSE_CHUNK, concurrency: cfg.NIGHT_CONCURRENCY, probeRange,
     });
     return { wp: unit.wp, pid, ok: true, blocked, available, errors };
   } catch (e) {
