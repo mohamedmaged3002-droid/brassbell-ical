@@ -63,8 +63,12 @@ async function main() {
   console.log(`Scraping ${units.length} units, horizon=${nights} nights, unit-concurrency=${cfg.UNIT_CONCURRENCY}`);
 
   const prev = loadPrevIndex();
+  // Seed the index map with all prior entries so a filtered/gap-fill run
+  // preserves units it doesn't touch this pass. Written units overwrite their
+  // entry; skipped units keep their prior (last-good) entry.
+  const indexMap = {};
+  for (const wp of Object.keys(prev)) indexMap[wp] = prev[wp];
   const browser = await chromium.launch({ headless: true });
-  const index = [];
   const report = { startedAt: new Date().toISOString(), nights, written: 0, skipped: [], units: [] };
 
   let idx = 0;
@@ -86,11 +90,10 @@ async function main() {
         const ics = buildIcal({ wp: unit.wp, title: unit.title, ranges });
         fs.writeFileSync(path.join(OUT, `${unit.wp}.ics`), ics, 'utf8');
         report.written++;
-        index.push({ wp: unit.wp, slug: unit.slug, title: unit.title, blockedRanges: ranges.length, availableCount: counts.available, erroredBlocked: erroredDates.length });
+        indexMap[unit.wp] = { wp: unit.wp, slug: unit.slug, title: unit.title, blockedRanges: ranges.length, availableCount: counts.available, erroredBlocked: erroredDates.length };
         console.log(`  [${unit.wp}] WROTE blocked=${counts.blocked} available=${counts.available} errored->blocked=${erroredDates.length} ranges=${ranges.length}`);
       } else {
-        // Keep last-good .ics; carry the previous index entry forward if it existed.
-        if (prev[unit.wp]) index.push(prev[unit.wp]);
+        // Keep last-good .ics and its prior index entry (already seeded in indexMap).
         report.skipped.push({ wp: unit.wp, reason: decision.reason, ...counts });
         console.log(`  [${unit.wp}] SKIP (${decision.reason}) blocked=${counts.blocked} available=${counts.available} errors=${counts.errors}`);
       }
@@ -100,7 +103,7 @@ async function main() {
   await Promise.all(Array.from({ length: cfg.UNIT_CONCURRENCY }, () => worker()));
   await browser.close();
 
-  index.sort((a, b) => a.wp - b.wp);
+  const index = Object.values(indexMap).sort((a, b) => a.wp - b.wp);
   report.finishedAt = new Date().toISOString();
   fs.writeFileSync(path.join(OUT, 'index.json'), JSON.stringify({ updatedAt: report.finishedAt, properties: index }, null, 2));
   fs.writeFileSync(path.join(OUT, 'report.json'), JSON.stringify(report, null, 2));

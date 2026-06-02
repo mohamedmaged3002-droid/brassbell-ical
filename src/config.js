@@ -1,8 +1,10 @@
 // Central tunables. Keep concurrency conservative — brassbell.net is a small site.
 module.exports = {
   HORIZON_MONTHS: 7,          // current month + 6 ahead
-  UNIT_CONCURRENCY: 3,        // units scraped in parallel (each owns a browser context)
-  NIGHT_CONCURRENCY: 6,       // concurrent night-probes within a single unit
+  // Concurrency (env-overridable for tuning). Keep the product low — brassbell.net
+  // rate-limits: UNIT_CONCURRENCY*NIGHT_CONCURRENCY ~18 tripped a throttle mid-run.
+  UNIT_CONCURRENCY: Number(process.env.UNIT_CONCURRENCY) || 2,   // units scraped in parallel (each owns a browser context)
+  NIGHT_CONCURRENCY: Number(process.env.NIGHT_CONCURRENCY) || 5, // concurrent night-probes within a single unit
   PROPERTY_BASE: 'https://www.brassbell.net/property',
   RECEIPT_URL: 'https://www.brassbell.net/requests/',
   PAGES_BASE_URL: 'https://mohamedmaged3002-droid.github.io/brassbell-ical',
