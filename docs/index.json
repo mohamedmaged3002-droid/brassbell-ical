@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-03T17:00:38.853Z",
+  "updatedAt": "2026-06-03T21:07:25.115Z",
   "properties": [
     {
       "wp": 70001,
       "slug": "1-bedroom-royal-suite-king-bed-nile-view",
       "title": "1 Bedroom Royal suite King bed Nile view",
       "blockedRanges": 4,
-      "availableCount": 207,
+      "availableCount": 204,
       "erroredBlocked": 0
     },
     {
@@ -93,8 +93,8 @@
       "wp": 70013,
       "slug": "sh-zayed-aeon-2br-wbalcony-Aeon-2BR-ROOM-167",
       "title": "Sh. Zayed · Aeon 2BR w/Balcony",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 2,
+      "availableCount": 207,
       "erroredBlocked": 0
     },
     {
@@ -166,7 +166,7 @@
       "slug": "shzayed-aeon-towers-studio-w-balcony-AEON-Studio-602",
       "title": "Sh.Zayed Aeon Towers Studio w/ Balcony",
       "blockedRanges": 2,
-      "availableCount": 206,
+      "availableCount": 198,
       "erroredBlocked": 0
     },
     {
@@ -189,8 +189,8 @@
       "wp": 70025,
       "slug": "shzayed-aeon-towers-studio-wkitchen-AEON-Studio-1006",
       "title": "ShZayed Aeon Towers Studio w/Kitchen",
-      "blockedRanges": 2,
-      "availableCount": 203,
+      "blockedRanges": 3,
+      "availableCount": 201,
       "erroredBlocked": 0
     },
     {
@@ -198,7 +198,7 @@
       "slug": "budget-studio",
       "title": "Budget Studio",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -238,7 +238,7 @@
       "slug": "budget-studio-near-tahrir-square-ROOM-059",
       "title": "Budget Studio Near Tahrir Square",
       "blockedRanges": 7,
-      "availableCount": 194,
+      "availableCount": 193,
       "erroredBlocked": 0
     },
     {
@@ -446,7 +446,7 @@
       "slug": "loft-city-view-ROOM-082",
       "title": "Loft City View",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -621,8 +621,8 @@
       "wp": 70080,
       "slug": "one-bedroom-apartment-sea-view-ROOM-089",
       "title": "One Bedroom Apartment Sea View",
-      "blockedRanges": 14,
-      "availableCount": 188,
+      "blockedRanges": 13,
+      "availableCount": 187,
       "erroredBlocked": 0
     },
     {
@@ -941,8 +941,8 @@
       "wp": 70121,
       "slug": "studio-with-garden-view-in-the-center-of-zamalek-ROOM-015",
       "title": "Studio with Garden View In The Center Of Zamalek",
-      "blockedRanges": 3,
-      "availableCount": 205,
+      "blockedRanges": 4,
+      "availableCount": 204,
       "erroredBlocked": 0
     },
     {
@@ -965,16 +965,16 @@
       "wp": 70124,
       "slug": "suite-city-view-ROOM-086",
       "title": "Suite City View",
-      "blockedRanges": 1,
-      "availableCount": 213,
+      "blockedRanges": 2,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
       "wp": 70125,
       "slug": "suite-sea-view-ROOM-087",
       "title": "Suite Sea View",
-      "blockedRanges": 2,
-      "availableCount": 210,
+      "blockedRanges": 1,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
@@ -1093,8 +1093,8 @@
       "wp": 70140,
       "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-098",
       "title": "Two Bedroom Apartment City View In The Center Of Zamalek",
-      "blockedRanges": 4,
-      "availableCount": 206,
+      "blockedRanges": 3,
+      "availableCount": 207,
       "erroredBlocked": 0
     },
     {
