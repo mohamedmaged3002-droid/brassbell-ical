@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T08:45:38.457Z",
+  "updatedAt": "2026-06-06T13:55:08.916Z",
   "properties": [
     {
       "wp": 70001,
@@ -29,16 +29,16 @@
       "wp": 70005,
       "slug": "2-bedroom-suite-king-bed-and-2-twin-beds-nile-view",
       "title": "2 Bedroom suite king bed and 2 Twin beds Nile view",
-      "blockedRanges": 2,
-      "availableCount": 210,
+      "blockedRanges": 1,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
       "wp": 70006,
       "slug": "SJ1BRA",
       "title": "One Bedroom Apartment In The Center Of Downtown Cairo",
-      "blockedRanges": 3,
-      "availableCount": 206,
+      "blockedRanges": 4,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
@@ -61,8 +61,8 @@
       "wp": 70009,
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-905",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 2,
+      "availableCount": 210,
       "erroredBlocked": 0
     },
     {
@@ -77,8 +77,8 @@
       "wp": 70011,
       "slug": "sh-zayed-aeon-1br-w-balcony",
       "title": "Sh. Zayed · Aeon 1BR w/ Balcony",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 197,
       "erroredBlocked": 0
     },
     {
@@ -190,7 +190,7 @@
       "slug": "shzayed-aeon-towers-studio-wkitchen-AEON-Studio-1006",
       "title": "ShZayed Aeon Towers Studio w/Kitchen",
       "blockedRanges": 2,
-      "availableCount": 202,
+      "availableCount": 201,
       "erroredBlocked": 0
     },
     {
@@ -246,7 +246,7 @@
       "slug": "budget-studio-near-the-saudi-embassy-ROOM-147",
       "title": "Budget Studio Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 206,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
@@ -293,8 +293,8 @@
       "wp": 70038,
       "slug": "executive-room-king-bed-city-view-balcony",
       "title": "Executive Room king Bed City view Balcony",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -334,7 +334,7 @@
       "slug": "executive-suite-with-sofa-bed-near-tahrir-square",
       "title": "Executive Suite with Sofa Bed Near Tahrir Square",
       "blockedRanges": 2,
-      "availableCount": 210,
+      "availableCount": 208,
       "erroredBlocked": 0
     },
     {
@@ -342,7 +342,7 @@
       "slug": "high-floor-studio-city-veiw-near-the-saudi-embassy-ROOM-132",
       "title": "High Floor Studio City Veiw Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 205,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
@@ -374,7 +374,7 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-137",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 206,
       "erroredBlocked": 0
     },
     {
@@ -445,8 +445,8 @@
       "wp": 70058,
       "slug": "loft-city-view-ROOM-082",
       "title": "Loft City View",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -462,7 +462,7 @@
       "slug": "nile-view-studio-near-the-saudi-embassy-ROOM-41",
       "title": "Nile View Studio Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 207,
       "erroredBlocked": 0
     },
     {
@@ -477,8 +477,8 @@
       "wp": 70062,
       "slug": "one-bed-apartment-in-the-center-of-zamalek-ROOM-034",
       "title": "One Bed Apartment In The Center Of Zamalek",
-      "blockedRanges": 1,
-      "availableCount": 207,
+      "blockedRanges": 2,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
@@ -501,8 +501,8 @@
       "wp": 70065,
       "slug": "one-bedroom-apartment-ROOM-154-1BR-502",
       "title": "One Bedroom Apartment",
-      "blockedRanges": 4,
-      "availableCount": 192,
+      "blockedRanges": 5,
+      "availableCount": 189,
       "erroredBlocked": 0
     },
     {
@@ -629,8 +629,8 @@
       "wp": 70081,
       "slug": "one-bedroom-apartment-with-balcony-and-city-view-in-the-center-of-downtown-cairo-ROOM-007",
       "title": "One-Bedroom Apartment with Balcony and City View In The Center Of Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 208,
+      "blockedRanges": 2,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
@@ -638,7 +638,7 @@
       "slug": "one-bedroom-apartment-with-balcony-city-view-in-the-center-of-zamalek-ROOM-020",
       "title": "One Bedroom Apartment With Balcony City View In The Center Of Zamalek",
       "blockedRanges": 2,
-      "availableCount": 200,
+      "availableCount": 198,
       "erroredBlocked": 0
     },
     {
@@ -662,7 +662,7 @@
       "slug": "partial-nile-view-studio-near-the-saudi-embassy-ROOM-123",
       "title": "Partial Nile View Studio Near The Saudi Embassy",
       "blockedRanges": 5,
-      "availableCount": 189,
+      "availableCount": 188,
       "erroredBlocked": 0
     },
     {
@@ -693,8 +693,8 @@
       "wp": 70089,
       "slug": "queen-studio-in-the-center-of-downtown-cairo",
       "title": "Queen Studio In The Center Of Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 213,
+      "blockedRanges": 0,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -757,8 +757,8 @@
       "wp": 70097,
       "slug": "standard-room-twin-bed-city-view",
       "title": "Standard Room Twin Bed City View",
-      "blockedRanges": 3,
-      "availableCount": 210,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -821,8 +821,8 @@
       "wp": 70106,
       "slug": "standard-studio-near-tahrir-square-ROOM-062",
       "title": "Standard Studio Near Tahrir Square",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -925,8 +925,8 @@
       "wp": 70119,
       "slug": "studio-twin-bed-garden-view-with-balcony",
       "title": "Studio Twin Bed Garden View with Balcony",
-      "blockedRanges": 1,
-      "availableCount": 213,
+      "blockedRanges": 2,
+      "availableCount": 209,
       "erroredBlocked": 0
     },
     {
@@ -950,7 +950,7 @@
       "slug": "studio-with-kitchenette-and-balcony-next-to-tahrir-square-ROOM-050",
       "title": "Studio With Kitchenette And Balcony Next To Tahrir Square",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -1005,8 +1005,8 @@
       "wp": 70129,
       "slug": "superior-studio-with-balcony-",
       "title": "Superior Studio With Balcony",
-      "blockedRanges": 1,
-      "availableCount": 213,
+      "blockedRanges": 0,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -1069,8 +1069,8 @@
       "wp": 70137,
       "slug": "two-bedroom-apartment-city-view-ROOM-093",
       "title": "Two Bedroom Apartment City view",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
