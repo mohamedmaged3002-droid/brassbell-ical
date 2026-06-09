@@ -33,6 +33,7 @@ function buildIcal({ wp, title, ranges = [] }) {
       // importers use to detect that an event changed.
       `DTSTAMP:${stamp}`,
       `LAST-MODIFIED:${stamp}`,
+      'SEQUENCE:0',
       `DTSTART;VALUE=DATE:${startYmd}`,
       `DTEND;VALUE=DATE:${endYmd}`,
       'SUMMARY:BLOCKED',
