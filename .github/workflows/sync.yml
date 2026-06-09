@@ -39,4 +39,14 @@ jobs:
           git config user.name  "brassbell-ical[bot]"
           git config user.email "brassbell-ical@users.noreply.github.com"
           git add docs/
-          git diff --cached --quiet && echo "No changes" || (git commit -m "chore: sync brassbell ical $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "chore: sync brassbell ical $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # Robust push: a concurrent run (or a manual push) may have moved main.
+          # Retry, integrating remote each time and preferring our freshly-built feeds.
+          for i in 1 2 3 4 5; do
+            git push && { echo "Pushed (attempt $i)."; exit 0; }
+            echo "Push rejected; integrating remote and retrying ($i)..."
+            git fetch origin main
+            git merge -X ours --no-edit origin/main || true
+          done
+          echo "ERROR: push failed after 5 attempts"; exit 1
