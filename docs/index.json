@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T20:17:58.860Z",
+  "updatedAt": "2026-06-09T21:38:45.202Z",
   "properties": [
     {
       "wp": 70001,
@@ -198,7 +198,7 @@
       "slug": "budget-studio",
       "title": "Budget Studio",
       "blockedRanges": 1,
-      "availableCount": 212,
+      "availableCount": 209,
       "erroredBlocked": 0
     },
     {
@@ -237,8 +237,8 @@
       "wp": 70031,
       "slug": "budget-studio-near-tahrir-square-ROOM-059",
       "title": "Budget Studio Near Tahrir Square",
-      "blockedRanges": 7,
-      "availableCount": 184,
+      "blockedRanges": 8,
+      "availableCount": 183,
       "erroredBlocked": 0
     },
     {
@@ -254,7 +254,7 @@
       "slug": "delux-studio-with-balcony-in-the-center-of-zamalek-ROOM-037",
       "title": "Delux Studio With Balcony In The Center Of Zamalek",
       "blockedRanges": 2,
-      "availableCount": 205,
+      "availableCount": 206,
       "erroredBlocked": 0
     },
     {
@@ -333,8 +333,8 @@
       "wp": 70044,
       "slug": "executive-suite-with-sofa-bed-near-tahrir-square",
       "title": "Executive Suite with Sofa Bed Near Tahrir Square",
-      "blockedRanges": 3,
-      "availableCount": 207,
+      "blockedRanges": 4,
+      "availableCount": 206,
       "erroredBlocked": 0
     },
     {
@@ -421,8 +421,8 @@
       "wp": 70055,
       "slug": "king-studio-in-the-center-of-downtown-cairo-ROOM-003",
       "title": "King Studio In The Center Of Downtown Cairo",
-      "blockedRanges": 5,
-      "availableCount": 206,
+      "blockedRanges": 6,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
@@ -709,8 +709,8 @@
       "wp": 70091,
       "slug": "spacious-studio-near-tahrir-square-ROOM-166",
       "title": "Spacious Studio Near Tahrir Square",
-      "blockedRanges": 4,
-      "availableCount": 204,
+      "blockedRanges": 5,
+      "availableCount": 194,
       "erroredBlocked": 0
     },
     {
@@ -742,7 +742,7 @@
       "slug": "standard-room-king-bed-city-view",
       "title": "Standard Room King Bed City View",
       "blockedRanges": 2,
-      "availableCount": 207,
+      "availableCount": 208,
       "erroredBlocked": 0
     },
     {
@@ -757,8 +757,8 @@
       "wp": 70097,
       "slug": "standard-room-twin-bed-city-view",
       "title": "Standard Room Twin Bed City View",
-      "blockedRanges": 1,
-      "availableCount": 212,
+      "blockedRanges": 2,
+      "availableCount": 210,
       "erroredBlocked": 0
     },
     {
@@ -821,8 +821,8 @@
       "wp": 70106,
       "slug": "standard-studio-near-tahrir-square-ROOM-062",
       "title": "Standard Studio Near Tahrir Square",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -877,8 +877,8 @@
       "wp": 70113,
       "slug": "studio-city-view-in-the-center-of-downtown-cairo-ROOM-095",
       "title": "Studio City View In the Center Of Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -886,7 +886,7 @@
       "slug": "studio-city-view-in-the-center-of-zamalek-ROOM-023",
       "title": "Studio city view In The Center Of Zamalek",
       "blockedRanges": 3,
-      "availableCount": 209,
+      "availableCount": 207,
       "erroredBlocked": 0
     },
     {
@@ -982,7 +982,7 @@
       "slug": "suite-with-balcony-",
       "title": "Suite with balcony",
       "blockedRanges": 2,
-      "availableCount": 211,
+      "availableCount": 210,
       "erroredBlocked": 0
     },
     {
@@ -1013,8 +1013,8 @@
       "wp": 70130,
       "slug": "three-bedroom-apartment-city-view-next-to-om-kolthoom-hotel-ROOM-012",
       "title": "Three Bedroom Apartment City view Next to Om Kolthoom Hotel",
-      "blockedRanges": 5,
-      "availableCount": 197,
+      "blockedRanges": 6,
+      "availableCount": 196,
       "erroredBlocked": 0
     },
     {
