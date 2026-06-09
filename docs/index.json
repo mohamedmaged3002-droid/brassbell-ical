@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T03:43:26.788Z",
+  "updatedAt": "2026-06-09T09:54:48.502Z",
   "properties": [
     {
       "wp": 70001,
@@ -206,7 +206,7 @@
       "slug": "budget-studio-",
       "title": "Budget Studio",
       "blockedRanges": 2,
-      "availableCount": 210,
+      "availableCount": 207,
       "erroredBlocked": 0
     },
     {
@@ -254,15 +254,15 @@
       "slug": "delux-studio-with-balcony-in-the-center-of-zamalek-ROOM-037",
       "title": "Delux Studio With Balcony In The Center Of Zamalek",
       "blockedRanges": 2,
-      "availableCount": 206,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
       "wp": 70034,
       "slug": "deluxe-junior-suite-near-tahrir-square-ROOM-162",
       "title": "Deluxe Junior Suite Near Tahrir Square",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -285,8 +285,8 @@
       "wp": 70037,
       "slug": "economy-studio-next-to-tahrir-square-ROOM-048",
       "title": "Economy Studio Next To Tahrir Square",
-      "blockedRanges": 7,
-      "availableCount": 194,
+      "blockedRanges": 8,
+      "availableCount": 192,
       "erroredBlocked": 0
     },
     {
@@ -342,7 +342,7 @@
       "slug": "high-floor-studio-city-veiw-near-the-saudi-embassy-ROOM-132",
       "title": "High Floor Studio City Veiw Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 209,
+      "availableCount": 207,
       "erroredBlocked": 0
     },
     {
@@ -382,7 +382,7 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-138",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 3,
-      "availableCount": 202,
+      "availableCount": 200,
       "erroredBlocked": 0
     },
     {
@@ -421,8 +421,8 @@
       "wp": 70055,
       "slug": "king-studio-in-the-center-of-downtown-cairo-ROOM-003",
       "title": "King Studio In The Center Of Downtown Cairo",
-      "blockedRanges": 6,
-      "availableCount": 205,
+      "blockedRanges": 5,
+      "availableCount": 206,
       "erroredBlocked": 0
     },
     {
@@ -589,8 +589,8 @@
       "wp": 70076,
       "slug": "one-bedroom-apartment-city-view-twin-bed-in-the-center-of-downtown-cairo-ROOM-097",
       "title": "One Bedroom Apartment City View Twin bed In The Center Of Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -742,7 +742,7 @@
       "slug": "standard-room-king-bed-city-view",
       "title": "Standard Room King Bed City View",
       "blockedRanges": 4,
-      "availableCount": 203,
+      "availableCount": 202,
       "erroredBlocked": 0
     },
     {
@@ -758,7 +758,7 @@
       "slug": "standard-room-twin-bed-city-view",
       "title": "Standard Room Twin Bed City View",
       "blockedRanges": 2,
-      "availableCount": 210,
+      "availableCount": 209,
       "erroredBlocked": 0
     },
     {
@@ -798,7 +798,7 @@
       "slug": "standard-studio-in-the-center-of-zamalek-ROOM-032",
       "title": "Standard Studio In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
@@ -830,7 +830,7 @@
       "slug": "standard-studio-queen-bed",
       "title": "Standard Studio Queen bed",
       "blockedRanges": 2,
-      "availableCount": 211,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -942,7 +942,7 @@
       "slug": "studio-with-garden-view-in-the-center-of-zamalek-ROOM-015",
       "title": "Studio with Garden View In The Center Of Zamalek",
       "blockedRanges": 2,
-      "availableCount": 209,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
@@ -1062,7 +1062,7 @@
       "slug": "two-bedroom-apartment-city-view-2BRACV-3SB",
       "title": "Two Bedroom Apartment City View",
       "blockedRanges": 8,
-      "availableCount": 200,
+      "availableCount": 201,
       "erroredBlocked": 0
     },
     {
