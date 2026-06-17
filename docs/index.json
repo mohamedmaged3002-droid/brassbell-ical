@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T04:21:48.025Z",
+  "updatedAt": "2026-06-17T11:08:35.224Z",
   "properties": [
     {
       "wp": 70001,
@@ -101,8 +101,8 @@
       "wp": 70014,
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-407",
       "title": "Sh. Zayed · Aeon Towers 2BR w/ Kitchen",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -125,8 +125,8 @@
       "wp": 70017,
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-1502",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
-      "blockedRanges": 1,
-      "availableCount": 152,
+      "blockedRanges": 2,
+      "availableCount": 151,
       "erroredBlocked": 0
     },
     {
@@ -198,7 +198,7 @@
       "slug": "budget-studio",
       "title": "Budget Studio",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -269,8 +269,8 @@
       "wp": 70035,
       "slug": "deluxe-studio-with-balcony-",
       "title": "Deluxe Studio With Balcony",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 210,
       "erroredBlocked": 0
     },
     {
@@ -462,7 +462,7 @@
       "slug": "nile-view-studio-near-the-saudi-embassy-ROOM-41",
       "title": "Nile View Studio Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 207,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
@@ -566,7 +566,7 @@
       "slug": "one-bedroom-apartment-city-view-king-bed-in-the-center-of-downtown-cairo-ROOM-096",
       "title": "One Bedroom Apartment City View King bed In The Center Of Downtown Cairo",
       "blockedRanges": 1,
-      "availableCount": 211,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -622,7 +622,7 @@
       "slug": "one-bedroom-apartment-sea-view-ROOM-089",
       "title": "One Bedroom Apartment Sea View",
       "blockedRanges": 10,
-      "availableCount": 194,
+      "availableCount": 192,
       "erroredBlocked": 0
     },
     {
@@ -653,8 +653,8 @@
       "wp": 70084,
       "slug": "one-bedroom-suite-city-view-next-to-tahrir-square-ROOM-051",
       "title": "One Bedroom Suite city view Next To Tahrir Square",
-      "blockedRanges": 5,
-      "availableCount": 186,
+      "blockedRanges": 6,
+      "availableCount": 185,
       "erroredBlocked": 0
     },
     {
@@ -669,8 +669,8 @@
       "wp": 70086,
       "slug": "partial-nile-view-studio-near-the-saudi-embassy-ROOM-143",
       "title": "Partial Nile View Studio Near The Saudi Embassy",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -693,16 +693,16 @@
       "wp": 70089,
       "slug": "queen-studio-in-the-center-of-downtown-cairo",
       "title": "Queen Studio In The Center Of Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 212,
+      "blockedRanges": 2,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
       "wp": 70090,
       "slug": "queen-studio-near-tahrir-square",
       "title": "Queen Studio Near Tahrir Square",
-      "blockedRanges": 1,
-      "availableCount": 213,
+      "blockedRanges": 2,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -741,8 +741,8 @@
       "wp": 70095,
       "slug": "standard-room-king-bed-city-view",
       "title": "Standard Room King Bed City View",
-      "blockedRanges": 3,
-      "availableCount": 208,
+      "blockedRanges": 2,
+      "availableCount": 207,
       "erroredBlocked": 0
     },
     {
@@ -781,8 +781,8 @@
       "wp": 70101,
       "slug": "standard-studio-city-view-next-to-tahrir-square",
       "title": "Standard Studio City View Next To Tahrir Square",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -822,7 +822,7 @@
       "slug": "standard-studio-near-tahrir-square-ROOM-062",
       "title": "Standard Studio Near Tahrir Square",
       "blockedRanges": 1,
-      "availableCount": 212,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -862,7 +862,7 @@
       "slug": "studio-city-view-ROOM-084",
       "title": "Studio City View",
       "blockedRanges": 1,
-      "availableCount": 212,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
@@ -990,7 +990,7 @@
       "slug": "suite-with-balcony-in-a-boutique-hotel-with-breakfast",
       "title": "Suite With Balcony In a Boutique Hotel With Breakfast",
       "blockedRanges": 3,
-      "availableCount": 187,
+      "availableCount": 188,
       "erroredBlocked": 0
     },
     {
@@ -1062,7 +1062,7 @@
       "slug": "two-bedroom-apartment-city-view-2BRACV-3SB",
       "title": "Two Bedroom Apartment City View",
       "blockedRanges": 8,
-      "availableCount": 199,
+      "availableCount": 198,
       "erroredBlocked": 0
     },
     {
@@ -1077,8 +1077,8 @@
       "wp": 70138,
       "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-022",
       "title": "Two Bedroom Apartment City view In The Center Of Zamalek",
-      "blockedRanges": 5,
-      "availableCount": 193,
+      "blockedRanges": 6,
+      "availableCount": 191,
       "erroredBlocked": 0
     },
     {
@@ -1102,7 +1102,7 @@
       "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-129",
       "title": "Two Bedroom Apartment City View In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 205,
+      "availableCount": 204,
       "erroredBlocked": 0
     },
     {
@@ -1165,8 +1165,8 @@
       "wp": 70149,
       "slug": "two-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-ROOM-011",
       "title": "Two Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
-      "blockedRanges": 3,
-      "availableCount": 198,
+      "blockedRanges": 4,
+      "availableCount": 194,
       "erroredBlocked": 0
     },
     {
