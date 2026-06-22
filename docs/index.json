@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T17:12:00.614Z",
+  "updatedAt": "2026-06-22T21:00:43.231Z",
   "properties": [
     {
       "wp": 70001,
@@ -21,8 +21,8 @@
       "wp": 70004,
       "slug": "2-bedroom-royal-suite-1-king-bed-and-two-twin-beds",
       "title": "2 Bedroom Royal suite 1 King bed and two twin beds",
-      "blockedRanges": 1,
-      "availableCount": 213,
+      "blockedRanges": 0,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -126,7 +126,7 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-1502",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 2,
-      "availableCount": 151,
+      "availableCount": 148,
       "erroredBlocked": 0
     },
     {
@@ -269,8 +269,8 @@
       "wp": 70035,
       "slug": "deluxe-studio-with-balcony-",
       "title": "Deluxe Studio With Balcony",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 2,
+      "availableCount": 210,
       "erroredBlocked": 0
     },
     {
@@ -421,8 +421,8 @@
       "wp": 70055,
       "slug": "king-studio-in-the-center-of-downtown-cairo-ROOM-003",
       "title": "King Studio In The Center Of Downtown Cairo",
-      "blockedRanges": 7,
-      "availableCount": 203,
+      "blockedRanges": 8,
+      "availableCount": 201,
       "erroredBlocked": 0
     },
     {
@@ -605,8 +605,8 @@
       "wp": 70078,
       "slug": "one-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-052",
       "title": "One Bedroom Apartment In The Center Of Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 213,
+      "blockedRanges": 2,
+      "availableCount": 203,
       "erroredBlocked": 0
     },
     {
@@ -893,8 +893,8 @@
       "wp": 70115,
       "slug": "studio-city-view-near-the-saudi-embassy-ROOM-141",
       "title": "Studio City View Near The Saudi Embassy",
-      "blockedRanges": 3,
-      "availableCount": 202,
+      "blockedRanges": 2,
+      "availableCount": 203,
       "erroredBlocked": 0
     },
     {
@@ -926,7 +926,7 @@
       "slug": "studio-twin-bed-garden-view-with-balcony",
       "title": "Studio Twin Bed Garden View with Balcony",
       "blockedRanges": 2,
-      "availableCount": 209,
+      "availableCount": 207,
       "erroredBlocked": 0
     },
     {
@@ -1021,8 +1021,8 @@
       "wp": 70131,
       "slug": "three-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-054",
       "title": "Three Bedroom Apartment In The Center Of Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 214,
+      "blockedRanges": 1,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -1157,8 +1157,8 @@
       "wp": 70148,
       "slug": "two-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-OMK-95",
       "title": "Two Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
-      "blockedRanges": 2,
-      "availableCount": 206,
+      "blockedRanges": 3,
+      "availableCount": 200,
       "erroredBlocked": 0
     },
     {
