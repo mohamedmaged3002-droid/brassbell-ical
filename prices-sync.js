@@ -13,6 +13,8 @@ const { getSupabase } = require('./src/supabase');
 const { loadBrassbellUnits } = require('./src/units');
 const { scrapeUnitPrices } = require('./src/prices');
 const { getUsdEgp } = require('./src/fx');
+const { diffUnit, buildMessage } = require('./src/changes');
+const { notifyAll } = require('./src/notify');
 const cfg = require('./src/config');
 
 const PRICE_HORIZON_DAYS = Number(process.env.PRICE_HORIZON_DAYS) || 365;
@@ -94,25 +96,46 @@ async function writeUnit(sb, wp, egpByDate, blocked) {
       `Likely site drift or a throttle — refusing to overwrite prices. No DB changes made.`);
   }
 
+  // Convert to EGP and detect changes vs the current live DB (compared in USD) BEFORE writing.
+  const changedUnits = [];
+  for (const { u, r } of okUnits) {
+    const egpByDate = {};
+    for (const [date, usd] of Object.entries(r.prices)) egpByDate[date] = Math.round(usd * FX);
+    u._egp = egpByDate;
+    const { data: existing } = await sb.from('unit_daily_prices')
+      .select('date,price').eq('wp_post_id', u.wp).eq('source', 'brassbell');
+    const oldEgp = {};
+    for (const row of existing || []) oldEgp[row.date] = row.price;
+    const ranges = diffUnit(oldEgp, egpByDate, FX);
+    if (ranges.length) changedUnits.push({ wp: u.wp, title: u.title, area: u.area, code: u.bbSlug, ranges });
+  }
+  const dateStr = new Date().toISOString().slice(0, 10);
+  const msg = buildMessage(changedUnits, { sheetUrl: process.env.SHEET_URL, dateStr });
+  console.log(`Detected price changes on ${changedUnits.length} unit(s) vs current DB.`);
+
   if (DRY_RUN) {
     let totRows = 0;
-    for (const { r } of okUnits) totRows += Object.keys(r.prices).length;
-    console.log(`DRY_RUN: would replace ${okUnits.length} units / ${totRows} priced rows at FX ${FX}. No writes.`);
+    for (const { u } of okUnits) totRows += Object.keys(u._egp).length;
+    console.log(`DRY_RUN: would replace ${okUnits.length} units / ${totRows} priced rows at FX ${FX}. No writes, no notifications.`);
+    if (msg) console.log('\n--- would notify (WhatsApp preview) ---\n' + msg.whatsapp + '\n---------------------------------------');
     return;
   }
 
   // Write each healthy unit (failed/flaky units keep their existing prices).
   let wroteUnits = 0, wroteRows = 0; const writeErrors = [];
   for (const { u, r } of okUnits) {
-    const egpByDate = {};
-    for (const [date, usd] of Object.entries(r.prices)) egpByDate[date] = Math.round(usd * FX);
     try {
-      wroteRows += await writeUnit(sb, u.wp, egpByDate, r.blocked);
+      wroteRows += await writeUnit(sb, u.wp, u._egp, r.blocked);
       wroteUnits += 1;
     } catch (e) {
       writeErrors.push(`wp=${u.wp}: ${String(e).slice(0, 120)}`);
     }
   }
   console.log(`DONE: wrote ${wroteUnits} units / ${wroteRows} EGP rows. skipped(scrape) ${results.length - okUnits.length}. write-errors ${writeErrors.length}`);
+
+  // Notify only after a successful write and only when something actually changed.
+  if (msg && wroteUnits > 0) await notifyAll(msg);
+  else console.log('No price changes vs DB — no notification sent.');
+
   if (writeErrors.length) { console.log(writeErrors.join('\n')); process.exitCode = 1; }
 })().catch((e) => { console.error(String(e)); process.exit(1); });
