@@ -5,6 +5,7 @@
   "main": "sync.js",
   "scripts": {
     "sync": "node sync.js",
+    "prices": "node prices-sync.js",
     "wire": "node wire.js",
     "test": "node --test"
   },
