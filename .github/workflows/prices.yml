@@ -35,6 +35,6 @@ jobs:
           # Email change-alerts (skipped automatically until the secrets are set):
           SMTP_USER: ${{ secrets.SMTP_USER }}                 # Gmail address that sends the alert
           SMTP_PASS: ${{ secrets.SMTP_PASS }}                 # Gmail App Password (not the login password)
-          NOTIFY_EMAIL: 'mohamedmaged1022003@gmail.com'       # where alerts are delivered (comma-separated for several)
+          NOTIFY_EMAIL: 'reservations@bluekeys.co, Youssefelsamanody58@gmail.com, mfikry772007@gmail.com'
           SHEET_URL: 'https://drive.google.com/file/d/1h0QgMkCtIQ6yFtLldvCAVPkuxdvGUEPe/view'
         run: node prices-sync.js
