@@ -1,23 +1,9 @@
-// Push notifications for Brassbell price changes: WhatsApp (CallMeBot) + email (Gmail SMTP).
-// Both are gated on their env vars — if a channel isn't configured, it's skipped (not an error),
-// so the price refresh still succeeds even before the secrets are added.
+// Email notification for Brassbell price changes (Gmail SMTP via nodemailer).
+// Gated on SMTP_USER/SMTP_PASS — if unset, it's skipped (not an error), so the
+// price refresh still runs before the secrets are added.
+// NOTIFY_EMAIL may be a comma-separated list to alert several people.
 let nodemailer;
 try { nodemailer = require('nodemailer'); } catch { nodemailer = null; }
-
-async function notifyWhatsApp(text) {
-  const phone = process.env.CALLMEBOT_PHONE;
-  const key = process.env.CALLMEBOT_APIKEY;
-  if (!phone || !key) { console.log('WhatsApp: skipped (CALLMEBOT_PHONE/CALLMEBOT_APIKEY not set)'); return false; }
-  const url = `https://api.callmebot.com/whatsapp.php?phone=${encodeURIComponent(phone)}`
-    + `&text=${encodeURIComponent(text)}&apikey=${encodeURIComponent(key)}`;
-  try {
-    const res = await fetch(url, { method: 'GET', signal: AbortSignal.timeout(30000) });
-    const body = await res.text();
-    const ok = res.ok && !/error|invalid|not found|apikey/i.test(body);
-    console.log(`WhatsApp: HTTP ${res.status} ${ok ? 'sent' : 'FAILED'} — ${body.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 140)}`);
-    return ok;
-  } catch (e) { console.log('WhatsApp: error', String(e).slice(0, 140)); return false; }
-}
 
 async function notifyEmail(subject, text) {
   const user = process.env.SMTP_USER;
@@ -34,13 +20,10 @@ async function notifyEmail(subject, text) {
 }
 
 async function notifyAll(msg) {
-  if (!msg) return { whatsapp: false, email: false };
-  const [whatsapp, email] = await Promise.all([
-    notifyWhatsApp(msg.whatsapp),
-    notifyEmail(msg.emailSubject, msg.emailBody),
-  ]);
-  console.log(`Notifications: whatsapp=${whatsapp} email=${email}`);
-  return { whatsapp, email };
+  if (!msg) return { email: false };
+  const email = await notifyEmail(msg.emailSubject, msg.emailBody);
+  console.log(`Notifications: email=${email}`);
+  return { email };
 }
 
-module.exports = { notifyWhatsApp, notifyEmail, notifyAll };
+module.exports = { notifyEmail, notifyAll };

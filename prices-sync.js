@@ -117,7 +117,7 @@ async function writeUnit(sb, wp, egpByDate, blocked) {
     let totRows = 0;
     for (const { u } of okUnits) totRows += Object.keys(u._egp).length;
     console.log(`DRY_RUN: would replace ${okUnits.length} units / ${totRows} priced rows at FX ${FX}. No writes, no notifications.`);
-    if (msg) console.log('\n--- would notify (WhatsApp preview) ---\n' + msg.whatsapp + '\n---------------------------------------');
+    if (msg) console.log('\n--- would notify (email preview) ---\n' + msg.emailBody + '\n------------------------------------');
     return;
   }
 

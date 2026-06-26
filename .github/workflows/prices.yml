@@ -32,11 +32,9 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           FX_RATE: '50'   # pinned USD->EGP for the website (operator choice 2026-06-25). Unset to fetch a live rate instead.
           DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
-          # Change notifications (skipped automatically if a channel's secrets are unset):
-          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}     # WhatsApp number incl. country code, e.g. +20xxxxxxxxxx
-          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}   # from the one-time CallMeBot WhatsApp activation
+          # Email change-alerts (skipped automatically until the secrets are set):
           SMTP_USER: ${{ secrets.SMTP_USER }}                 # Gmail address that sends the alert
           SMTP_PASS: ${{ secrets.SMTP_PASS }}                 # Gmail App Password (not the login password)
-          NOTIFY_EMAIL: 'mohamedmaged1022003@gmail.com'       # where alerts are delivered
+          NOTIFY_EMAIL: 'mohamedmaged1022003@gmail.com'       # where alerts are delivered (comma-separated for several)
           SHEET_URL: 'https://drive.google.com/file/d/1h0QgMkCtIQ6yFtLldvCAVPkuxdvGUEPe/view'
         run: node prices-sync.js
