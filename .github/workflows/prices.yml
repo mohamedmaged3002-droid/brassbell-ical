@@ -1,0 +1,40 @@
+name: Sync Brassbell Prices
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # daily at 03:00 UTC
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Scrape + log only, no DB writes'
+        type: boolean
+        default: false
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'   # 22+ has native WebSocket (required by @supabase/supabase-js)
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npx playwright install --with-deps chromium
+
+      - name: Scrape brassbell.net nightly prices and refresh unit_daily_prices
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          FX_RATE: '50'   # pinned USD->EGP for the website (operator choice 2026-06-25). Unset to fetch a live rate instead.
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+          # Email change-alerts (skipped automatically until the secrets are set):
+          SMTP_USER: ${{ secrets.SMTP_USER }}                 # Gmail address that sends the alert
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}                 # Gmail App Password (not the login password)
+          NOTIFY_EMAIL: 'reservations@bluekeys.co, Youssefelsamanody58@gmail.com, mfikry772007@gmail.com'
+          SHEET_URL: 'https://drive.google.com/file/d/1h0QgMkCtIQ6yFtLldvCAVPkuxdvGUEPe/view'
+        run: node prices-sync.js
