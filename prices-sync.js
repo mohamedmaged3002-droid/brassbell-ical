@@ -8,13 +8,13 @@
 // prices; the run aborts without writing if too many units fail or the FX
 // lookup fails — we never wipe good prices with a bad scrape.
 require('dotenv').config();
+const fs = require('fs');
 const { chromium } = require('playwright');
 const { getSupabase } = require('./src/supabase');
 const { loadBrassbellUnits } = require('./src/units');
 const { scrapeUnitPrices } = require('./src/prices');
 const { getUsdEgp } = require('./src/fx');
 const { diffUnit, buildMessage } = require('./src/changes');
-const { notifyAll } = require('./src/notify');
 const cfg = require('./src/config');
 
 const PRICE_HORIZON_DAYS = Number(process.env.PRICE_HORIZON_DAYS) || 365;
@@ -133,9 +133,20 @@ async function writeUnit(sb, wp, egpByDate, blocked) {
   }
   console.log(`DONE: wrote ${wroteUnits} units / ${wroteRows} EGP rows. skipped(scrape) ${results.length - okUnits.length}. write-errors ${writeErrors.length}`);
 
-  // Notify only after a successful write and only when something actually changed.
-  if (msg && wroteUnits > 0) await notifyAll(msg);
-  else console.log('No price changes vs DB — no notification sent.');
+  // Persist artifacts for the downstream workflow steps:
+  //   build-sheet.py reads sheet-data.json -> rebuilds the xlsx -> rclone re-uploads to Drive;
+  //   send-alert.js reads change-message.json -> emails the sheet ONLY when a price changed.
+  fs.mkdirSync('out', { recursive: true });
+  const sheetUnits = okUnits.map(({ u, r }) => ({
+    wp: u.wp, slug: u.slug, bbSlug: u.bbSlug, title: u.title, area: u.area,
+    city: u.city, compound: u.compound, beds: u.beds, baths: u.baths, guests: u.guests,
+    min_nights: u.min_nights, source_url: u.source_url, prices: r.prices, blocked: r.blocked,
+  }));
+  fs.writeFileSync('out/sheet-data.json', JSON.stringify({
+    fx: FX, dateStr, sheetUrl: process.env.SHEET_URL || '', units: sheetUnits,
+  }));
+  fs.writeFileSync('out/change-message.json', JSON.stringify((msg && wroteUnits > 0) ? msg : null));
+  console.log(`Artifacts: out/sheet-data.json (${sheetUnits.length} units), out/change-message.json (${msg && wroteUnits > 0 ? 'CHANGE -> will email' : 'no-change'}).`);
 
   if (writeErrors.length) { console.log(writeErrors.join('\n')); process.exitCode = 1; }
 })().catch((e) => { console.error(String(e)); process.exit(1); });

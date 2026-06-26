@@ -5,3 +5,7 @@ docs/.DS_Store
 units-snapshot.json
 *.log
 tmp-*.js
+
+# price-sync runtime artifacts
+out/
+Brassbell Onboarding OTAs*.xlsx

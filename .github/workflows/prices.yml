@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: 'Scrape + log only, no DB writes'
+        description: 'Scrape + log only, no DB writes / no sheet / no email'
         type: boolean
         default: false
 
@@ -22,19 +22,42 @@ jobs:
           node-version: '22'   # 22+ has native WebSocket (required by @supabase/supabase-js)
           cache: 'npm'
 
-      - run: npm ci
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
+      - run: npm ci
+      - run: pip install --quiet openpyxl
       - run: npx playwright install --with-deps chromium
 
-      - name: Scrape brassbell.net nightly prices and refresh unit_daily_prices
+      - name: Scrape brassbell.net + refresh unit_daily_prices (+ write sheet/change artifacts)
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-          FX_RATE: '50'   # pinned USD->EGP for the website (operator choice 2026-06-25). Unset to fetch a live rate instead.
+          FX_RATE: '50'   # pinned USD->EGP for the website (operator choice 2026-06-25)
           DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
-          # Email change-alerts (skipped automatically until the secrets are set):
-          SMTP_USER: ${{ secrets.SMTP_USER }}                 # Gmail address that sends the alert
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}                 # Gmail App Password (not the login password)
-          NOTIFY_EMAIL: 'reservations@bluekeys.co, Youssefelsamanody58@gmail.com, mfikry772007@gmail.com'
           SHEET_URL: 'https://drive.google.com/file/d/1h0QgMkCtIQ6yFtLldvCAVPkuxdvGUEPe/view'
         run: node prices-sync.js
+
+      - name: Rebuild the OTA price sheet (xlsx)
+        if: ${{ inputs.dry_run != true }}
+        run: python build-sheet.py
+
+      - name: Re-upload the sheet to the same Drive file (keeps the share link current)
+        if: ${{ inputs.dry_run != true }}
+        env:
+          RCLONE_CONFIG_GDRIVE_TYPE: drive
+          RCLONE_CONFIG_GDRIVE_SCOPE: drive
+          RCLONE_CONFIG_GDRIVE_TOKEN: ${{ secrets.RCLONE_GDRIVE_TOKEN }}
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq rclone
+          rclone copyto "Brassbell Onboarding OTAs - Full (iCal, Photos, Price).xlsx" \
+            "gdrive:BlueKeys Photos/Brassbell Onboarding OTAs - Full (iCal, Photos, Price).xlsx" -v
+
+      - name: Email the sheet — only when a price actually changed
+        if: ${{ inputs.dry_run != true }}
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          NOTIFY_EMAIL: 'reservations@bluekeys.co, Youssefelsamanody58@gmail.com, mfikry772007@gmail.com'
+        run: node send-alert.js
