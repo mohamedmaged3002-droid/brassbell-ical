@@ -5,7 +5,7 @@
 let nodemailer;
 try { nodemailer = require('nodemailer'); } catch { nodemailer = null; }
 
-async function notifyEmail(subject, text) {
+async function notifyEmail(subject, text, attachments = []) {
   const user = process.env.SMTP_USER;
   const pass = process.env.SMTP_PASS;
   const to = process.env.NOTIFY_EMAIL || user;
@@ -13,8 +13,8 @@ async function notifyEmail(subject, text) {
   if (!nodemailer) { console.log('Email: skipped (nodemailer not installed)'); return false; }
   try {
     const t = nodemailer.createTransport({ service: 'gmail', auth: { user, pass } });
-    await t.sendMail({ from: `BlueKeys Pricing <${user}>`, to, subject, text });
-    console.log(`Email: sent to ${to}`);
+    await t.sendMail({ from: `BlueKeys Pricing <${user}>`, to, subject, text, attachments });
+    console.log(`Email: sent to ${to}${attachments.length ? ` (+${attachments.length} attachment)` : ''}`);
     return true;
   } catch (e) { console.log('Email: error', String(e).slice(0, 200)); return false; }
 }

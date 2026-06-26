@@ -16,7 +16,7 @@ function slugFromSourceUrl(sourceUrl, fallbackSlug) {
 async function loadBrassbellUnits(sb) {
   const { data, error } = await sb
     .from('units')
-    .select('wp_post_id, slug, title, area, source_url')
+    .select('wp_post_id, slug, title, area, city, compound, beds, baths, guests, min_nights, source_url')
     .eq('source', 'brassbell')
     .eq('status', 'published')
     .order('wp_post_id', { ascending: true });
@@ -27,6 +27,11 @@ async function loadBrassbellUnits(sb) {
     bbSlug: slugFromSourceUrl(u.source_url, u.slug),
     title: u.title || u.slug,
     area: u.area || '',
+    city: u.city || '',
+    compound: u.compound || '',
+    beds: u.beds, baths: u.baths, guests: u.guests,
+    min_nights: u.min_nights,
+    source_url: u.source_url || '',
   }));
 }
 
