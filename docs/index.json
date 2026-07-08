@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-08T02:52:50.087Z",
+  "updatedAt": "2026-07-08T08:39:13.647Z",
   "properties": [
     {
       "wp": 70001,
       "slug": "1-bedroom-royal-suite-king-bed-nile-view",
       "title": "1 Bedroom Royal suite King bed Nile view",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -29,8 +29,8 @@
       "wp": 70005,
       "slug": "2-bedroom-suite-king-bed-and-2-twin-beds-nile-view",
       "title": "2 Bedroom suite king bed and 2 Twin beds Nile view",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -317,8 +317,8 @@
       "wp": 70042,
       "slug": "executive-studio-with-sofa-bed-near-tahrir-square",
       "title": "Executive Studio With Sofa Bed Near Tahrir Square",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -445,8 +445,8 @@
       "wp": 70058,
       "slug": "loft-city-view-ROOM-082",
       "title": "Loft City View",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -645,8 +645,8 @@
       "wp": 70083,
       "slug": "one-bedroom-deluxe-apartment-in-the-center-of-downtown-cairo-ROOM-006",
       "title": "One-Bedroom Deluxe Apartment In The Center Of Downtown Cairo",
-      "blockedRanges": 2,
-      "availableCount": 204,
+      "blockedRanges": 3,
+      "availableCount": 202,
       "erroredBlocked": 0
     },
     {
@@ -781,8 +781,8 @@
       "wp": 70101,
       "slug": "standard-studio-city-view-next-to-tahrir-square",
       "title": "Standard Studio City View Next To Tahrir Square",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -829,8 +829,8 @@
       "wp": 70107,
       "slug": "standard-studio-queen-bed",
       "title": "Standard Studio Queen bed",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -869,8 +869,8 @@
       "wp": 70112,
       "slug": "studio-city-view-in-the-center-of-downtown-cairo-Bid-5020",
       "title": "Studio City View In The Center Of Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -1030,7 +1030,7 @@
       "slug": "three-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-ROOM-013",
       "title": "Three Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
       "blockedRanges": 3,
-      "availableCount": 202,
+      "availableCount": 198,
       "erroredBlocked": 0
     },
     {
