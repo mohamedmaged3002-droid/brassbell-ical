@@ -146,6 +146,9 @@ async function writeUnit(sb, wp, egpByDate, blocked) {
     fx: FX, dateStr, sheetUrl: process.env.SHEET_URL || '', units: sheetUnits,
   }));
   fs.writeFileSync('out/change-message.json', JSON.stringify((msg && wroteUnits > 0) ? msg : null));
+  // Structured changed-units data for build-changes.py -> the "changed units only" xlsx.
+  fs.writeFileSync('out/changed-units.json',
+    JSON.stringify((changedUnits.length && wroteUnits > 0) ? { dateStr, fx: FX, units: changedUnits } : null));
   console.log(`Artifacts: out/sheet-data.json (${sheetUnits.length} units), out/change-message.json (${msg && wroteUnits > 0 ? 'CHANGE -> will email' : 'no-change'}).`);
 
   if (writeErrors.length) { console.log(writeErrors.join('\n')); process.exitCode = 1; }

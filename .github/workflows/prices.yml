@@ -43,6 +43,10 @@ jobs:
         if: ${{ inputs.dry_run != true }}
         run: python build-sheet.py
 
+      - name: Build the "changed units only" sheet (for the email)
+        if: ${{ inputs.dry_run != true }}
+        run: python build-changes.py
+
       - name: Re-upload the sheet to the same Drive file (keeps the share link current)
         if: ${{ inputs.dry_run != true }}
         env:
