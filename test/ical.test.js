@@ -36,7 +36,8 @@ test('buildIcal with no ranges still produces a valid empty calendar', () => {
   assert.match(ics, /END:VCALENDAR\r\n$/);
 });
 
-test('buildIcal embeds the wp id and range start in the UID', () => {
+test('buildIcal embeds the wp id and range start+end in the UID', () => {
   const ics = buildIcal({ wp: 99, title: 'X', ranges: [{ start: '2026-06-02', endExclusive: '2026-06-03' }] });
-  assert.match(ics, /UID:brassbell-99-20260602@bluekeys\.co\r\n/);
+  // UID is range-encoded (start-end) so any change to a range yields a new event (OTA-friendly).
+  assert.match(ics, /UID:brassbell-99-20260602-20260603@bluekeys\.co\r\n/);
 });
