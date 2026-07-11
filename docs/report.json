@@ -1,15 +1,31 @@
 {
-  "startedAt": "2026-07-11T02:39:22.351Z",
+  "startedAt": "2026-07-11T07:56:23.456Z",
   "nights": 215,
-  "written": 142,
+  "written": 140,
   "skipped": [
     {
-      "wp": 70148,
+      "wp": 70063,
       "reason": "low-coverage",
       "ok": true,
       "blocked": 0,
-      "available": 173,
-      "errors": 42
+      "available": 201,
+      "errors": 14
+    },
+    {
+      "wp": 70086,
+      "reason": "low-coverage",
+      "ok": true,
+      "blocked": 2,
+      "available": 199,
+      "errors": 14
+    },
+    {
+      "wp": 70129,
+      "reason": "low-coverage",
+      "ok": true,
+      "blocked": 4,
+      "available": 197,
+      "errors": 14
     },
     {
       "wp": 70149,
@@ -48,8 +64,8 @@
     {
       "wp": 70005,
       "ok": true,
-      "blocked": 2,
-      "available": 213,
+      "blocked": 4,
+      "available": 211,
       "errors": 0,
       "decision": "ok"
     },
@@ -384,8 +400,8 @@
     {
       "wp": 70050,
       "ok": true,
-      "blocked": 4,
-      "available": 211,
+      "blocked": 6,
+      "available": 209,
       "errors": 0,
       "decision": "ok"
     },
@@ -489,9 +505,9 @@
       "wp": 70063,
       "ok": true,
       "blocked": 0,
-      "available": 215,
-      "errors": 0,
-      "decision": "ok"
+      "available": 201,
+      "errors": 14,
+      "decision": "low-coverage"
     },
     {
       "wp": 70064,
@@ -552,8 +568,8 @@
     {
       "wp": 70071,
       "ok": true,
-      "blocked": 0,
-      "available": 215,
+      "blocked": 1,
+      "available": 214,
       "errors": 0,
       "decision": "ok"
     },
@@ -648,8 +664,8 @@
     {
       "wp": 70083,
       "ok": true,
-      "blocked": 11,
-      "available": 204,
+      "blocked": 16,
+      "available": 199,
       "errors": 0,
       "decision": "ok"
     },
@@ -673,9 +689,9 @@
       "wp": 70086,
       "ok": true,
       "blocked": 2,
-      "available": 213,
-      "errors": 0,
-      "decision": "ok"
+      "available": 199,
+      "errors": 14,
+      "decision": "low-coverage"
     },
     {
       "wp": 70087,
@@ -742,14 +758,6 @@
       "decision": "ok"
     },
     {
-      "wp": 70095,
-      "ok": true,
-      "blocked": 6,
-      "available": 209,
-      "errors": 0,
-      "decision": "ok"
-    },
-    {
       "wp": 70096,
       "ok": true,
       "blocked": 0,
@@ -758,10 +766,18 @@
       "decision": "ok"
     },
     {
+      "wp": 70095,
+      "ok": true,
+      "blocked": 6,
+      "available": 209,
+      "errors": 0,
+      "decision": "ok"
+    },
+    {
       "wp": 70098,
       "ok": true,
-      "blocked": 0,
-      "available": 215,
+      "blocked": 1,
+      "available": 214,
       "errors": 0,
       "decision": "ok"
     },
@@ -904,8 +920,8 @@
     {
       "wp": 70117,
       "ok": true,
-      "blocked": 41,
-      "available": 174,
+      "blocked": 46,
+      "available": 169,
       "errors": 0,
       "decision": "ok"
     },
@@ -982,14 +998,6 @@
       "decision": "ok"
     },
     {
-      "wp": 70127,
-      "ok": true,
-      "blocked": 16,
-      "available": 199,
-      "errors": 0,
-      "decision": "ok"
-    },
-    {
       "wp": 70128,
       "ok": true,
       "blocked": 0,
@@ -998,12 +1006,20 @@
       "decision": "ok"
     },
     {
+      "wp": 70127,
+      "ok": true,
+      "blocked": 16,
+      "available": 199,
+      "errors": 0,
+      "decision": "ok"
+    },
+    {
       "wp": 70129,
       "ok": true,
       "blocked": 4,
-      "available": 211,
-      "errors": 0,
-      "decision": "ok"
+      "available": 197,
+      "errors": 14,
+      "decision": "low-coverage"
     },
     {
       "wp": 70130,
@@ -1144,10 +1160,10 @@
     {
       "wp": 70148,
       "ok": true,
-      "blocked": 0,
-      "available": 173,
-      "errors": 42,
-      "decision": "low-coverage"
+      "blocked": 14,
+      "available": 201,
+      "errors": 0,
+      "decision": "ok"
     },
     {
       "wp": 70147,
@@ -1174,5 +1190,5 @@
       "decision": "availability-collapse"
     }
   ],
-  "finishedAt": "2026-07-11T02:49:30.597Z"
+  "finishedAt": "2026-07-11T08:07:42.675Z"
 }

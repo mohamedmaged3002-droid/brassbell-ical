@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T02:49:30.597Z",
+  "updatedAt": "2026-07-11T08:07:42.675Z",
   "properties": [
     {
       "wp": 70001,
@@ -30,7 +30,7 @@
       "slug": "2-bedroom-suite-king-bed-and-2-twin-beds-nile-view",
       "title": "2 Bedroom suite king bed and 2 Twin beds Nile view",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
@@ -381,8 +381,8 @@
       "wp": 70050,
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-138",
       "title": "High Floor Studio City View Near The Saudi Embassy",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 2,
+      "availableCount": 209,
       "erroredBlocked": 0
     },
     {
@@ -549,8 +549,8 @@
       "wp": 70071,
       "slug": "one-bedroom-apartment-city-view-king-bed-in-the-center-of-downtown-cairo-BID-5016-5002",
       "title": "One Bedroom Apartment city View King bed In The Center OF Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -645,8 +645,8 @@
       "wp": 70083,
       "slug": "one-bedroom-deluxe-apartment-in-the-center-of-downtown-cairo-ROOM-006",
       "title": "One-Bedroom Deluxe Apartment In The Center Of Downtown Cairo",
-      "blockedRanges": 2,
-      "availableCount": 204,
+      "blockedRanges": 3,
+      "availableCount": 199,
       "erroredBlocked": 0
     },
     {
@@ -765,8 +765,8 @@
       "wp": 70098,
       "slug": "standard-room-twin-bed-nile-view",
       "title": "Standard Room Twin Bed Nile View",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -909,8 +909,8 @@
       "wp": 70117,
       "slug": "studio-city-view-next-to-om-kolthoom-hotel-ROOM-008",
       "title": "Studio City view Next to Om Kolthoom Hotel",
-      "blockedRanges": 9,
-      "availableCount": 174,
+      "blockedRanges": 8,
+      "availableCount": 169,
       "erroredBlocked": 0
     },
     {
@@ -1158,7 +1158,7 @@
       "slug": "two-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-OMK-95",
       "title": "Two Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
       "blockedRanges": 3,
-      "availableCount": 202,
+      "availableCount": 201,
       "erroredBlocked": 0
     },
     {
