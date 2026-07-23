@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T02:54:43.203Z",
+  "updatedAt": "2026-07-23T08:40:35.939Z",
   "properties": [
     {
       "wp": 70001,
@@ -38,7 +38,7 @@
       "slug": "SJ1BRA",
       "title": "One Bedroom Apartment In The Center Of Downtown Cairo",
       "blockedRanges": 4,
-      "availableCount": 201,
+      "availableCount": 198,
       "erroredBlocked": 0
     },
     {
@@ -62,7 +62,7 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-905",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 209,
+      "availableCount": 208,
       "erroredBlocked": 0
     },
     {
@@ -221,8 +221,8 @@
       "wp": 70029,
       "slug": "budget-studio-in-the-center-of-zamalek-ROOM-014",
       "title": "Budget Studio In The Center Of Zamalek",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -301,8 +301,8 @@
       "wp": 70039,
       "slug": "executive-room-king-bed-nile-view-balcony",
       "title": "Executive Room King Bed Nile view Balcony",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -413,8 +413,8 @@
       "wp": 70054,
       "slug": "king-room-with-balcony-in-the-center-of-downtown-cairo-ROOM-001",
       "title": "King Room With Balcony In The Center Of Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 214,
+      "blockedRanges": 0,
+      "availableCount": 215,
       "erroredBlocked": 0
     },
     {
@@ -550,7 +550,7 @@
       "slug": "one-bedroom-apartment-city-view-king-bed-in-the-center-of-downtown-cairo-BID-5016-5002",
       "title": "One Bedroom Apartment city View King bed In The Center OF Downtown Cairo",
       "blockedRanges": 2,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
@@ -614,7 +614,7 @@
       "slug": "one-bedroom-apartment-partial-nile-view-near-the-saudi-embassy-ROOM-146",
       "title": "One Bedroom Apartment Partial Nile View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 210,
       "erroredBlocked": 0
     },
     {
@@ -669,8 +669,8 @@
       "wp": 70086,
       "slug": "partial-nile-view-studio-near-the-saudi-embassy-ROOM-143",
       "title": "Partial Nile View Studio Near The Saudi Embassy",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -701,8 +701,8 @@
       "wp": 70090,
       "slug": "queen-studio-near-tahrir-square",
       "title": "Queen Studio Near Tahrir Square",
-      "blockedRanges": 1,
-      "availableCount": 214,
+      "blockedRanges": 2,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -757,16 +757,16 @@
       "wp": 70097,
       "slug": "standard-room-twin-bed-city-view",
       "title": "Standard Room Twin Bed City View",
-      "blockedRanges": 7,
-      "availableCount": 190,
+      "blockedRanges": 6,
+      "availableCount": 192,
       "erroredBlocked": 0
     },
     {
       "wp": 70098,
       "slug": "standard-room-twin-bed-nile-view",
       "title": "Standard Room Twin Bed Nile View",
-      "blockedRanges": 1,
-      "availableCount": 214,
+      "blockedRanges": 0,
+      "availableCount": 215,
       "erroredBlocked": 0
     },
     {
@@ -838,7 +838,7 @@
       "slug": "standard-triple-room-king-bed-and-2-twin-bed",
       "title": "Standard triple room king bed and 2 Twin bed",
       "blockedRanges": 2,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
@@ -1037,8 +1037,8 @@
       "wp": 70133,
       "slug": "three-bedrooms-apartment-ROOM-153-3BR",
       "title": "Three Bedrooms Apartment",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
