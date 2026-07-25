@@ -2,8 +2,26 @@ name: Sync Brassbell iCal
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
+    # Every 2 hours, at :23 — NOT :00. Brassbell-direct bookings must reach the
+    # OTAs before they resell the dates, and the whole chain is scrape -> Pages
+    # -> the OTA's own poll. Minute :23 is deliberate: GitHub deprioritises cron
+    # on public repos and the top of the hour is the global stampede; every :00
+    # run in July 2026 started 1h17m-2h38m late, which was as much staleness as
+    # the 6h interval itself. Re-check the real start times before tuning further.
+    - cron: '23 */2 * * *'
   workflow_dispatch:
+
+# Only one job may scrape brassbell.net at a time — the group is deliberately
+# SHARED with prices.yml. The site volume-throttles (see src/config.js: the
+# UNIT*NIGHT product ~18 tripped it), so sync's ~10 in-flight probes on top of
+# a running price scrape would push us over. At the old 6h cadence the two
+# never happened to collide; at 2h they will.
+# cancel-in-progress MUST stay false: a sync firing mid-price-run would
+# otherwise cancel the 30-minute price scrape and its change email. Queueing
+# costs at most one delayed run and GitHub only ever holds one pending run.
+concurrency:
+  group: brassbell-scrape
+  cancel-in-progress: false
 
 jobs:
   sync:

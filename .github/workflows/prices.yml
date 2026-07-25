@@ -10,6 +10,14 @@ on:
         type: boolean
         default: false
 
+# Shared with sync.yml — see the note there. Only one brassbell.net scrape runs
+# at a time; this run waits for an in-flight iCal sync (<=12 min) rather than
+# racing it into the site's volume throttle. Never set cancel-in-progress here:
+# a half-finished price run means no change email that morning.
+concurrency:
+  group: brassbell-scrape
+  cancel-in-progress: false
+
 jobs:
   prices:
     runs-on: ubuntu-latest
