@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T17:38:58.710Z",
+  "updatedAt": "2026-07-25T19:50:07.110Z",
   "properties": [
     {
       "wp": 70001,
@@ -30,7 +30,7 @@
       "slug": "2-bedroom-suite-king-bed-and-2-twin-beds-nile-view",
       "title": "2 Bedroom suite king bed and 2 Twin beds Nile view",
       "blockedRanges": 1,
-      "availableCount": 214,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -158,7 +158,7 @@
       "slug": "sh-zayed-aeon-towers-2br-w-balcony-AEON-2BR-703",
       "title": "Sh. Zayed · Aeon Towers 2BR w/ Balcony",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 206,
       "erroredBlocked": 0
     },
     {
@@ -598,7 +598,7 @@
       "slug": "one-bedroom-apartment-garden-view-in-the-center-of-zamalek-ROOM-016",
       "title": "One Bedroom Apartment Garden View In The Center Of Zamalek",
       "blockedRanges": 2,
-      "availableCount": 204,
+      "availableCount": 203,
       "erroredBlocked": 0
     },
     {
@@ -749,16 +749,16 @@
       "wp": 70096,
       "slug": "standard-room-king-bed-nile-view",
       "title": "Standard Room King Bed Nile View",
-      "blockedRanges": 7,
-      "availableCount": 199,
+      "blockedRanges": 6,
+      "availableCount": 200,
       "erroredBlocked": 0
     },
     {
       "wp": 70097,
       "slug": "standard-room-twin-bed-city-view",
       "title": "Standard Room Twin Bed City View",
-      "blockedRanges": 6,
-      "availableCount": 192,
+      "blockedRanges": 7,
+      "availableCount": 191,
       "erroredBlocked": 0
     },
     {
@@ -1061,8 +1061,8 @@
       "wp": 70136,
       "slug": "two-bedroom-apartment-city-view-2BRACV-3SB",
       "title": "Two Bedroom Apartment City View",
-      "blockedRanges": 7,
-      "availableCount": 202,
+      "blockedRanges": 6,
+      "availableCount": 201,
       "erroredBlocked": 0
     },
     {
@@ -1110,7 +1110,7 @@
       "slug": "two-bedroom-apartment-court-view-in-the-center-of-zamalek-ROOM-130",
       "title": "Two Bedroom Apartment Court View In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -1126,7 +1126,7 @@
       "slug": "two-bedroom-apartment-in-the-center-of-zamalek-ROOM-018",
       "title": "Two Bedroom Apartment In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 214,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
