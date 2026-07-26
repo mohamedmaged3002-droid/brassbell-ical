@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T04:13:47.130Z",
+  "updatedAt": "2026-07-26T07:17:43.097Z",
   "properties": [
     {
       "wp": 70001,
@@ -413,8 +413,8 @@
       "wp": 70054,
       "slug": "king-room-with-balcony-in-the-center-of-downtown-cairo-ROOM-001",
       "title": "King Room With Balcony In The Center Of Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 214,
+      "blockedRanges": 0,
+      "availableCount": 215,
       "erroredBlocked": 0
     },
     {
@@ -549,16 +549,16 @@
       "wp": 70071,
       "slug": "one-bedroom-apartment-city-view-king-bed-in-the-center-of-downtown-cairo-BID-5016-5002",
       "title": "One Bedroom Apartment city View King bed In The Center OF Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 214,
+      "blockedRanges": 2,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
       "wp": 70072,
       "slug": "one-bedroom-apartment-city-view-king-bed-in-the-center-of-downtown-cairo-BID-5019",
       "title": "One Bedroom Apartment City View King bed In The Center OF Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -645,8 +645,8 @@
       "wp": 70083,
       "slug": "one-bedroom-deluxe-apartment-in-the-center-of-downtown-cairo-ROOM-006",
       "title": "One-Bedroom Deluxe Apartment In The Center Of Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 2,
+      "availableCount": 210,
       "erroredBlocked": 0
     },
     {
@@ -1149,8 +1149,8 @@
       "wp": 70147,
       "slug": "two-bedroom-apartment-nile-view-near-ramses-hilton-hotel-ROOM-099",
       "title": "Two Bedroom Apartment Nile View Near Ramses Hilton Hotel",
-      "blockedRanges": 4,
-      "availableCount": 197,
+      "blockedRanges": 5,
+      "availableCount": 193,
       "erroredBlocked": 0
     },
     {
