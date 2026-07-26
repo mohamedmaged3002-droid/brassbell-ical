@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T14:14:57.808Z",
+  "updatedAt": "2026-07-26T15:44:14.426Z",
   "properties": [
     {
       "wp": 70001,
@@ -293,8 +293,8 @@
       "wp": 70038,
       "slug": "executive-room-king-bed-city-view-balcony",
       "title": "Executive Room king Bed City view Balcony",
-      "blockedRanges": 1,
-      "availableCount": 213,
+      "blockedRanges": 0,
+      "availableCount": 215,
       "erroredBlocked": 0
     },
     {
@@ -422,15 +422,15 @@
       "slug": "king-studio-in-the-center-of-downtown-cairo-ROOM-003",
       "title": "King Studio In The Center Of Downtown Cairo",
       "blockedRanges": 6,
-      "availableCount": 206,
+      "availableCount": 205,
       "erroredBlocked": 0
     },
     {
       "wp": 70056,
       "slug": "king-studio-in-the-center-of-zamalek-ROOM-122",
       "title": "King Studio In The Center Of Zamalek",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 2,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -749,16 +749,16 @@
       "wp": 70096,
       "slug": "standard-room-king-bed-nile-view",
       "title": "Standard Room King Bed Nile View",
-      "blockedRanges": 7,
-      "availableCount": 196,
+      "blockedRanges": 6,
+      "availableCount": 197,
       "erroredBlocked": 0
     },
     {
       "wp": 70097,
       "slug": "standard-room-twin-bed-city-view",
       "title": "Standard Room Twin Bed City View",
-      "blockedRanges": 7,
-      "availableCount": 188,
+      "blockedRanges": 8,
+      "availableCount": 187,
       "erroredBlocked": 0
     },
     {
@@ -789,8 +789,8 @@
       "wp": 70102,
       "slug": "standard-studio-in-the-center-of-downtown-cairo-ROOM-079",
       "title": "Standard Studio In The Center Of Downtown Cairo",
-      "blockedRanges": 1,
-      "availableCount": 214,
+      "blockedRanges": 0,
+      "availableCount": 215,
       "erroredBlocked": 0
     },
     {
@@ -821,8 +821,8 @@
       "wp": 70106,
       "slug": "standard-studio-near-tahrir-square-ROOM-062",
       "title": "Standard Studio Near Tahrir Square",
-      "blockedRanges": 1,
-      "availableCount": 214,
+      "blockedRanges": 0,
+      "availableCount": 215,
       "erroredBlocked": 0
     },
     {
@@ -877,8 +877,8 @@
       "wp": 70113,
       "slug": "studio-city-view-in-the-center-of-downtown-cairo-ROOM-095",
       "title": "Studio City View In the Center Of Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -917,8 +917,8 @@
       "wp": 70118,
       "slug": "studio-sea-view-ROOM-085",
       "title": "Studio Sea View",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -965,8 +965,8 @@
       "wp": 70124,
       "slug": "suite-city-view-ROOM-086",
       "title": "Suite City View",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -997,8 +997,8 @@
       "wp": 70128,
       "slug": "superior-apartment-with-city-view-in-the-center-of-downtown-cairo-ROOM-005",
       "title": "Superior Apartment With City View In The Center Of Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -1013,8 +1013,8 @@
       "wp": 70130,
       "slug": "three-bedroom-apartment-city-view-next-to-om-kolthoom-hotel-ROOM-012",
       "title": "Three Bedroom Apartment City view Next to Om Kolthoom Hotel",
-      "blockedRanges": 5,
-      "availableCount": 194,
+      "blockedRanges": 4,
+      "availableCount": 198,
       "erroredBlocked": 0
     },
     {
@@ -1029,8 +1029,8 @@
       "wp": 70132,
       "slug": "three-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-ROOM-013",
       "title": "Three Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
-      "blockedRanges": 5,
-      "availableCount": 187,
+      "blockedRanges": 4,
+      "availableCount": 183,
       "erroredBlocked": 0
     },
     {
@@ -1109,8 +1109,8 @@
       "wp": 70142,
       "slug": "two-bedroom-apartment-court-view-in-the-center-of-zamalek-ROOM-130",
       "title": "Two Bedroom Apartment Court View In The Center Of Zamalek",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 210,
       "erroredBlocked": 0
     },
     {
