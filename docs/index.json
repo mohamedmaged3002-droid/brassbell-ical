@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T20:11:01.252Z",
+  "updatedAt": "2026-07-27T21:43:38.034Z",
   "properties": [
     {
       "wp": 70001,
@@ -30,7 +30,7 @@
       "slug": "2-bedroom-suite-king-bed-and-2-twin-beds-nile-view",
       "title": "2 Bedroom suite king bed and 2 Twin beds Nile view",
       "blockedRanges": 2,
-      "availableCount": 213,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -54,7 +54,7 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-705",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 208,
+      "availableCount": 209,
       "erroredBlocked": 0
     },
     {
@@ -102,7 +102,7 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-407",
       "title": "Sh. Zayed · Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 2,
-      "availableCount": 206,
+      "availableCount": 202,
       "erroredBlocked": 0
     },
     {
@@ -133,8 +133,8 @@
       "wp": 70018,
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-702",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
-      "blockedRanges": 1,
-      "availableCount": 207,
+      "blockedRanges": 2,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -158,7 +158,7 @@
       "slug": "sh-zayed-aeon-towers-2br-w-balcony-AEON-2BR-703",
       "title": "Sh. Zayed · Aeon Towers 2BR w/ Balcony",
       "blockedRanges": 1,
-      "availableCount": 208,
+      "availableCount": 200,
       "erroredBlocked": 0
     },
     {
@@ -406,7 +406,7 @@
       "slug": "high-floor-three-bedroom-apartments-in-the-center-of-zamalek-ROOM-019",
       "title": "High Floor Three Bedroom Apartments In The Center Of Zamalek",
       "blockedRanges": 20,
-      "availableCount": 133,
+      "availableCount": 129,
       "erroredBlocked": 0
     },
     {
@@ -477,8 +477,8 @@
       "wp": 70062,
       "slug": "one-bed-apartment-in-the-center-of-zamalek-ROOM-034",
       "title": "One Bed Apartment In The Center Of Zamalek",
-      "blockedRanges": 1,
-      "availableCount": 212,
+      "blockedRanges": 0,
+      "availableCount": 215,
       "erroredBlocked": 0
     },
     {
@@ -749,8 +749,8 @@
       "wp": 70096,
       "slug": "standard-room-king-bed-nile-view",
       "title": "Standard Room King Bed Nile View",
-      "blockedRanges": 7,
-      "availableCount": 196,
+      "blockedRanges": 6,
+      "availableCount": 197,
       "erroredBlocked": 0
     },
     {
@@ -837,7 +837,7 @@
       "wp": 70108,
       "slug": "standard-triple-room-king-bed-and-2-twin-bed",
       "title": "Standard triple room king bed and 2 Twin bed",
-      "blockedRanges": 1,
+      "blockedRanges": 2,
       "availableCount": 211,
       "erroredBlocked": 0
     },
@@ -909,8 +909,8 @@
       "wp": 70117,
       "slug": "studio-city-view-next-to-om-kolthoom-hotel-ROOM-008",
       "title": "Studio City view Next to Om Kolthoom Hotel",
-      "blockedRanges": 9,
-      "availableCount": 181,
+      "blockedRanges": 10,
+      "availableCount": 177,
       "erroredBlocked": 0
     },
     {
@@ -1070,7 +1070,7 @@
       "slug": "two-bedroom-apartment-city-view-ROOM-093",
       "title": "Two Bedroom Apartment City view",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 209,
       "erroredBlocked": 0
     },
     {
@@ -1149,8 +1149,8 @@
       "wp": 70147,
       "slug": "two-bedroom-apartment-nile-view-near-ramses-hilton-hotel-ROOM-099",
       "title": "Two Bedroom Apartment Nile View Near Ramses Hilton Hotel",
-      "blockedRanges": 5,
-      "availableCount": 193,
+      "blockedRanges": 4,
+      "availableCount": 191,
       "erroredBlocked": 0
     },
     {
