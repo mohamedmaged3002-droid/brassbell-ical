@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T20:07:26.984Z",
+  "updatedAt": "2026-07-28T21:45:30.587Z",
   "properties": [
     {
       "wp": 70001,
@@ -374,7 +374,7 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-137",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 214,
+      "availableCount": 211,
       "erroredBlocked": 0
     },
     {
@@ -382,7 +382,7 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-138",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 211,
+      "availableCount": 208,
       "erroredBlocked": 0
     },
     {
@@ -502,7 +502,7 @@
       "slug": "one-bedroom-apartment-ROOM-154-1BR-502",
       "title": "One Bedroom Apartment",
       "blockedRanges": 5,
-      "availableCount": 194,
+      "availableCount": 193,
       "erroredBlocked": 0
     },
     {
@@ -534,7 +534,7 @@
       "slug": "one-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-024",
       "title": "One Bedroom Apartment City view In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 214,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -566,7 +566,7 @@
       "slug": "one-bedroom-apartment-city-view-king-bed-in-the-center-of-downtown-cairo-ROOM-096",
       "title": "One Bedroom Apartment City View King bed In The Center Of Downtown Cairo",
       "blockedRanges": 1,
-      "availableCount": 212,
+      "availableCount": 214,
       "erroredBlocked": 0
     },
     {
@@ -590,7 +590,7 @@
       "slug": "one-bedroom-apartment-city-view-twin-bed-in-the-center-of-downtown-cairo-ROOM-097",
       "title": "One Bedroom Apartment City View Twin bed In The Center Of Downtown Cairo",
       "blockedRanges": 1,
-      "availableCount": 214,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -894,7 +894,7 @@
       "slug": "studio-city-view-near-the-saudi-embassy-ROOM-141",
       "title": "Studio City View Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 205,
+      "availableCount": 203,
       "erroredBlocked": 0
     },
     {
@@ -918,7 +918,7 @@
       "slug": "studio-sea-view-ROOM-085",
       "title": "Studio Sea View",
       "blockedRanges": 1,
-      "availableCount": 213,
+      "availableCount": 212,
       "erroredBlocked": 0
     },
     {
@@ -957,8 +957,8 @@
       "wp": 70123,
       "slug": "studio-with-sofa-bed-in-the-center-of-downtown-cairo-ROOM-128",
       "title": "Studio With Sofa Bed In The Center Of Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 215,
+      "blockedRanges": 1,
+      "availableCount": 213,
       "erroredBlocked": 0
     },
     {
@@ -1062,7 +1062,7 @@
       "slug": "two-bedroom-apartment-city-view-2BRACV-3SB",
       "title": "Two Bedroom Apartment City View",
       "blockedRanges": 7,
-      "availableCount": 199,
+      "availableCount": 198,
       "erroredBlocked": 0
     },
     {
@@ -1078,7 +1078,7 @@
       "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-022",
       "title": "Two Bedroom Apartment City view In The Center Of Zamalek",
       "blockedRanges": 7,
-      "availableCount": 191,
+      "availableCount": 190,
       "erroredBlocked": 0
     },
     {
@@ -1174,7 +1174,7 @@
       "slug": "two-bedrooms-apartment-ROOM-151-2BR",
       "title": "Two Bedrooms Apartment",
       "blockedRanges": 1,
-      "availableCount": 214,
+      "availableCount": 213,
       "erroredBlocked": 0
     }
   ]
