@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:59:49.197Z",
+  "updatedAt": "2026-07-29T21:26:26.217Z",
   "properties": [
     {
       "wp": 70001,
@@ -373,8 +373,8 @@
       "wp": 70049,
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-137",
       "title": "High Floor Studio City View Near The Saudi Embassy",
-      "blockedRanges": 1,
-      "availableCount": 212,
+      "blockedRanges": 2,
+      "availableCount": 208,
       "erroredBlocked": 0
     },
     {
@@ -1013,8 +1013,8 @@
       "wp": 70130,
       "slug": "three-bedroom-apartment-city-view-next-to-om-kolthoom-hotel-ROOM-012",
       "title": "Three Bedroom Apartment City view Next to Om Kolthoom Hotel",
-      "blockedRanges": 3,
-      "availableCount": 197,
+      "blockedRanges": 4,
+      "availableCount": 194,
       "erroredBlocked": 0
     },
     {
