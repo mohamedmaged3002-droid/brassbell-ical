@@ -1165,9 +1165,11 @@
       "wp": 70149,
       "slug": "two-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-ROOM-011",
       "title": "Two Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
-      "blockedRanges": 4,
-      "availableCount": 192,
-      "erroredBlocked": 0
+      "blockedRanges": 1,
+      "availableCount": 0,
+      "erroredBlocked": 0,
+      "lastWrittenAt": "2026-07-30T02:52:21.939Z",
+      "collapseStreak": 0
     },
     {
       "wp": 70150,

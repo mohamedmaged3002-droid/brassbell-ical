@@ -68,3 +68,10 @@ jobs:
             git merge -X ours --no-edit origin/main || true
           done
           echo "ERROR: push failed after 5 attempts"; exit 1
+
+      # LAST, deliberately: this step FAILS the run when a feed has gone stale, and
+      # it must not be able to cost us the push above (L-062 — outward-facing step
+      # goes last). A red run here means feeds were published fine but at least one
+      # unit is serving months-old availability to the OTAs. See L-074.
+      - name: Alarm on stale feeds
+        run: node check-stale.js

@@ -8,6 +8,7 @@ const { scrapeUnit } = require('./src/scrape');
 const { collapseBlocked } = require('./src/dates');
 const { buildIcal } = require('./src/ical');
 const { shouldWrite } = require('./src/guard');
+const { annotateStaleFeeds } = require('./src/stale');
 const { horizonNights } = require('./src/scrape');
 const cfg = require('./src/config');
 
@@ -90,12 +91,28 @@ async function main() {
         const ics = buildIcal({ wp: unit.wp, title: unit.title, ranges });
         fs.writeFileSync(path.join(OUT, `${unit.wp}.ics`), ics, 'utf8');
         report.written++;
-        indexMap[unit.wp] = { wp: unit.wp, slug: unit.slug, title: unit.title, blockedRanges: ranges.length, availableCount: counts.available, erroredBlocked: erroredDates.length };
-        console.log(`  [${unit.wp}] WROTE blocked=${counts.blocked} available=${counts.available} errored->blocked=${erroredDates.length} ranges=${ranges.length}`);
+        indexMap[unit.wp] = {
+          wp: unit.wp, slug: unit.slug, title: unit.title, blockedRanges: ranges.length,
+          availableCount: counts.available, erroredBlocked: erroredDates.length,
+          // Freshness of THIS feed, and the collapse counter reset. lastWrittenAt is
+          // the only trustworthy age signal: GitHub Pages re-stamps Last-Modified on
+          // every deploy, and index.json's own updatedAt is global, not per-unit.
+          lastWrittenAt: new Date().toISOString(), collapseStreak: 0,
+        };
+        console.log(`  [${unit.wp}] WROTE (${decision.reason}) blocked=${counts.blocked} available=${counts.available} errored->blocked=${erroredDates.length} ranges=${ranges.length}`);
       } else {
-        // Keep last-good .ics and its prior index entry (already seeded in indexMap).
-        report.skipped.push({ wp: unit.wp, reason: decision.reason, ...counts });
-        console.log(`  [${unit.wp}] SKIP (${decision.reason}) blocked=${counts.blocked} available=${counts.available} errors=${counts.errors}`);
+        // Keep the last-good .ics and its prior index entry, but carry the collapse
+        // streak forward — the guard cannot confirm a real off-sale across runs if
+        // the counter it compares against is only ever written on success (L-074).
+        //
+        // Only ever UPDATE an existing entry, never create one: a unit whose first
+        // scrape fails has no .ics on Pages, and inventing an index entry would put
+        // a 404 URL into links.csv and let wire.js wire it into listing_ical — where
+        // a 404 feed reads as fully available (fails open).
+        const priorEntry = prev[unit.wp];
+        if (priorEntry) indexMap[unit.wp] = { ...priorEntry, collapseStreak: decision.collapseStreak };
+        report.skipped.push({ wp: unit.wp, reason: decision.reason, collapseStreak: decision.collapseStreak, ...counts });
+        console.log(`  [${unit.wp}] SKIP (${decision.reason}${decision.collapseStreak ? ` ${decision.collapseStreak}/3` : ''}) blocked=${counts.blocked} available=${counts.available} errors=${counts.errors}`);
       }
     }
     await ctx.close();
@@ -105,6 +122,24 @@ async function main() {
 
   const index = Object.values(indexMap).sort((a, b) => a.wp - b.wp);
   report.finishedAt = new Date().toISOString();
+
+  // Stale-feed verdict (L-074). src/stale.js stays pure so it can be tested;
+  // the operator-facing narration lives here. check-stale.js turns this into a
+  // CI failure, in a step deliberately placed AFTER the commit/push.
+  annotateStaleFeeds(report, index, units, onlyArgs);
+  if (report.filtered) {
+    console.log(`\n(i) filtered run (${onlyArgs.join(', ')}) — no stale-feed verdict; it is only meaningful over the full roster.`);
+  } else {
+    if (report.staleFeeds.length) {
+      console.log(`\n!! ${report.staleFeeds.length} feed(s) not written in >${report.staleFeedHours}h — these serve stale availability to the OTAs:`);
+      for (const s of report.staleFeeds) {
+        console.log(`   [${s.wp}] age=${s.ageHours === null ? 'unknown' : s.ageHours + 'h'} reason=${s.reason} ${s.slug || ''}`);
+      }
+    }
+    if (report.orphanFeeds.length) {
+      console.log(`\n(i) ${report.orphanFeeds.length} indexed feed(s) outside the published roster: ${report.orphanFeeds.join(', ')}`);
+    }
+  }
   fs.writeFileSync(path.join(OUT, 'index.json'), JSON.stringify({ updatedAt: report.finishedAt, properties: index }, null, 2));
   fs.writeFileSync(path.join(OUT, 'report.json'), JSON.stringify(report, null, 2));
 
