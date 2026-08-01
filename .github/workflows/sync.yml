@@ -2,13 +2,25 @@ name: Sync Brassbell iCal
 
 on:
   schedule:
-    # Every 2 hours, at :23 — NOT :00. Brassbell-direct bookings must reach the
-    # OTAs before they resell the dates, and the whole chain is scrape -> Pages
-    # -> the OTA's own poll. Minute :23 is deliberate: GitHub deprioritises cron
-    # on public repos and the top of the hour is the global stampede; every :00
-    # run in July 2026 started 1h17m-2h38m late, which was as much staleness as
-    # the 6h interval itself. Re-check the real start times before tuning further.
-    - cron: '23 */2 * * *'
+    # HOURLY at :23 — NOT :00. Brassbell-direct bookings must reach the OTAs
+    # before they resell the dates, and the whole chain is scrape -> Pages ->
+    # the OTA's own poll. Minute :23 is deliberate: GitHub deprioritises cron on
+    # public repos and the top of the hour is the global stampede.
+    #
+    # 2026-08-01: the :23 offset was MEASURED over 20 scheduled runs and did not
+    # fix the lag — mean gap 3.10h, max 4.46h against the 2h cron, because GitHub
+    # *drops* roughly a third of scheduled runs rather than merely delaying them.
+    # Halving the interval is the lever that survives dropped runs: at hourly we
+    # expect ~14-16 real runs/day (vs ~7-8) and a mean gap near 1.5h.
+    #
+    # Cost: brassbell.net sees ~2x the scrape volume (~3h/day of probing at the
+    # realised run rate, vs ~1.5-2h now). That is the thing to watch — src/config.js
+    # records that a UNIT*NIGHT product ~18 tripped the site's throttle. If we do
+    # trip it the failure is SAFE, not silent: src/guard.js refuses to write on
+    # low-coverage / too-many-errors, so a throttled run keeps the last-good .ics
+    # and names itself in docs/report.json -> skipped[]. Watch that array and the
+    # 'Alarm on stale feeds' step for a week before considering sub-hourly.
+    - cron: '23 * * * *'
   workflow_dispatch:
 
 # Only one job may scrape brassbell.net at a time — the group is deliberately

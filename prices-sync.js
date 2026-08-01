@@ -47,7 +47,13 @@ async function writeUnit(sb, wp, egpByDate, blocked) {
   await sb.from('unit_blocked_dates').delete().eq('wp_post_id', wp).eq('source', 'brassbell');
   const blkRows = blocked.map((date) => ({ wp_post_id: wp, date, source: 'brassbell' }));
   for (const c of chunk(blkRows, 500)) {
-    const { error } = await sb.from('unit_blocked_dates').insert(c);
+    // unit_blocked_dates' PK is (wp_post_id, date) — `source` is NOT in the key (L-050), so a
+    // manual/admin block on the same night collides with a plain insert and kills this workflow
+    // for good. ignoreDuplicates leaves the other writer's row in place: the date stays blocked
+    // either way, which is the only thing that matters here.
+    const { error } = await sb
+      .from('unit_blocked_dates')
+      .upsert(c, { onConflict: 'wp_post_id,date', ignoreDuplicates: true });
     if (error) throw new Error(`insert blocked wp=${wp}: ${error.message}`);
   }
   return priceRows.length;
