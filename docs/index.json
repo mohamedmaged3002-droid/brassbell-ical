@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T11:47:38.859Z",
+  "updatedAt": "2026-08-02T14:13:11.455Z",
   "properties": [
     {
       "wp": 70001,
@@ -8,7 +8,7 @@
       "blockedRanges": 2,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:18.559Z",
+      "lastWrittenAt": "2026-08-02T14:03:09.100Z",
       "collapseStreak": 0
     },
     {
@@ -18,7 +18,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:17.174Z",
+      "lastWrittenAt": "2026-08-02T14:03:06.636Z",
       "collapseStreak": 0
     },
     {
@@ -28,7 +28,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:24.034Z",
+      "lastWrittenAt": "2026-08-02T14:03:13.650Z",
       "collapseStreak": 0
     },
     {
@@ -38,7 +38,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:25.337Z",
+      "lastWrittenAt": "2026-08-02T14:03:16.050Z",
       "collapseStreak": 0
     },
     {
@@ -48,17 +48,17 @@
       "blockedRanges": 5,
       "availableCount": 183,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:34.240Z",
+      "lastWrittenAt": "2026-08-02T14:03:24.980Z",
       "collapseStreak": 0
     },
     {
       "wp": 70007,
       "slug": "6-october-aeon-2br-w-garden-AEON-2BR-G-G3",
       "title": "6 October · Aeon 2BR w/ Garden",
-      "blockedRanges": 1,
-      "availableCount": 208,
+      "blockedRanges": 2,
+      "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:32.963Z",
+      "lastWrittenAt": "2026-08-02T14:03:26.057Z",
       "collapseStreak": 0
     },
     {
@@ -68,7 +68,7 @@
       "blockedRanges": 1,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:41.241Z",
+      "lastWrittenAt": "2026-08-02T14:03:34.414Z",
       "collapseStreak": 0
     },
     {
@@ -78,7 +78,7 @@
       "blockedRanges": 2,
       "availableCount": 194,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:43.167Z",
+      "lastWrittenAt": "2026-08-02T14:03:35.610Z",
       "collapseStreak": 0
     },
     {
@@ -88,7 +88,7 @@
       "blockedRanges": 1,
       "availableCount": 178,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:50.010Z",
+      "lastWrittenAt": "2026-08-02T14:03:44.411Z",
       "collapseStreak": 0
     },
     {
@@ -98,7 +98,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:50.108Z",
+      "lastWrittenAt": "2026-08-02T14:03:42.852Z",
       "collapseStreak": 0
     },
     {
@@ -108,7 +108,7 @@
       "blockedRanges": 2,
       "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:58.111Z",
+      "lastWrittenAt": "2026-08-02T14:03:51.383Z",
       "collapseStreak": 0
     },
     {
@@ -118,7 +118,7 @@
       "blockedRanges": 1,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:38:59.064Z",
+      "lastWrittenAt": "2026-08-02T14:03:54.136Z",
       "collapseStreak": 0
     },
     {
@@ -128,7 +128,7 @@
       "blockedRanges": 2,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:06.738Z",
+      "lastWrittenAt": "2026-08-02T14:04:00.941Z",
       "collapseStreak": 0
     },
     {
@@ -138,7 +138,7 @@
       "blockedRanges": 2,
       "availableCount": 194,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:08.094Z",
+      "lastWrittenAt": "2026-08-02T14:04:04.143Z",
       "collapseStreak": 0
     },
     {
@@ -148,7 +148,7 @@
       "blockedRanges": 2,
       "availableCount": 192,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:15.540Z",
+      "lastWrittenAt": "2026-08-02T14:04:10.981Z",
       "collapseStreak": 0
     },
     {
@@ -158,17 +158,17 @@
       "blockedRanges": 2,
       "availableCount": 179,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:16.839Z",
+      "lastWrittenAt": "2026-08-02T14:04:14.211Z",
       "collapseStreak": 0
     },
     {
       "wp": 70018,
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-702",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
-      "blockedRanges": 1,
-      "availableCount": 205,
+      "blockedRanges": 2,
+      "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:23.311Z",
+      "lastWrittenAt": "2026-08-02T14:04:20.289Z",
       "collapseStreak": 0
     },
     {
@@ -178,7 +178,7 @@
       "blockedRanges": 2,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:24.865Z",
+      "lastWrittenAt": "2026-08-02T14:04:22.973Z",
       "collapseStreak": 0
     },
     {
@@ -188,7 +188,7 @@
       "blockedRanges": 5,
       "availableCount": 186,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:32.206Z",
+      "lastWrittenAt": "2026-08-02T14:04:29.771Z",
       "collapseStreak": 0
     },
     {
@@ -196,9 +196,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-balcony-AEON-2BR-703",
       "title": "Sh. Zayed · Aeon Towers 2BR w/ Balcony",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:32.425Z",
+      "lastWrittenAt": "2026-08-02T14:04:32.806Z",
       "collapseStreak": 0
     },
     {
@@ -208,7 +208,7 @@
       "blockedRanges": 4,
       "availableCount": 196,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:41.541Z",
+      "lastWrittenAt": "2026-08-02T14:04:39.585Z",
       "collapseStreak": 0
     },
     {
@@ -218,7 +218,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:39.603Z",
+      "lastWrittenAt": "2026-08-02T14:04:39.847Z",
       "collapseStreak": 0
     },
     {
@@ -228,7 +228,7 @@
       "blockedRanges": 2,
       "availableCount": 184,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:48.461Z",
+      "lastWrittenAt": "2026-08-02T14:04:49.506Z",
       "collapseStreak": 0
     },
     {
@@ -238,7 +238,7 @@
       "blockedRanges": 4,
       "availableCount": 194,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:50.446Z",
+      "lastWrittenAt": "2026-08-02T14:04:49.905Z",
       "collapseStreak": 0
     },
     {
@@ -248,7 +248,7 @@
       "blockedRanges": 1,
       "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:56.797Z",
+      "lastWrittenAt": "2026-08-02T14:04:58.826Z",
       "collapseStreak": 0
     },
     {
@@ -258,7 +258,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:39:57.573Z",
+      "lastWrittenAt": "2026-08-02T14:04:57.303Z",
       "collapseStreak": 0
     },
     {
@@ -268,7 +268,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:03.826Z",
+      "lastWrittenAt": "2026-08-02T14:05:04.422Z",
       "collapseStreak": 0
     },
     {
@@ -278,7 +278,7 @@
       "blockedRanges": 2,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:05.226Z",
+      "lastWrittenAt": "2026-08-02T14:05:07.164Z",
       "collapseStreak": 0
     },
     {
@@ -288,7 +288,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:10.458Z",
+      "lastWrittenAt": "2026-08-02T14:05:11.158Z",
       "collapseStreak": 0
     },
     {
@@ -298,7 +298,7 @@
       "blockedRanges": 8,
       "availableCount": 198,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:14.210Z",
+      "lastWrittenAt": "2026-08-02T14:05:17.257Z",
       "collapseStreak": 0
     },
     {
@@ -308,7 +308,7 @@
       "blockedRanges": 2,
       "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:19.550Z",
+      "lastWrittenAt": "2026-08-02T14:05:21.168Z",
       "collapseStreak": 0
     },
     {
@@ -327,7 +327,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:22.066Z",
+      "lastWrittenAt": "2026-08-02T14:05:25.432Z",
       "collapseStreak": 0
     },
     {
@@ -337,7 +337,7 @@
       "blockedRanges": 1,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:28.371Z",
+      "lastWrittenAt": "2026-08-02T14:05:30.772Z",
       "collapseStreak": 0
     },
     {
@@ -347,7 +347,7 @@
       "blockedRanges": 5,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:30.642Z",
+      "lastWrittenAt": "2026-08-02T14:05:34.876Z",
       "collapseStreak": 0
     },
     {
@@ -357,7 +357,7 @@
       "blockedRanges": 4,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:36.432Z",
+      "lastWrittenAt": "2026-08-02T14:05:39.628Z",
       "collapseStreak": 0
     },
     {
@@ -367,7 +367,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:36.996Z",
+      "lastWrittenAt": "2026-08-02T14:05:41.126Z",
       "collapseStreak": 0
     },
     {
@@ -377,7 +377,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:43.291Z",
+      "lastWrittenAt": "2026-08-02T14:05:46.775Z",
       "collapseStreak": 0
     },
     {
@@ -387,7 +387,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:43.435Z",
+      "lastWrittenAt": "2026-08-02T14:05:47.919Z",
       "collapseStreak": 0
     },
     {
@@ -397,7 +397,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:50.534Z",
+      "lastWrittenAt": "2026-08-02T14:05:53.978Z",
       "collapseStreak": 0
     },
     {
@@ -407,7 +407,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:50.599Z",
+      "lastWrittenAt": "2026-08-02T14:05:54.887Z",
       "collapseStreak": 0
     },
     {
@@ -417,7 +417,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:58.178Z",
+      "lastWrittenAt": "2026-08-02T14:06:02.075Z",
       "collapseStreak": 0
     },
     {
@@ -434,9 +434,9 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-134",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 208,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:40:58.609Z",
+      "lastWrittenAt": "2026-08-02T14:06:02.494Z",
       "collapseStreak": 0
     },
     {
@@ -456,7 +456,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:06.398Z",
+      "lastWrittenAt": "2026-08-02T14:06:10.651Z",
       "collapseStreak": 0
     },
     {
@@ -466,7 +466,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:13.581Z",
+      "lastWrittenAt": "2026-08-02T14:06:18.065Z",
       "collapseStreak": 0
     },
     {
@@ -476,7 +476,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:13.701Z",
+      "lastWrittenAt": "2026-08-02T14:06:17.987Z",
       "collapseStreak": 0
     },
     {
@@ -486,7 +486,7 @@
       "blockedRanges": 2,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:21.650Z",
+      "lastWrittenAt": "2026-08-02T14:06:26.573Z",
       "collapseStreak": 0
     },
     {
@@ -496,7 +496,7 @@
       "blockedRanges": 1,
       "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:21.669Z",
+      "lastWrittenAt": "2026-08-02T14:06:26.625Z",
       "collapseStreak": 0
     },
     {
@@ -506,7 +506,7 @@
       "blockedRanges": 20,
       "availableCount": 126,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:33.563Z",
+      "lastWrittenAt": "2026-08-02T14:06:40.721Z",
       "collapseStreak": 0
     },
     {
@@ -516,7 +516,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:29.458Z",
+      "lastWrittenAt": "2026-08-02T14:06:34.605Z",
       "collapseStreak": 0
     },
     {
@@ -526,7 +526,7 @@
       "blockedRanges": 4,
       "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:37.599Z",
+      "lastWrittenAt": "2026-08-02T14:06:43.130Z",
       "collapseStreak": 0
     },
     {
@@ -536,7 +536,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:40.559Z",
+      "lastWrittenAt": "2026-08-02T14:06:48.263Z",
       "collapseStreak": 0
     },
     {
@@ -546,17 +546,17 @@
       "blockedRanges": 3,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:45.562Z",
+      "lastWrittenAt": "2026-08-02T14:06:51.448Z",
       "collapseStreak": 0
     },
     {
       "wp": 70058,
       "slug": "loft-city-view-ROOM-082",
       "title": "Loft City View",
-      "blockedRanges": 2,
-      "availableCount": 210,
+      "blockedRanges": 3,
+      "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:48.366Z",
+      "lastWrittenAt": "2026-08-02T14:06:56.556Z",
       "collapseStreak": 0
     },
     {
@@ -566,7 +566,7 @@
       "blockedRanges": 8,
       "availableCount": 197,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:54.592Z",
+      "lastWrittenAt": "2026-08-02T14:07:01.249Z",
       "collapseStreak": 0
     },
     {
@@ -576,7 +576,7 @@
       "blockedRanges": 1,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:41:55.963Z",
+      "lastWrittenAt": "2026-08-02T14:07:04.518Z",
       "collapseStreak": 0
     },
     {
@@ -586,7 +586,7 @@
       "blockedRanges": 3,
       "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:03.401Z",
+      "lastWrittenAt": "2026-08-02T14:07:10.340Z",
       "collapseStreak": 0
     },
     {
@@ -596,7 +596,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:03.194Z",
+      "lastWrittenAt": "2026-08-02T14:07:12.145Z",
       "collapseStreak": 0
     },
     {
@@ -606,17 +606,17 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:10.702Z",
+      "lastWrittenAt": "2026-08-02T14:07:17.928Z",
       "collapseStreak": 0
     },
     {
       "wp": 70064,
       "slug": "one-bedroom-apartment-ROOM-148-1BR",
       "title": "One Bedroom Apartment",
-      "blockedRanges": 3,
-      "availableCount": 206,
+      "blockedRanges": 4,
+      "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:11.002Z",
+      "lastWrittenAt": "2026-08-02T14:07:20.113Z",
       "collapseStreak": 0
     },
     {
@@ -626,7 +626,7 @@
       "blockedRanges": 5,
       "availableCount": 187,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:18.899Z",
+      "lastWrittenAt": "2026-08-02T14:07:27.047Z",
       "collapseStreak": 0
     },
     {
@@ -636,7 +636,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:17.769Z",
+      "lastWrittenAt": "2026-08-02T14:07:27.008Z",
       "collapseStreak": 0
     },
     {
@@ -646,7 +646,7 @@
       "blockedRanges": 1,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:25.364Z",
+      "lastWrittenAt": "2026-08-02T14:07:35.321Z",
       "collapseStreak": 0
     },
     {
@@ -656,7 +656,7 @@
       "blockedRanges": 2,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:26.554Z",
+      "lastWrittenAt": "2026-08-02T14:07:35.501Z",
       "collapseStreak": 0
     },
     {
@@ -664,9 +664,9 @@
       "slug": "one-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-024",
       "title": "One Bedroom Apartment City view In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 211,
+      "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:32.248Z",
+      "lastWrittenAt": "2026-08-02T14:07:42.797Z",
       "collapseStreak": 0
     },
     {
@@ -676,7 +676,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:33.807Z",
+      "lastWrittenAt": "2026-08-02T14:07:43.180Z",
       "collapseStreak": 0
     },
     {
@@ -696,7 +696,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:41.406Z",
+      "lastWrittenAt": "2026-08-02T14:07:51.162Z",
       "collapseStreak": 0
     },
     {
@@ -716,7 +716,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:47.863Z",
+      "lastWrittenAt": "2026-08-02T14:07:58.027Z",
       "collapseStreak": 0
     },
     {
@@ -726,7 +726,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:55.191Z",
+      "lastWrittenAt": "2026-08-02T14:08:05.606Z",
       "collapseStreak": 0
     },
     {
@@ -736,7 +736,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:42:55.768Z",
+      "lastWrittenAt": "2026-08-02T14:08:07.072Z",
       "collapseStreak": 0
     },
     {
@@ -746,7 +746,7 @@
       "blockedRanges": 3,
       "availableCount": 196,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:03.778Z",
+      "lastWrittenAt": "2026-08-02T14:08:14.592Z",
       "collapseStreak": 0
     },
     {
@@ -756,7 +756,7 @@
       "blockedRanges": 4,
       "availableCount": 195,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:04.211Z",
+      "lastWrittenAt": "2026-08-02T14:08:16.629Z",
       "collapseStreak": 0
     },
     {
@@ -766,7 +766,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:10.957Z",
+      "lastWrittenAt": "2026-08-02T14:08:21.927Z",
       "collapseStreak": 0
     },
     {
@@ -774,9 +774,9 @@
       "slug": "one-bedroom-apartment-sea-view-ROOM-089",
       "title": "One Bedroom Apartment Sea View",
       "blockedRanges": 9,
-      "availableCount": 184,
+      "availableCount": 195,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:12.847Z",
+      "lastWrittenAt": "2026-08-02T14:08:25.586Z",
       "collapseStreak": 0
     },
     {
@@ -786,7 +786,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:18.263Z",
+      "lastWrittenAt": "2026-08-02T14:08:30.181Z",
       "collapseStreak": 0
     },
     {
@@ -794,9 +794,9 @@
       "slug": "one-bedroom-apartment-with-balcony-city-view-in-the-center-of-zamalek-ROOM-020",
       "title": "One Bedroom Apartment With Balcony City View In The Center Of Zamalek",
       "blockedRanges": 5,
-      "availableCount": 189,
+      "availableCount": 193,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:21.027Z",
+      "lastWrittenAt": "2026-08-02T14:08:34.944Z",
       "collapseStreak": 0
     },
     {
@@ -806,7 +806,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:25.836Z",
+      "lastWrittenAt": "2026-08-02T14:08:37.737Z",
       "collapseStreak": 0
     },
     {
@@ -816,7 +816,7 @@
       "blockedRanges": 14,
       "availableCount": 160,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:31.269Z",
+      "lastWrittenAt": "2026-08-02T14:08:46.522Z",
       "collapseStreak": 0
     },
     {
@@ -826,7 +826,7 @@
       "blockedRanges": 2,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:33.669Z",
+      "lastWrittenAt": "2026-08-02T14:08:46.028Z",
       "collapseStreak": 0
     },
     {
@@ -836,7 +836,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:37.958Z",
+      "lastWrittenAt": "2026-08-02T14:08:52.657Z",
       "collapseStreak": 0
     },
     {
@@ -846,7 +846,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:40.770Z",
+      "lastWrittenAt": "2026-08-02T14:08:53.971Z",
       "collapseStreak": 0
     },
     {
@@ -856,7 +856,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:44.616Z",
+      "lastWrittenAt": "2026-08-02T14:08:59.211Z",
       "collapseStreak": 0
     },
     {
@@ -866,7 +866,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:47.548Z",
+      "lastWrittenAt": "2026-08-02T14:09:00.921Z",
       "collapseStreak": 0
     },
     {
@@ -876,7 +876,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:51.665Z",
+      "lastWrittenAt": "2026-08-02T14:09:06.269Z",
       "collapseStreak": 0
     },
     {
@@ -886,7 +886,7 @@
       "blockedRanges": 7,
       "availableCount": 194,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:43:55.551Z",
+      "lastWrittenAt": "2026-08-02T14:09:09.825Z",
       "collapseStreak": 0
     },
     {
@@ -896,7 +896,7 @@
       "blockedRanges": 11,
       "availableCount": 172,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:01.420Z",
+      "lastWrittenAt": "2026-08-02T14:09:16.785Z",
       "collapseStreak": 0
     },
     {
@@ -906,7 +906,7 @@
       "blockedRanges": 3,
       "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:03.212Z",
+      "lastWrittenAt": "2026-08-02T14:09:17.938Z",
       "collapseStreak": 0
     },
     {
@@ -916,17 +916,17 @@
       "blockedRanges": 2,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:09.610Z",
+      "lastWrittenAt": "2026-08-02T14:09:25.102Z",
       "collapseStreak": 0
     },
     {
       "wp": 70095,
       "slug": "standard-room-king-bed-city-view",
       "title": "Standard Room King Bed City View",
-      "blockedRanges": 12,
-      "availableCount": 178,
+      "blockedRanges": 13,
+      "availableCount": 174,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:12.471Z",
+      "lastWrittenAt": "2026-08-02T14:09:29.062Z",
       "collapseStreak": 0
     },
     {
@@ -936,7 +936,7 @@
       "blockedRanges": 6,
       "availableCount": 194,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:18.185Z",
+      "lastWrittenAt": "2026-08-02T14:09:34.439Z",
       "collapseStreak": 0
     },
     {
@@ -946,7 +946,7 @@
       "blockedRanges": 7,
       "availableCount": 185,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:21.285Z",
+      "lastWrittenAt": "2026-08-02T14:09:39.062Z",
       "collapseStreak": 0
     },
     {
@@ -956,7 +956,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:24.595Z",
+      "lastWrittenAt": "2026-08-02T14:09:40.690Z",
       "collapseStreak": 0
     },
     {
@@ -966,7 +966,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:27.716Z",
+      "lastWrittenAt": "2026-08-02T14:09:45.540Z",
       "collapseStreak": 0
     },
     {
@@ -976,7 +976,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:31.121Z",
+      "lastWrittenAt": "2026-08-02T14:09:47.317Z",
       "collapseStreak": 0
     },
     {
@@ -986,7 +986,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:35.065Z",
+      "lastWrittenAt": "2026-08-02T14:09:52.679Z",
       "collapseStreak": 0
     },
     {
@@ -1005,7 +1005,7 @@
       "blockedRanges": 2,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:38.464Z",
+      "lastWrittenAt": "2026-08-02T14:09:54.597Z",
       "collapseStreak": 0
     },
     {
@@ -1015,7 +1015,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:42.416Z",
+      "lastWrittenAt": "2026-08-02T14:10:00.694Z",
       "collapseStreak": 0
     },
     {
@@ -1025,7 +1025,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:45.348Z",
+      "lastWrittenAt": "2026-08-02T14:10:02.186Z",
       "collapseStreak": 0
     },
     {
@@ -1035,17 +1035,17 @@
       "blockedRanges": 2,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:49.484Z",
+      "lastWrittenAt": "2026-08-02T14:10:08.421Z",
       "collapseStreak": 0
     },
     {
       "wp": 70108,
       "slug": "standard-triple-room-king-bed-and-2-twin-bed",
       "title": "Standard triple room king bed and 2 Twin bed",
-      "blockedRanges": 4,
-      "availableCount": 204,
+      "blockedRanges": 5,
+      "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:52.975Z",
+      "lastWrittenAt": "2026-08-02T14:10:11.186Z",
       "collapseStreak": 0
     },
     {
@@ -1055,7 +1055,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:44:56.961Z",
+      "lastWrittenAt": "2026-08-02T14:10:16.656Z",
       "collapseStreak": 0
     },
     {
@@ -1065,7 +1065,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:00.924Z",
+      "lastWrittenAt": "2026-08-02T14:10:19.065Z",
       "collapseStreak": 0
     },
     {
@@ -1075,7 +1075,7 @@
       "blockedRanges": 2,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:04.502Z",
+      "lastWrittenAt": "2026-08-02T14:10:24.653Z",
       "collapseStreak": 0
     },
     {
@@ -1085,7 +1085,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:07.909Z",
+      "lastWrittenAt": "2026-08-02T14:10:26.044Z",
       "collapseStreak": 0
     },
     {
@@ -1095,7 +1095,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:11.523Z",
+      "lastWrittenAt": "2026-08-02T14:10:31.733Z",
       "collapseStreak": 0
     },
     {
@@ -1105,17 +1105,17 @@
       "blockedRanges": 3,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:15.314Z",
+      "lastWrittenAt": "2026-08-02T14:10:33.940Z",
       "collapseStreak": 0
     },
     {
       "wp": 70115,
       "slug": "studio-city-view-near-the-saudi-embassy-ROOM-141",
       "title": "Studio City View Near The Saudi Embassy",
-      "blockedRanges": 2,
-      "availableCount": 203,
+      "blockedRanges": 3,
+      "availableCount": 195,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:19.959Z",
+      "lastWrittenAt": "2026-08-02T14:10:40.880Z",
       "collapseStreak": 0
     },
     {
@@ -1125,7 +1125,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:22.480Z",
+      "lastWrittenAt": "2026-08-02T14:10:41.311Z",
       "collapseStreak": 0
     },
     {
@@ -1135,7 +1135,7 @@
       "blockedRanges": 9,
       "availableCount": 178,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:28.657Z",
+      "lastWrittenAt": "2026-08-02T14:10:50.913Z",
       "collapseStreak": 0
     },
     {
@@ -1145,17 +1145,17 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:29.538Z",
+      "lastWrittenAt": "2026-08-02T14:10:48.345Z",
       "collapseStreak": 0
     },
     {
       "wp": 70119,
       "slug": "studio-twin-bed-garden-view-with-balcony",
       "title": "Studio Twin Bed Garden View with Balcony",
-      "blockedRanges": 4,
-      "availableCount": 207,
+      "blockedRanges": 3,
+      "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:35.970Z",
+      "lastWrittenAt": "2026-08-02T14:10:56.490Z",
       "collapseStreak": 0
     },
     {
@@ -1165,7 +1165,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:36.205Z",
+      "lastWrittenAt": "2026-08-02T14:10:57.613Z",
       "collapseStreak": 0
     },
     {
@@ -1175,7 +1175,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:43.152Z",
+      "lastWrittenAt": "2026-08-02T14:11:03.889Z",
       "collapseStreak": 0
     },
     {
@@ -1185,7 +1185,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:42.657Z",
+      "lastWrittenAt": "2026-08-02T14:11:03.979Z",
       "collapseStreak": 0
     },
     {
@@ -1195,7 +1195,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:49.413Z",
+      "lastWrittenAt": "2026-08-02T14:11:10.643Z",
       "collapseStreak": 0
     },
     {
@@ -1203,9 +1203,9 @@
       "slug": "suite-city-view-ROOM-086",
       "title": "Suite City View",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:50.199Z",
+      "lastWrittenAt": "2026-08-02T14:11:11.302Z",
       "collapseStreak": 0
     },
     {
@@ -1215,7 +1215,7 @@
       "blockedRanges": 4,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:56.875Z",
+      "lastWrittenAt": "2026-08-02T14:11:18.172Z",
       "collapseStreak": 0
     },
     {
@@ -1225,17 +1225,17 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:45:56.974Z",
+      "lastWrittenAt": "2026-08-02T14:11:18.121Z",
       "collapseStreak": 0
     },
     {
       "wp": 70127,
       "slug": "suite-with-balcony-in-a-boutique-hotel-with-breakfast",
       "title": "Suite With Balcony In a Boutique Hotel With Breakfast",
-      "blockedRanges": 3,
-      "availableCount": 205,
+      "blockedRanges": 4,
+      "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T07:11:59.206Z",
+      "lastWrittenAt": "2026-08-02T14:11:26.509Z",
       "collapseStreak": 0
     },
     {
@@ -1245,7 +1245,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:03.830Z",
+      "lastWrittenAt": "2026-08-02T14:11:25.006Z",
       "collapseStreak": 0
     },
     {
@@ -1255,7 +1255,7 @@
       "blockedRanges": 2,
       "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:12.459Z",
+      "lastWrittenAt": "2026-08-02T14:11:34.918Z",
       "collapseStreak": 0
     },
     {
@@ -1265,7 +1265,7 @@
       "blockedRanges": 4,
       "availableCount": 195,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:13.063Z",
+      "lastWrittenAt": "2026-08-02T14:11:35.513Z",
       "collapseStreak": 0
     },
     {
@@ -1273,9 +1273,9 @@
       "slug": "three-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-054",
       "title": "Three Bedroom Apartment In The Center Of Downtown Cairo",
       "blockedRanges": 3,
-      "availableCount": 200,
+      "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:19.931Z",
+      "lastWrittenAt": "2026-08-02T14:11:42.784Z",
       "collapseStreak": 0
     },
     {
@@ -1285,7 +1285,7 @@
       "blockedRanges": 5,
       "availableCount": 179,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:21.842Z",
+      "lastWrittenAt": "2026-08-02T14:11:45.036Z",
       "collapseStreak": 0
     },
     {
@@ -1295,7 +1295,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:27.059Z",
+      "lastWrittenAt": "2026-08-02T14:11:50.301Z",
       "collapseStreak": 0
     },
     {
@@ -1305,7 +1305,7 @@
       "blockedRanges": 6,
       "availableCount": 191,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:30.383Z",
+      "lastWrittenAt": "2026-08-02T14:11:54.635Z",
       "collapseStreak": 0
     },
     {
@@ -1315,7 +1315,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:34.492Z",
+      "lastWrittenAt": "2026-08-02T14:11:58.014Z",
       "collapseStreak": 0
     },
     {
@@ -1325,7 +1325,7 @@
       "blockedRanges": 6,
       "availableCount": 195,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:38.519Z",
+      "lastWrittenAt": "2026-08-02T14:12:03.808Z",
       "collapseStreak": 0
     },
     {
@@ -1335,7 +1335,7 @@
       "blockedRanges": 3,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:42.295Z",
+      "lastWrittenAt": "2026-08-02T14:12:06.560Z",
       "collapseStreak": 0
     },
     {
@@ -1345,7 +1345,7 @@
       "blockedRanges": 6,
       "availableCount": 191,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:47.038Z",
+      "lastWrittenAt": "2026-08-02T14:12:13.318Z",
       "collapseStreak": 0
     },
     {
@@ -1355,7 +1355,7 @@
       "blockedRanges": 12,
       "availableCount": 142,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:52.905Z",
+      "lastWrittenAt": "2026-08-02T14:12:19.304Z",
       "collapseStreak": 0
     },
     {
@@ -1365,7 +1365,7 @@
       "blockedRanges": 2,
       "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:46:54.644Z",
+      "lastWrittenAt": "2026-08-02T14:12:21.600Z",
       "collapseStreak": 0
     },
     {
@@ -1375,7 +1375,7 @@
       "blockedRanges": 1,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:00.601Z",
+      "lastWrittenAt": "2026-08-02T14:12:27.406Z",
       "collapseStreak": 0
     },
     {
@@ -1385,17 +1385,17 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:01.397Z",
+      "lastWrittenAt": "2026-08-02T14:12:28.258Z",
       "collapseStreak": 0
     },
     {
       "wp": 70143,
       "slug": "two-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-053",
       "title": "Two Bedroom Apartment In The Center of Downtown Cairo",
-      "blockedRanges": 4,
-      "availableCount": 198,
+      "blockedRanges": 3,
+      "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:08.252Z",
+      "lastWrittenAt": "2026-08-02T14:12:35.589Z",
       "collapseStreak": 0
     },
     {
@@ -1405,7 +1405,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:08.395Z",
+      "lastWrittenAt": "2026-08-02T14:12:35.174Z",
       "collapseStreak": 0
     },
     {
@@ -1415,7 +1415,7 @@
       "blockedRanges": 6,
       "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:16.719Z",
+      "lastWrittenAt": "2026-08-02T14:12:44.361Z",
       "collapseStreak": 0
     },
     {
@@ -1425,7 +1425,7 @@
       "blockedRanges": 3,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:16.457Z",
+      "lastWrittenAt": "2026-08-02T14:12:44.193Z",
       "collapseStreak": 0
     },
     {
@@ -1435,7 +1435,7 @@
       "blockedRanges": 3,
       "availableCount": 198,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:24.576Z",
+      "lastWrittenAt": "2026-08-02T14:12:53.088Z",
       "collapseStreak": 0
     },
     {
@@ -1445,7 +1445,7 @@
       "blockedRanges": 2,
       "availableCount": 198,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:25.558Z",
+      "lastWrittenAt": "2026-08-02T14:12:53.815Z",
       "collapseStreak": 0
     },
     {
@@ -1455,7 +1455,7 @@
       "blockedRanges": 1,
       "availableCount": 0,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:38.820Z",
+      "lastWrittenAt": "2026-08-02T14:13:11.421Z",
       "collapseStreak": 0
     },
     {
@@ -1465,7 +1465,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-02T11:47:32.665Z",
+      "lastWrittenAt": "2026-08-02T14:13:01.344Z",
       "collapseStreak": 0
     }
   ]
