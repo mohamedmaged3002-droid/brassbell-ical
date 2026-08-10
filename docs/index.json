@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T00:02:35.969Z",
+  "updatedAt": "2026-08-10T02:48:41.618Z",
   "properties": [
     {
       "wp": 70001,
@@ -8,7 +8,7 @@
       "blockedRanges": 1,
       "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:05.041Z",
+      "lastWrittenAt": "2026-08-10T02:38:51.241Z",
       "collapseStreak": 0
     },
     {
@@ -18,7 +18,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:02.089Z",
+      "lastWrittenAt": "2026-08-10T02:38:48.429Z",
       "collapseStreak": 0
     },
     {
@@ -28,7 +28,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:08.622Z",
+      "lastWrittenAt": "2026-08-10T02:38:55.061Z",
       "collapseStreak": 0
     },
     {
@@ -38,17 +38,17 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:12.095Z",
+      "lastWrittenAt": "2026-08-10T02:38:57.829Z",
       "collapseStreak": 0
     },
     {
       "wp": 70006,
       "slug": "SJ1BRA",
       "title": "One Bedroom Apartment In The Center Of Downtown Cairo",
-      "blockedRanges": 7,
-      "availableCount": 185,
+      "blockedRanges": 6,
+      "availableCount": 186,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:20.281Z",
+      "lastWrittenAt": "2026-08-10T02:39:05.377Z",
       "collapseStreak": 0
     },
     {
@@ -56,9 +56,9 @@
       "slug": "6-october-aeon-2br-w-garden-AEON-2BR-G-G3",
       "title": "6 October · Aeon 2BR w/ Garden",
       "blockedRanges": 2,
-      "availableCount": 203,
+      "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:22.896Z",
+      "lastWrittenAt": "2026-08-10T02:39:07.606Z",
       "collapseStreak": 0
     },
     {
@@ -66,9 +66,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-705",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:29.726Z",
+      "lastWrittenAt": "2026-08-10T02:39:13.496Z",
       "collapseStreak": 0
     },
     {
@@ -76,9 +76,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-905",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 198,
+      "availableCount": 199,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:33.382Z",
+      "lastWrittenAt": "2026-08-10T02:39:17.654Z",
       "collapseStreak": 0
     },
     {
@@ -86,19 +86,19 @@
       "slug": "sh-zayed-aeon-1br-city-view-AEON-1BR-1111",
       "title": "Sh. Zayed · Aeon 1BR City view",
       "blockedRanges": 1,
-      "availableCount": 185,
+      "availableCount": 186,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:40.119Z",
+      "lastWrittenAt": "2026-08-10T02:39:23.289Z",
       "collapseStreak": 0
     },
     {
       "wp": 70011,
       "slug": "sh-zayed-aeon-1br-w-balcony",
       "title": "Sh. Zayed · Aeon 1BR w/ Balcony",
-      "blockedRanges": 2,
-      "availableCount": 202,
+      "blockedRanges": 1,
+      "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:42.970Z",
+      "lastWrittenAt": "2026-08-10T02:39:27.075Z",
       "collapseStreak": 0
     },
     {
@@ -106,9 +106,9 @@
       "slug": "sh-zayed-aeon-1br-wbalcony-AEON-1BR-206",
       "title": "Sh. Zayed · Aeon 1BR w/Balcony",
       "blockedRanges": 2,
-      "availableCount": 200,
+      "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:50.293Z",
+      "lastWrittenAt": "2026-08-10T02:39:32.377Z",
       "collapseStreak": 0
     },
     {
@@ -116,9 +116,9 @@
       "slug": "sh-zayed-aeon-2br-wbalcony-Aeon-2BR-ROOM-167",
       "title": "Sh. Zayed · Aeon 2BR w/Balcony",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:51.140Z",
+      "lastWrittenAt": "2026-08-10T02:39:35.107Z",
       "collapseStreak": 0
     },
     {
@@ -126,9 +126,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-407",
       "title": "Sh. Zayed · Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 209,
+      "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:52:57.854Z",
+      "lastWrittenAt": "2026-08-10T02:39:40.053Z",
       "collapseStreak": 0
     },
     {
@@ -136,9 +136,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-308-AEON-2BR-308",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 198,
+      "availableCount": 199,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:01.617Z",
+      "lastWrittenAt": "2026-08-10T02:39:45.256Z",
       "collapseStreak": 0
     },
     {
@@ -146,9 +146,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-1501",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 198,
+      "availableCount": 199,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:08.128Z",
+      "lastWrittenAt": "2026-08-10T02:39:50.115Z",
       "collapseStreak": 0
     },
     {
@@ -156,9 +156,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-1502",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 2,
-      "availableCount": 186,
+      "availableCount": 187,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:12.048Z",
+      "lastWrittenAt": "2026-08-10T02:39:55.603Z",
       "collapseStreak": 0
     },
     {
@@ -166,9 +166,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-702",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 208,
+      "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:16.431Z",
+      "lastWrittenAt": "2026-08-10T02:39:57.560Z",
       "collapseStreak": 0
     },
     {
@@ -176,9 +176,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-SL01",
       "title": "Sh. Zayed Aeon Towers 2BR w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 202,
+      "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:21.568Z",
+      "lastWrittenAt": "2026-08-10T02:40:05.312Z",
       "collapseStreak": 0
     },
     {
@@ -186,9 +186,9 @@
       "slug": "sh-zayed-aeon-towers-3br-garden-view-AEON-3BR-907",
       "title": "Sh. Zayed Aeon Towers 3BR Garden View",
       "blockedRanges": 4,
-      "availableCount": 188,
+      "availableCount": 189,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:25.839Z",
+      "lastWrittenAt": "2026-08-10T02:40:07.179Z",
       "collapseStreak": 0
     },
     {
@@ -196,9 +196,9 @@
       "slug": "sh-zayed-aeon-towers-2br-w-balcony-AEON-2BR-703",
       "title": "Sh. Zayed · Aeon Towers 2BR w/ Balcony",
       "blockedRanges": 1,
-      "availableCount": 200,
+      "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:31.854Z",
+      "lastWrittenAt": "2026-08-10T02:40:14.957Z",
       "collapseStreak": 0
     },
     {
@@ -206,9 +206,9 @@
       "slug": "shzayed-aeon-towers-studio-w-balcony-AEON-Studio-602",
       "title": "Sh.Zayed Aeon Towers Studio w/ Balcony",
       "blockedRanges": 3,
-      "availableCount": 197,
+      "availableCount": 198,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:34.524Z",
+      "lastWrittenAt": "2026-08-10T02:40:15.382Z",
       "collapseStreak": 0
     },
     {
@@ -218,7 +218,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:38.595Z",
+      "lastWrittenAt": "2026-08-10T02:40:21.696Z",
       "collapseStreak": 0
     },
     {
@@ -226,9 +226,9 @@
       "slug": "shzayed-aeon-towers-studio-w-kitchen-AEON-Studio-901",
       "title": "ShZayed Aeon Towers Studio w/ Kitchen",
       "blockedRanges": 1,
-      "availableCount": 189,
+      "availableCount": 190,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:44.741Z",
+      "lastWrittenAt": "2026-08-10T02:40:25.439Z",
       "collapseStreak": 0
     },
     {
@@ -236,9 +236,9 @@
       "slug": "shzayed-aeon-towers-studio-wkitchen-AEON-Studio-1006",
       "title": "ShZayed Aeon Towers Studio w/Kitchen",
       "blockedRanges": 3,
-      "availableCount": 199,
+      "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:47.696Z",
+      "lastWrittenAt": "2026-08-10T02:40:30.590Z",
       "collapseStreak": 0
     },
     {
@@ -246,19 +246,19 @@
       "slug": "budget-studio",
       "title": "Budget Studio",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:53.881Z",
+      "lastWrittenAt": "2026-08-10T02:40:33.329Z",
       "collapseStreak": 0
     },
     {
       "wp": 70027,
       "slug": "budget-studio-",
       "title": "Budget Studio",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 0,
+      "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:53:55.483Z",
+      "lastWrittenAt": "2026-08-10T02:40:37.550Z",
       "collapseStreak": 0
     },
     {
@@ -268,7 +268,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:01.923Z",
+      "lastWrittenAt": "2026-08-10T02:40:40.476Z",
       "collapseStreak": 0
     },
     {
@@ -276,9 +276,9 @@
       "slug": "budget-studio-in-the-center-of-zamalek-ROOM-014",
       "title": "Budget Studio In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 206,
+      "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:04.743Z",
+      "lastWrittenAt": "2026-08-10T02:40:45.855Z",
       "collapseStreak": 0
     },
     {
@@ -286,9 +286,9 @@
       "slug": "budget-studio-in-the-central-of-zamalek-ROOM-121",
       "title": "Budget Studio In The Central Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:10.381Z",
+      "lastWrittenAt": "2026-08-10T02:40:47.986Z",
       "collapseStreak": 0
     },
     {
@@ -298,17 +298,17 @@
       "blockedRanges": 7,
       "availableCount": 199,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:14.504Z",
+      "lastWrittenAt": "2026-08-10T02:40:55.265Z",
       "collapseStreak": 0
     },
     {
       "wp": 70032,
       "slug": "budget-studio-near-the-saudi-embassy-ROOM-147",
       "title": "Budget Studio Near The Saudi Embassy",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 0,
+      "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:19.154Z",
+      "lastWrittenAt": "2026-08-10T02:40:55.141Z",
       "collapseStreak": 0
     },
     {
@@ -327,7 +327,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:22.002Z",
+      "lastWrittenAt": "2026-08-10T02:41:02.477Z",
       "collapseStreak": 0
     },
     {
@@ -335,19 +335,19 @@
       "slug": "deluxe-studio-with-balcony-",
       "title": "Deluxe Studio With Balcony",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:27.406Z",
+      "lastWrittenAt": "2026-08-10T02:41:03.526Z",
       "collapseStreak": 0
     },
     {
       "wp": 70036,
       "slug": "economy-studio-near-tahrir-square-ROOM-060",
       "title": "Economy Studio Near Tahrir Square",
-      "blockedRanges": 4,
-      "availableCount": 201,
+      "blockedRanges": 3,
+      "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:30.912Z",
+      "lastWrittenAt": "2026-08-10T02:41:11.710Z",
       "collapseStreak": 0
     },
     {
@@ -355,9 +355,9 @@
       "slug": "economy-studio-next-to-tahrir-square-ROOM-048",
       "title": "Economy Studio Next To Tahrir Square",
       "blockedRanges": 5,
-      "availableCount": 201,
+      "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:37.711Z",
+      "lastWrittenAt": "2026-08-10T02:41:12.130Z",
       "collapseStreak": 0
     },
     {
@@ -367,7 +367,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:37.480Z",
+      "lastWrittenAt": "2026-08-10T02:41:18.274Z",
       "collapseStreak": 0
     },
     {
@@ -377,7 +377,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:44.108Z",
+      "lastWrittenAt": "2026-08-10T02:41:18.622Z",
       "collapseStreak": 0
     },
     {
@@ -387,7 +387,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:44.282Z",
+      "lastWrittenAt": "2026-08-10T02:41:24.983Z",
       "collapseStreak": 0
     },
     {
@@ -397,7 +397,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:51.253Z",
+      "lastWrittenAt": "2026-08-10T02:41:25.630Z",
       "collapseStreak": 0
     },
     {
@@ -407,7 +407,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:51.321Z",
+      "lastWrittenAt": "2026-08-10T02:41:31.980Z",
       "collapseStreak": 0
     },
     {
@@ -415,9 +415,9 @@
       "slug": "executive-suite-with-sofa-bed-near-tahrir-square",
       "title": "Executive Suite with Sofa Bed Near Tahrir Square",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:54:59.751Z",
+      "lastWrittenAt": "2026-08-10T02:41:33.851Z",
       "collapseStreak": 0
     },
     {
@@ -434,9 +434,9 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-134",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 206,
+      "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:00.360Z",
+      "lastWrittenAt": "2026-08-10T02:41:40.094Z",
       "collapseStreak": 0
     },
     {
@@ -444,9 +444,9 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-135",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 208,
+      "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:08.791Z",
+      "lastWrittenAt": "2026-08-10T02:41:41.491Z",
       "collapseStreak": 0
     },
     {
@@ -456,7 +456,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:07.262Z",
+      "lastWrittenAt": "2026-08-10T02:41:46.847Z",
       "collapseStreak": 0
     },
     {
@@ -464,9 +464,9 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-137",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:14.895Z",
+      "lastWrittenAt": "2026-08-10T02:41:48.731Z",
       "collapseStreak": 0
     },
     {
@@ -474,9 +474,9 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-138",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 209,
+      "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:16.389Z",
+      "lastWrittenAt": "2026-08-10T02:41:54.524Z",
       "collapseStreak": 0
     },
     {
@@ -484,9 +484,9 @@
       "slug": "high-floor-studio-city-view-near-the-saudi-embassy-ROOM-139",
       "title": "High Floor Studio City View Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 204,
+      "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:23.293Z",
+      "lastWrittenAt": "2026-08-10T02:41:56.787Z",
       "collapseStreak": 0
     },
     {
@@ -496,7 +496,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:23.222Z",
+      "lastWrittenAt": "2026-08-10T02:42:01.591Z",
       "collapseStreak": 0
     },
     {
@@ -504,9 +504,9 @@
       "slug": "high-floor-three-bedroom-apartments-in-the-center-of-zamalek-ROOM-019",
       "title": "High Floor Three Bedroom Apartments In The Center Of Zamalek",
       "blockedRanges": 20,
-      "availableCount": 123,
+      "availableCount": 124,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:39.384Z",
+      "lastWrittenAt": "2026-08-10T02:42:10.734Z",
       "collapseStreak": 0
     },
     {
@@ -516,7 +516,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:31.535Z",
+      "lastWrittenAt": "2026-08-10T02:42:08.956Z",
       "collapseStreak": 0
     },
     {
@@ -526,7 +526,7 @@
       "blockedRanges": 3,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:40.795Z",
+      "lastWrittenAt": "2026-08-10T02:42:17.794Z",
       "collapseStreak": 0
     },
     {
@@ -536,7 +536,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:48.620Z",
+      "lastWrittenAt": "2026-08-10T02:42:18.596Z",
       "collapseStreak": 0
     },
     {
@@ -553,10 +553,10 @@
       "wp": 70058,
       "slug": "loft-city-view-ROOM-082",
       "title": "Loft City View",
-      "blockedRanges": 2,
-      "availableCount": 210,
+      "blockedRanges": 1,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:55:57.656Z",
+      "lastWrittenAt": "2026-08-10T02:42:26.244Z",
       "collapseStreak": 0
     },
     {
@@ -564,9 +564,9 @@
       "slug": "loft-sea-view-ROOM-083",
       "title": "Loft Sea View",
       "blockedRanges": 11,
-      "availableCount": 196,
+      "availableCount": 197,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:03.642Z",
+      "lastWrittenAt": "2026-08-10T02:42:35.677Z",
       "collapseStreak": 0
     },
     {
@@ -576,7 +576,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:05.075Z",
+      "lastWrittenAt": "2026-08-10T02:42:34.774Z",
       "collapseStreak": 0
     },
     {
@@ -584,29 +584,29 @@
       "slug": "nile-view-suite-near-the-saudi-embassy-ROOM-42",
       "title": "Nile View Suite Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 206,
+      "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:12.424Z",
+      "lastWrittenAt": "2026-08-10T02:42:43.182Z",
       "collapseStreak": 0
     },
     {
       "wp": 70062,
       "slug": "one-bed-apartment-in-the-center-of-zamalek-ROOM-034",
       "title": "One Bed Apartment In The Center Of Zamalek",
-      "blockedRanges": 2,
-      "availableCount": 209,
+      "blockedRanges": 1,
+      "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:13.797Z",
+      "lastWrittenAt": "2026-08-10T02:42:42.895Z",
       "collapseStreak": 0
     },
     {
       "wp": 70063,
       "slug": "one-bedroom-apartment-ROOM-090",
       "title": "One Bedroom Apartment",
-      "blockedRanges": 2,
-      "availableCount": 209,
+      "blockedRanges": 1,
+      "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:21.024Z",
+      "lastWrittenAt": "2026-08-10T02:42:50.987Z",
       "collapseStreak": 0
     },
     {
@@ -614,19 +614,19 @@
       "slug": "one-bedroom-apartment-ROOM-148-1BR",
       "title": "One Bedroom Apartment",
       "blockedRanges": 3,
-      "availableCount": 203,
+      "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:23.864Z",
+      "lastWrittenAt": "2026-08-10T02:42:52.123Z",
       "collapseStreak": 0
     },
     {
       "wp": 70065,
       "slug": "one-bedroom-apartment-ROOM-154-1BR-502",
       "title": "One Bedroom Apartment",
-      "blockedRanges": 5,
-      "availableCount": 191,
+      "blockedRanges": 4,
+      "availableCount": 192,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:31.578Z",
+      "lastWrittenAt": "2026-08-10T02:43:00.703Z",
       "collapseStreak": 0
     },
     {
@@ -636,7 +636,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:31.660Z",
+      "lastWrittenAt": "2026-08-10T02:42:59.099Z",
       "collapseStreak": 0
     },
     {
@@ -644,19 +644,19 @@
       "slug": "one-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-017",
       "title": "One Bedroom Apartment City View In The Center Of Zamalek",
       "blockedRanges": 2,
-      "availableCount": 208,
+      "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:40.452Z",
+      "lastWrittenAt": "2026-08-10T02:43:07.298Z",
       "collapseStreak": 0
     },
     {
       "wp": 70068,
       "slug": "one-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-021",
       "title": "One Bedroom Apartment city view In The Center Of Zamalek",
-      "blockedRanges": 2,
-      "availableCount": 208,
+      "blockedRanges": 1,
+      "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:40.252Z",
+      "lastWrittenAt": "2026-08-10T02:43:08.124Z",
       "collapseStreak": 0
     },
     {
@@ -664,9 +664,9 @@
       "slug": "one-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-024",
       "title": "One Bedroom Apartment City view In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:48.622Z",
+      "lastWrittenAt": "2026-08-10T02:43:15.678Z",
       "collapseStreak": 0
     },
     {
@@ -676,17 +676,17 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:47.693Z",
+      "lastWrittenAt": "2026-08-10T02:43:15.367Z",
       "collapseStreak": 0
     },
     {
       "wp": 70071,
       "slug": "one-bedroom-apartment-city-view-king-bed-in-the-center-of-downtown-cairo-BID-5016-5002",
       "title": "One Bedroom Apartment city View King bed In The Center OF Downtown Cairo",
-      "blockedRanges": 0,
-      "availableCount": 212,
+      "blockedRanges": 1,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:54.751Z",
+      "lastWrittenAt": "2026-08-10T02:43:23.232Z",
       "collapseStreak": 0
     },
     {
@@ -696,7 +696,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:56:56.045Z",
+      "lastWrittenAt": "2026-08-10T02:43:22.908Z",
       "collapseStreak": 0
     },
     {
@@ -706,7 +706,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:02.002Z",
+      "lastWrittenAt": "2026-08-10T02:43:30.057Z",
       "collapseStreak": 0
     },
     {
@@ -714,9 +714,9 @@
       "slug": "one-bedroom-apartment-city-view-next-to-om-kolthoom-hotel-ROOM-009",
       "title": "One Bedroom Apartment City View Next to Om Kolthoom Hotel",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:03.654Z",
+      "lastWrittenAt": "2026-08-10T02:43:30.369Z",
       "collapseStreak": 0
     },
     {
@@ -726,7 +726,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:09.035Z",
+      "lastWrittenAt": "2026-08-10T02:43:37.630Z",
       "collapseStreak": 0
     },
     {
@@ -736,7 +736,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:10.692Z",
+      "lastWrittenAt": "2026-08-10T02:43:37.868Z",
       "collapseStreak": 0
     },
     {
@@ -746,7 +746,7 @@
       "blockedRanges": 2,
       "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:18.734Z",
+      "lastWrittenAt": "2026-08-10T02:43:46.787Z",
       "collapseStreak": 0
     },
     {
@@ -754,9 +754,9 @@
       "slug": "one-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-052",
       "title": "One Bedroom Apartment In The Center Of Downtown Cairo",
       "blockedRanges": 4,
-      "availableCount": 189,
+      "availableCount": 190,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:20.962Z",
+      "lastWrittenAt": "2026-08-10T02:43:48.029Z",
       "collapseStreak": 0
     },
     {
@@ -764,19 +764,19 @@
       "slug": "one-bedroom-apartment-partial-nile-view-near-the-saudi-embassy-ROOM-146",
       "title": "One Bedroom Apartment Partial Nile View Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:26.160Z",
+      "lastWrittenAt": "2026-08-10T02:43:54.049Z",
       "collapseStreak": 0
     },
     {
       "wp": 70080,
       "slug": "one-bedroom-apartment-sea-view-ROOM-089",
       "title": "One Bedroom Apartment Sea View",
-      "blockedRanges": 10,
-      "availableCount": 191,
+      "blockedRanges": 9,
+      "availableCount": 192,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:30.821Z",
+      "lastWrittenAt": "2026-08-10T02:43:56.820Z",
       "collapseStreak": 0
     },
     {
@@ -786,7 +786,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:32.954Z",
+      "lastWrittenAt": "2026-08-10T02:44:01.361Z",
       "collapseStreak": 0
     },
     {
@@ -794,9 +794,9 @@
       "slug": "one-bedroom-apartment-with-balcony-city-view-in-the-center-of-zamalek-ROOM-020",
       "title": "One Bedroom Apartment With Balcony City View In The Center Of Zamalek",
       "blockedRanges": 5,
-      "availableCount": 192,
+      "availableCount": 193,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:40.770Z",
+      "lastWrittenAt": "2026-08-10T02:44:06.228Z",
       "collapseStreak": 0
     },
     {
@@ -806,7 +806,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:39.693Z",
+      "lastWrittenAt": "2026-08-10T02:44:08.240Z",
       "collapseStreak": 0
     },
     {
@@ -814,9 +814,9 @@
       "slug": "one-bedroom-suite-city-view-next-to-tahrir-square-ROOM-051",
       "title": "One Bedroom Suite city view Next To Tahrir Square",
       "blockedRanges": 12,
-      "availableCount": 171,
+      "availableCount": 172,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:51.676Z",
+      "lastWrittenAt": "2026-08-10T02:44:17.549Z",
       "collapseStreak": 0
     },
     {
@@ -824,9 +824,9 @@
       "slug": "partial-nile-view-studio-near-the-saudi-embassy-ROOM-123",
       "title": "Partial Nile View Studio Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 205,
+      "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:49.184Z",
+      "lastWrittenAt": "2026-08-10T02:44:16.382Z",
       "collapseStreak": 0
     },
     {
@@ -834,19 +834,19 @@
       "slug": "partial-nile-view-studio-near-the-saudi-embassy-ROOM-143",
       "title": "Partial Nile View Studio Near The Saudi Embassy",
       "blockedRanges": 1,
-      "availableCount": 208,
+      "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:57.561Z",
+      "lastWrittenAt": "2026-08-10T02:44:23.959Z",
       "collapseStreak": 0
     },
     {
       "wp": 70087,
       "slug": "partial-nile-view-studio-near-the-saudi-embassy-ROOM-144",
       "title": "Partial Nile View Studio Near The Saudi Embassy",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 0,
+      "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:57:59.098Z",
+      "lastWrittenAt": "2026-08-10T02:44:24.184Z",
       "collapseStreak": 0
     },
     {
@@ -856,7 +856,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:04.278Z",
+      "lastWrittenAt": "2026-08-10T02:44:30.825Z",
       "collapseStreak": 0
     },
     {
@@ -866,7 +866,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:06.592Z",
+      "lastWrittenAt": "2026-08-10T02:44:31.203Z",
       "collapseStreak": 0
     },
     {
@@ -876,7 +876,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:11.073Z",
+      "lastWrittenAt": "2026-08-10T02:44:37.659Z",
       "collapseStreak": 0
     },
     {
@@ -886,7 +886,7 @@
       "blockedRanges": 7,
       "availableCount": 194,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:15.610Z",
+      "lastWrittenAt": "2026-08-10T02:44:41.002Z",
       "collapseStreak": 0
     },
     {
@@ -894,9 +894,9 @@
       "slug": "spacious-suite-in-a-boutique-hotel-with-breakfast-ROOM-027",
       "title": "Spacious Suite In a Boutique Hotel With Breakfast",
       "blockedRanges": 11,
-      "availableCount": 180,
+      "availableCount": 181,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:21.969Z",
+      "lastWrittenAt": "2026-08-10T02:44:47.998Z",
       "collapseStreak": 0
     },
     {
@@ -904,19 +904,19 @@
       "slug": "spacious-suite-in-the-center-of-zamalek-ROOM-038",
       "title": "Spacious Suite In The Center Of Zamalek",
       "blockedRanges": 7,
-      "availableCount": 195,
+      "availableCount": 196,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:26.322Z",
+      "lastWrittenAt": "2026-08-10T02:44:50.343Z",
       "collapseStreak": 0
     },
     {
       "wp": 70094,
       "slug": "standard-room-in-a-boutique-hotel-with-breakfast-ROOM-026",
       "title": "Standard room In a Boutique Hotel With Breakfast",
-      "blockedRanges": 2,
-      "availableCount": 209,
+      "blockedRanges": 1,
+      "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:30.058Z",
+      "lastWrittenAt": "2026-08-10T02:44:56.471Z",
       "collapseStreak": 0
     },
     {
@@ -924,9 +924,9 @@
       "slug": "standard-room-king-bed-city-view",
       "title": "Standard Room King Bed City View",
       "blockedRanges": 11,
-      "availableCount": 175,
+      "availableCount": 176,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:38.337Z",
+      "lastWrittenAt": "2026-08-10T02:45:01.435Z",
       "collapseStreak": 0
     },
     {
@@ -936,7 +936,7 @@
       "blockedRanges": 6,
       "availableCount": 194,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:39.786Z",
+      "lastWrittenAt": "2026-08-10T02:45:05.367Z",
       "collapseStreak": 0
     },
     {
@@ -946,7 +946,7 @@
       "blockedRanges": 8,
       "availableCount": 184,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:49.033Z",
+      "lastWrittenAt": "2026-08-10T02:45:11.699Z",
       "collapseStreak": 0
     },
     {
@@ -956,7 +956,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:46.195Z",
+      "lastWrittenAt": "2026-08-10T02:45:11.778Z",
       "collapseStreak": 0
     },
     {
@@ -966,7 +966,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:52.879Z",
+      "lastWrittenAt": "2026-08-10T02:45:18.451Z",
       "collapseStreak": 0
     },
     {
@@ -976,7 +976,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:58:55.773Z",
+      "lastWrittenAt": "2026-08-10T02:45:18.730Z",
       "collapseStreak": 0
     },
     {
@@ -986,7 +986,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:01.798Z",
+      "lastWrittenAt": "2026-08-10T02:45:25.784Z",
       "collapseStreak": 0
     },
     {
@@ -1002,10 +1002,10 @@
       "wp": 70104,
       "slug": "standard-studio-in-the-center-of-zamalek-ROOM-033",
       "title": "Standard Studio In The Center Of Zamalek",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 0,
+      "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:03.057Z",
+      "lastWrittenAt": "2026-08-10T02:45:25.618Z",
       "collapseStreak": 0
     },
     {
@@ -1015,7 +1015,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:09.243Z",
+      "lastWrittenAt": "2026-08-10T02:45:32.471Z",
       "collapseStreak": 0
     },
     {
@@ -1025,7 +1025,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:10.061Z",
+      "lastWrittenAt": "2026-08-10T02:45:32.899Z",
       "collapseStreak": 0
     },
     {
@@ -1035,7 +1035,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:18.256Z",
+      "lastWrittenAt": "2026-08-10T02:45:40.533Z",
       "collapseStreak": 0
     },
     {
@@ -1045,27 +1045,27 @@
       "blockedRanges": 4,
       "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:17.913Z",
+      "lastWrittenAt": "2026-08-10T02:45:40.826Z",
       "collapseStreak": 0
     },
     {
       "wp": 70109,
       "slug": "standard-with-balcony-in-a-boutique-hotel-with-breakfast",
       "title": "Standard With Balcony in a Boutique Hotel With Breakfast",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 0,
+      "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:25.342Z",
+      "lastWrittenAt": "2026-08-10T02:45:47.219Z",
       "collapseStreak": 0
     },
     {
       "wp": 70110,
       "slug": "studio-city-veiw-near-the-saudi-embassy-ROOM-40",
       "title": "Studio city veiw Near The Saudi Embassy",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 0,
+      "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:25.794Z",
+      "lastWrittenAt": "2026-08-10T02:45:47.661Z",
       "collapseStreak": 0
     },
     {
@@ -1075,7 +1075,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:32.423Z",
+      "lastWrittenAt": "2026-08-10T02:45:54.026Z",
       "collapseStreak": 0
     },
     {
@@ -1085,7 +1085,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:32.923Z",
+      "lastWrittenAt": "2026-08-10T02:45:54.749Z",
       "collapseStreak": 0
     },
     {
@@ -1095,7 +1095,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:39.544Z",
+      "lastWrittenAt": "2026-08-10T02:46:01.258Z",
       "collapseStreak": 0
     },
     {
@@ -1103,9 +1103,9 @@
       "slug": "studio-city-view-in-the-center-of-zamalek-ROOM-023",
       "title": "Studio city view In The Center Of Zamalek",
       "blockedRanges": 4,
-      "availableCount": 202,
+      "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:41.093Z",
+      "lastWrittenAt": "2026-08-10T02:46:02.785Z",
       "collapseStreak": 0
     },
     {
@@ -1113,9 +1113,9 @@
       "slug": "studio-city-view-near-the-saudi-embassy-ROOM-141",
       "title": "Studio City View Near The Saudi Embassy",
       "blockedRanges": 2,
-      "availableCount": 201,
+      "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:49.164Z",
+      "lastWrittenAt": "2026-08-10T02:46:10.546Z",
       "collapseStreak": 0
     },
     {
@@ -1125,7 +1125,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:47.838Z",
+      "lastWrittenAt": "2026-08-10T02:46:09.502Z",
       "collapseStreak": 0
     },
     {
@@ -1133,29 +1133,29 @@
       "slug": "studio-city-view-next-to-om-kolthoom-hotel-ROOM-008",
       "title": "Studio City view Next to Om Kolthoom Hotel",
       "blockedRanges": 11,
-      "availableCount": 162,
+      "availableCount": 161,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:02.110Z",
+      "lastWrittenAt": "2026-08-10T02:46:21.283Z",
       "collapseStreak": 0
     },
     {
       "wp": 70118,
       "slug": "studio-sea-view-ROOM-085",
       "title": "Studio Sea View",
-      "blockedRanges": 3,
-      "availableCount": 205,
+      "blockedRanges": 2,
+      "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-09T23:59:57.681Z",
+      "lastWrittenAt": "2026-08-10T02:46:19.582Z",
       "collapseStreak": 0
     },
     {
       "wp": 70119,
       "slug": "studio-twin-bed-garden-view-with-balcony",
       "title": "Studio Twin Bed Garden View with Balcony",
-      "blockedRanges": 4,
-      "availableCount": 205,
+      "blockedRanges": 3,
+      "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:07.199Z",
+      "lastWrittenAt": "2026-08-10T02:46:27.428Z",
       "collapseStreak": 0
     },
     {
@@ -1165,17 +1165,17 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:10.466Z",
+      "lastWrittenAt": "2026-08-10T02:46:28.047Z",
       "collapseStreak": 0
     },
     {
       "wp": 70121,
       "slug": "studio-with-garden-view-in-the-center-of-zamalek-ROOM-015",
       "title": "Studio with Garden View In The Center Of Zamalek",
-      "blockedRanges": 1,
-      "availableCount": 211,
+      "blockedRanges": 0,
+      "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:14.497Z",
+      "lastWrittenAt": "2026-08-10T02:46:34.041Z",
       "collapseStreak": 0
     },
     {
@@ -1185,7 +1185,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:18.343Z",
+      "lastWrittenAt": "2026-08-10T02:46:34.568Z",
       "collapseStreak": 0
     },
     {
@@ -1193,9 +1193,9 @@
       "slug": "studio-with-sofa-bed-in-the-center-of-downtown-cairo-ROOM-128",
       "title": "Studio With Sofa Bed In The Center Of Downtown Cairo",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:22.337Z",
+      "lastWrittenAt": "2026-08-10T02:46:41.263Z",
       "collapseStreak": 0
     },
     {
@@ -1203,19 +1203,19 @@
       "slug": "suite-city-view-ROOM-086",
       "title": "Suite City View",
       "blockedRanges": 4,
-      "availableCount": 198,
+      "availableCount": 199,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:27.837Z",
+      "lastWrittenAt": "2026-08-10T02:46:43.442Z",
       "collapseStreak": 0
     },
     {
       "wp": 70125,
       "slug": "suite-sea-view-ROOM-087",
       "title": "Suite Sea View",
-      "blockedRanges": 5,
-      "availableCount": 204,
+      "blockedRanges": 4,
+      "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:30.885Z",
+      "lastWrittenAt": "2026-08-10T02:46:49.170Z",
       "collapseStreak": 0
     },
     {
@@ -1225,7 +1225,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:34.483Z",
+      "lastWrittenAt": "2026-08-10T02:46:50.073Z",
       "collapseStreak": 0
     },
     {
@@ -1233,9 +1233,9 @@
       "slug": "suite-with-balcony-in-a-boutique-hotel-with-breakfast",
       "title": "Suite With Balcony In a Boutique Hotel With Breakfast",
       "blockedRanges": 5,
-      "availableCount": 194,
+      "availableCount": 195,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:40.737Z",
+      "lastWrittenAt": "2026-08-10T02:46:58.385Z",
       "collapseStreak": 0
     },
     {
@@ -1245,7 +1245,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:42.384Z",
+      "lastWrittenAt": "2026-08-10T02:46:57.808Z",
       "collapseStreak": 0
     },
     {
@@ -1253,9 +1253,9 @@
       "slug": "superior-studio-with-balcony-",
       "title": "Superior Studio With Balcony",
       "blockedRanges": 1,
-      "availableCount": 207,
+      "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:49.821Z",
+      "lastWrittenAt": "2026-08-10T02:47:05.826Z",
       "collapseStreak": 0
     },
     {
@@ -1263,9 +1263,9 @@
       "slug": "three-bedroom-apartment-city-view-next-to-om-kolthoom-hotel-ROOM-012",
       "title": "Three Bedroom Apartment City view Next to Om Kolthoom Hotel",
       "blockedRanges": 5,
-      "availableCount": 188,
+      "availableCount": 189,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:51.755Z",
+      "lastWrittenAt": "2026-08-10T02:47:07.666Z",
       "collapseStreak": 0
     },
     {
@@ -1275,7 +1275,7 @@
       "blockedRanges": 2,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:00:58.725Z",
+      "lastWrittenAt": "2026-08-10T02:47:13.311Z",
       "collapseStreak": 0
     },
     {
@@ -1283,9 +1283,9 @@
       "slug": "three-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-ROOM-013",
       "title": "Three Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
       "blockedRanges": 7,
-      "availableCount": 181,
+      "availableCount": 182,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:02.220Z",
+      "lastWrittenAt": "2026-08-10T02:47:17.419Z",
       "collapseStreak": 0
     },
     {
@@ -1295,17 +1295,17 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:06.429Z",
+      "lastWrittenAt": "2026-08-10T02:47:19.820Z",
       "collapseStreak": 0
     },
     {
       "wp": 70134,
       "slug": "three-bedrooms-apartment-pyramids-view-ROOM-152-3BR-DLX",
       "title": "Three Bedrooms Apartment Pyramids View",
-      "blockedRanges": 4,
-      "availableCount": 195,
+      "blockedRanges": 5,
+      "availableCount": 193,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:11.323Z",
+      "lastWrittenAt": "2026-08-10T02:47:26.161Z",
       "collapseStreak": 0
     },
     {
@@ -1313,9 +1313,9 @@
       "slug": "two-bedroom-apartment",
       "title": "Two Bedroom Apartment",
       "blockedRanges": 1,
-      "availableCount": 205,
+      "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:14.780Z",
+      "lastWrittenAt": "2026-08-10T02:47:27.906Z",
       "collapseStreak": 0
     },
     {
@@ -1325,7 +1325,7 @@
       "blockedRanges": 7,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:21.442Z",
+      "lastWrittenAt": "2026-08-10T02:47:34.939Z",
       "collapseStreak": 0
     },
     {
@@ -1333,9 +1333,9 @@
       "slug": "two-bedroom-apartment-city-view-ROOM-093",
       "title": "Two Bedroom Apartment City view",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:23.496Z",
+      "lastWrittenAt": "2026-08-10T02:47:35.223Z",
       "collapseStreak": 0
     },
     {
@@ -1343,9 +1343,9 @@
       "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-022",
       "title": "Two Bedroom Apartment City view In The Center Of Zamalek",
       "blockedRanges": 6,
-      "availableCount": 198,
+      "availableCount": 199,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:30.399Z",
+      "lastWrittenAt": "2026-08-10T02:47:43.598Z",
       "collapseStreak": 0
     },
     {
@@ -1353,9 +1353,9 @@
       "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-025",
       "title": "Two Bedroom Apartment City view In The Center Of Zamalek",
       "blockedRanges": 12,
-      "availableCount": 137,
+      "availableCount": 138,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:37.885Z",
+      "lastWrittenAt": "2026-08-10T02:47:47.822Z",
       "collapseStreak": 0
     },
     {
@@ -1363,9 +1363,9 @@
       "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-098",
       "title": "Two Bedroom Apartment City View In The Center Of Zamalek",
       "blockedRanges": 2,
-      "availableCount": 209,
+      "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:38.831Z",
+      "lastWrittenAt": "2026-08-10T02:47:50.858Z",
       "collapseStreak": 0
     },
     {
@@ -1373,9 +1373,9 @@
       "slug": "two-bedroom-apartment-city-view-in-the-center-of-zamalek-ROOM-129",
       "title": "Two Bedroom Apartment City View In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 204,
+      "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:47.047Z",
+      "lastWrittenAt": "2026-08-10T02:47:56.295Z",
       "collapseStreak": 0
     },
     {
@@ -1383,9 +1383,9 @@
       "slug": "two-bedroom-apartment-court-view-in-the-center-of-zamalek-ROOM-130",
       "title": "Two Bedroom Apartment Court View In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 206,
+      "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:48.375Z",
+      "lastWrittenAt": "2026-08-10T02:47:58.825Z",
       "collapseStreak": 0
     },
     {
@@ -1393,9 +1393,9 @@
       "slug": "two-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-053",
       "title": "Two Bedroom Apartment In The Center of Downtown Cairo",
       "blockedRanges": 4,
-      "availableCount": 196,
+      "availableCount": 197,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:56.610Z",
+      "lastWrittenAt": "2026-08-10T02:48:05.908Z",
       "collapseStreak": 0
     },
     {
@@ -1403,9 +1403,9 @@
       "slug": "two-bedroom-apartment-in-the-center-of-zamalek-ROOM-018",
       "title": "Two Bedroom Apartment In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:01:56.009Z",
+      "lastWrittenAt": "2026-08-10T02:48:06.037Z",
       "collapseStreak": 0
     },
     {
@@ -1413,9 +1413,9 @@
       "slug": "two-bedroom-apartment-in-the-center-of-zamalek-ROOM-035",
       "title": "Two Bedroom Apartment In The Center Of Zamalek",
       "blockedRanges": 5,
-      "availableCount": 202,
+      "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:02:05.905Z",
+      "lastWrittenAt": "2026-08-10T02:48:15.656Z",
       "collapseStreak": 0
     },
     {
@@ -1423,9 +1423,9 @@
       "slug": "two-bedroom-apartment-in-the-center-of-zamalek-ROOM-131",
       "title": "Two Bedroom Apartment In The Center Of Zamalek",
       "blockedRanges": 3,
-      "availableCount": 201,
+      "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:02:06.097Z",
+      "lastWrittenAt": "2026-08-10T02:48:15.269Z",
       "collapseStreak": 0
     },
     {
@@ -1433,9 +1433,9 @@
       "slug": "two-bedroom-apartment-nile-view-near-ramses-hilton-hotel-ROOM-099",
       "title": "Two Bedroom Apartment Nile View Near Ramses Hilton Hotel",
       "blockedRanges": 5,
-      "availableCount": 195,
+      "availableCount": 196,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:02:16.158Z",
+      "lastWrittenAt": "2026-08-10T02:48:23.706Z",
       "collapseStreak": 0
     },
     {
@@ -1443,9 +1443,9 @@
       "slug": "two-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-OMK-95",
       "title": "Two Bedroom Apartment Nile view Next to Om Kolthoom Hotel",
       "blockedRanges": 3,
-      "availableCount": 202,
+      "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:02:17.280Z",
+      "lastWrittenAt": "2026-08-10T02:48:25.446Z",
       "collapseStreak": 0
     },
     {
@@ -1455,7 +1455,7 @@
       "blockedRanges": 1,
       "availableCount": 0,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:02:35.927Z",
+      "lastWrittenAt": "2026-08-10T02:48:41.567Z",
       "collapseStreak": 0
     },
     {
@@ -1465,7 +1465,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-10T00:02:23.968Z",
+      "lastWrittenAt": "2026-08-10T02:48:31.998Z",
       "collapseStreak": 0
     }
   ]
