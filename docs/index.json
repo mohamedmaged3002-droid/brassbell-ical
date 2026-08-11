@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-11T22:19:11.832Z",
+  "updatedAt": "2026-08-11T23:17:56.091Z",
   "properties": [
     {
       "wp": 70001,
       "slug": "1-bedroom-royal-suite-king-bed-nile-view",
       "title": "1 Bedroom Royal suite King bed Nile view",
-      "blockedRanges": 1,
-      "availableCount": 201,
+      "blockedRanges": 2,
+      "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:13.625Z",
+      "lastWrittenAt": "2026-08-11T23:08:10.814Z",
       "collapseStreak": 0
     },
     {
@@ -18,7 +18,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:10.025Z",
+      "lastWrittenAt": "2026-08-11T23:08:07.678Z",
       "collapseStreak": 0
     },
     {
@@ -28,17 +28,17 @@
       "blockedRanges": 2,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:17.979Z",
+      "lastWrittenAt": "2026-08-11T23:08:15.402Z",
       "collapseStreak": 0
     },
     {
       "wp": 70005,
       "slug": "2-bedroom-suite-king-bed-and-2-twin-beds-nile-view",
       "title": "2 Bedroom suite king bed and 2 Twin beds Nile view",
-      "blockedRanges": 2,
-      "availableCount": 210,
+      "blockedRanges": 1,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:20.870Z",
+      "lastWrittenAt": "2026-08-11T23:08:18.023Z",
       "collapseStreak": 0
     },
     {
@@ -48,7 +48,7 @@
       "blockedRanges": 7,
       "availableCount": 185,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:28.435Z",
+      "lastWrittenAt": "2026-08-11T23:08:25.531Z",
       "collapseStreak": 0
     },
     {
@@ -58,7 +58,7 @@
       "blockedRanges": 1,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:30.053Z",
+      "lastWrittenAt": "2026-08-11T23:08:26.856Z",
       "collapseStreak": 0
     },
     {
@@ -68,7 +68,7 @@
       "blockedRanges": 2,
       "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:37.707Z",
+      "lastWrittenAt": "2026-08-11T23:08:34.471Z",
       "collapseStreak": 0
     },
     {
@@ -78,7 +78,7 @@
       "blockedRanges": 1,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:39.705Z",
+      "lastWrittenAt": "2026-08-11T23:08:36.188Z",
       "collapseStreak": 0
     },
     {
@@ -88,7 +88,7 @@
       "blockedRanges": 1,
       "availableCount": 187,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:47.623Z",
+      "lastWrittenAt": "2026-08-11T23:08:43.884Z",
       "collapseStreak": 0
     },
     {
@@ -98,7 +98,7 @@
       "blockedRanges": 1,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:48.851Z",
+      "lastWrittenAt": "2026-08-11T23:08:44.889Z",
       "collapseStreak": 0
     },
     {
@@ -108,7 +108,7 @@
       "blockedRanges": 2,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:55.660Z",
+      "lastWrittenAt": "2026-08-11T23:08:51.866Z",
       "collapseStreak": 0
     },
     {
@@ -118,7 +118,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:09:56.271Z",
+      "lastWrittenAt": "2026-08-11T23:08:52.155Z",
       "collapseStreak": 0
     },
     {
@@ -128,7 +128,7 @@
       "blockedRanges": 1,
       "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:04.563Z",
+      "lastWrittenAt": "2026-08-11T23:09:00.300Z",
       "collapseStreak": 0
     },
     {
@@ -138,7 +138,7 @@
       "blockedRanges": 1,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:06.582Z",
+      "lastWrittenAt": "2026-08-11T23:09:01.814Z",
       "collapseStreak": 0
     },
     {
@@ -148,7 +148,7 @@
       "blockedRanges": 2,
       "availableCount": 197,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:14.301Z",
+      "lastWrittenAt": "2026-08-11T23:09:09.719Z",
       "collapseStreak": 0
     },
     {
@@ -158,7 +158,7 @@
       "blockedRanges": 1,
       "availableCount": 161,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:16.841Z",
+      "lastWrittenAt": "2026-08-11T23:09:11.583Z",
       "collapseStreak": 0
     },
     {
@@ -168,7 +168,7 @@
       "blockedRanges": 1,
       "availableCount": 196,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:24.444Z",
+      "lastWrittenAt": "2026-08-11T23:09:19.398Z",
       "collapseStreak": 0
     },
     {
@@ -178,7 +178,7 @@
       "blockedRanges": 1,
       "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:25.852Z",
+      "lastWrittenAt": "2026-08-11T23:09:20.225Z",
       "collapseStreak": 0
     },
     {
@@ -188,7 +188,7 @@
       "blockedRanges": 4,
       "availableCount": 190,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:33.632Z",
+      "lastWrittenAt": "2026-08-11T23:09:28.342Z",
       "collapseStreak": 0
     },
     {
@@ -198,7 +198,7 @@
       "blockedRanges": 1,
       "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:35.036Z",
+      "lastWrittenAt": "2026-08-11T23:09:29.192Z",
       "collapseStreak": 0
     },
     {
@@ -208,7 +208,7 @@
       "blockedRanges": 4,
       "availableCount": 192,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:43.381Z",
+      "lastWrittenAt": "2026-08-11T23:09:37.863Z",
       "collapseStreak": 0
     },
     {
@@ -218,7 +218,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:41.679Z",
+      "lastWrittenAt": "2026-08-11T23:09:35.916Z",
       "collapseStreak": 0
     },
     {
@@ -228,7 +228,7 @@
       "blockedRanges": 1,
       "availableCount": 191,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:51.554Z",
+      "lastWrittenAt": "2026-08-11T23:09:45.355Z",
       "collapseStreak": 0
     },
     {
@@ -238,7 +238,7 @@
       "blockedRanges": 3,
       "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:52.154Z",
+      "lastWrittenAt": "2026-08-11T23:09:46.515Z",
       "collapseStreak": 0
     },
     {
@@ -248,7 +248,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:58.971Z",
+      "lastWrittenAt": "2026-08-11T23:09:52.646Z",
       "collapseStreak": 0
     },
     {
@@ -258,7 +258,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:10:59.791Z",
+      "lastWrittenAt": "2026-08-11T23:09:53.936Z",
       "collapseStreak": 0
     },
     {
@@ -268,7 +268,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:06.841Z",
+      "lastWrittenAt": "2026-08-11T23:10:00.438Z",
       "collapseStreak": 0
     },
     {
@@ -278,7 +278,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:07.996Z",
+      "lastWrittenAt": "2026-08-11T23:10:02.529Z",
       "collapseStreak": 0
     },
     {
@@ -288,7 +288,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T21:10:13.320Z",
+      "lastWrittenAt": "2026-08-11T23:10:07.057Z",
       "collapseStreak": 0
     },
     {
@@ -298,7 +298,7 @@
       "blockedRanges": 7,
       "availableCount": 196,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:17.546Z",
+      "lastWrittenAt": "2026-08-11T23:10:11.799Z",
       "collapseStreak": 0
     },
     {
@@ -308,7 +308,7 @@
       "blockedRanges": 1,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:22.067Z",
+      "lastWrittenAt": "2026-08-11T23:10:15.282Z",
       "collapseStreak": 0
     },
     {
@@ -327,7 +327,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:24.394Z",
+      "lastWrittenAt": "2026-08-11T23:10:18.524Z",
       "collapseStreak": 0
     },
     {
@@ -337,7 +337,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:29.394Z",
+      "lastWrittenAt": "2026-08-11T23:10:22.281Z",
       "collapseStreak": 0
     },
     {
@@ -347,7 +347,7 @@
       "blockedRanges": 3,
       "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:33.235Z",
+      "lastWrittenAt": "2026-08-11T23:10:27.164Z",
       "collapseStreak": 0
     },
     {
@@ -357,7 +357,7 @@
       "blockedRanges": 4,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:37.801Z",
+      "lastWrittenAt": "2026-08-11T23:10:30.327Z",
       "collapseStreak": 0
     },
     {
@@ -367,7 +367,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:39.713Z",
+      "lastWrittenAt": "2026-08-11T23:10:33.612Z",
       "collapseStreak": 0
     },
     {
@@ -377,7 +377,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:44.646Z",
+      "lastWrittenAt": "2026-08-11T23:10:37.028Z",
       "collapseStreak": 0
     },
     {
@@ -387,7 +387,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:46.170Z",
+      "lastWrittenAt": "2026-08-11T23:10:40.023Z",
       "collapseStreak": 0
     },
     {
@@ -397,7 +397,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:51.780Z",
+      "lastWrittenAt": "2026-08-11T23:10:44.163Z",
       "collapseStreak": 0
     },
     {
@@ -407,7 +407,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:53.188Z",
+      "lastWrittenAt": "2026-08-11T23:10:46.845Z",
       "collapseStreak": 0
     },
     {
@@ -417,7 +417,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:11:59.282Z",
+      "lastWrittenAt": "2026-08-11T23:10:51.247Z",
       "collapseStreak": 0
     },
     {
@@ -436,7 +436,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:01.595Z",
+      "lastWrittenAt": "2026-08-11T23:10:54.893Z",
       "collapseStreak": 0
     },
     {
@@ -446,7 +446,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:06.928Z",
+      "lastWrittenAt": "2026-08-11T23:10:58.622Z",
       "collapseStreak": 0
     },
     {
@@ -456,7 +456,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:08.526Z",
+      "lastWrittenAt": "2026-08-11T23:11:01.731Z",
       "collapseStreak": 0
     },
     {
@@ -466,7 +466,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:14.236Z",
+      "lastWrittenAt": "2026-08-11T23:11:05.808Z",
       "collapseStreak": 0
     },
     {
@@ -476,7 +476,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:15.820Z",
+      "lastWrittenAt": "2026-08-11T23:11:08.889Z",
       "collapseStreak": 0
     },
     {
@@ -486,7 +486,7 @@
       "blockedRanges": 2,
       "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:22.354Z",
+      "lastWrittenAt": "2026-08-11T23:11:13.813Z",
       "collapseStreak": 0
     },
     {
@@ -496,7 +496,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:23.250Z",
+      "lastWrittenAt": "2026-08-11T23:11:16.080Z",
       "collapseStreak": 0
     },
     {
@@ -506,7 +506,7 @@
       "blockedRanges": 20,
       "availableCount": 114,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:36.793Z",
+      "lastWrittenAt": "2026-08-11T23:11:27.609Z",
       "collapseStreak": 0
     },
     {
@@ -516,17 +516,17 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:30.575Z",
+      "lastWrittenAt": "2026-08-11T23:11:23.606Z",
       "collapseStreak": 0
     },
     {
       "wp": 70055,
       "slug": "king-studio-in-the-center-of-downtown-cairo-ROOM-003",
       "title": "King Studio In The Center Of Downtown Cairo",
-      "blockedRanges": 4,
-      "availableCount": 205,
+      "blockedRanges": 6,
+      "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:39.753Z",
+      "lastWrittenAt": "2026-08-11T23:11:32.559Z",
       "collapseStreak": 0
     },
     {
@@ -536,7 +536,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:44.663Z",
+      "lastWrittenAt": "2026-08-11T23:11:35.339Z",
       "collapseStreak": 0
     },
     {
@@ -546,7 +546,7 @@
       "blockedRanges": 5,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:49.844Z",
+      "lastWrittenAt": "2026-08-11T23:11:42.359Z",
       "collapseStreak": 0
     },
     {
@@ -556,7 +556,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:52.283Z",
+      "lastWrittenAt": "2026-08-11T23:11:42.888Z",
       "collapseStreak": 0
     },
     {
@@ -576,7 +576,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:12:59.092Z",
+      "lastWrittenAt": "2026-08-11T23:11:49.555Z",
       "collapseStreak": 0
     },
     {
@@ -586,7 +586,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:07.277Z",
+      "lastWrittenAt": "2026-08-11T23:11:57.504Z",
       "collapseStreak": 0
     },
     {
@@ -596,7 +596,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:07.810Z",
+      "lastWrittenAt": "2026-08-11T23:11:59.493Z",
       "collapseStreak": 0
     },
     {
@@ -606,7 +606,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:15.004Z",
+      "lastWrittenAt": "2026-08-11T23:12:05.087Z",
       "collapseStreak": 0
     },
     {
@@ -616,7 +616,7 @@
       "blockedRanges": 4,
       "availableCount": 200,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:16.687Z",
+      "lastWrittenAt": "2026-08-11T23:12:07.893Z",
       "collapseStreak": 0
     },
     {
@@ -626,7 +626,7 @@
       "blockedRanges": 5,
       "availableCount": 190,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:24.828Z",
+      "lastWrittenAt": "2026-08-11T23:12:14.507Z",
       "collapseStreak": 0
     },
     {
@@ -636,7 +636,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:23.758Z",
+      "lastWrittenAt": "2026-08-11T23:12:14.714Z",
       "collapseStreak": 0
     },
     {
@@ -646,7 +646,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:31.123Z",
+      "lastWrittenAt": "2026-08-11T23:12:21.959Z",
       "collapseStreak": 0
     },
     {
@@ -656,7 +656,7 @@
       "blockedRanges": 2,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:32.576Z",
+      "lastWrittenAt": "2026-08-11T23:12:22.347Z",
       "collapseStreak": 0
     },
     {
@@ -666,7 +666,7 @@
       "blockedRanges": 2,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:39.041Z",
+      "lastWrittenAt": "2026-08-11T23:12:29.556Z",
       "collapseStreak": 0
     },
     {
@@ -676,7 +676,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:39.663Z",
+      "lastWrittenAt": "2026-08-11T23:12:29.467Z",
       "collapseStreak": 0
     },
     {
@@ -686,7 +686,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:46.406Z",
+      "lastWrittenAt": "2026-08-11T23:12:36.769Z",
       "collapseStreak": 0
     },
     {
@@ -696,7 +696,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:46.821Z",
+      "lastWrittenAt": "2026-08-11T23:12:36.809Z",
       "collapseStreak": 0
     },
     {
@@ -706,7 +706,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:53.627Z",
+      "lastWrittenAt": "2026-08-11T23:12:44.011Z",
       "collapseStreak": 0
     },
     {
@@ -716,7 +716,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:13:53.491Z",
+      "lastWrittenAt": "2026-08-11T23:12:43.557Z",
       "collapseStreak": 0
     },
     {
@@ -726,7 +726,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:01.225Z",
+      "lastWrittenAt": "2026-08-11T23:12:50.680Z",
       "collapseStreak": 0
     },
     {
@@ -736,7 +736,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:01.754Z",
+      "lastWrittenAt": "2026-08-11T23:12:51.502Z",
       "collapseStreak": 0
     },
     {
@@ -746,7 +746,7 @@
       "blockedRanges": 2,
       "availableCount": 201,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:11.391Z",
+      "lastWrittenAt": "2026-08-11T23:13:00.271Z",
       "collapseStreak": 0
     },
     {
@@ -756,7 +756,7 @@
       "blockedRanges": 4,
       "availableCount": 191,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:11.739Z",
+      "lastWrittenAt": "2026-08-11T23:13:00.925Z",
       "collapseStreak": 0
     },
     {
@@ -766,7 +766,7 @@
       "blockedRanges": 1,
       "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T21:13:10.336Z",
+      "lastWrittenAt": "2026-08-11T23:13:08.376Z",
       "collapseStreak": 0
     },
     {
@@ -776,7 +776,7 @@
       "blockedRanges": 10,
       "availableCount": 189,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:21.067Z",
+      "lastWrittenAt": "2026-08-11T23:13:09.991Z",
       "collapseStreak": 0
     },
     {
@@ -786,7 +786,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:27.575Z",
+      "lastWrittenAt": "2026-08-11T23:13:16.310Z",
       "collapseStreak": 0
     },
     {
@@ -796,7 +796,7 @@
       "blockedRanges": 5,
       "availableCount": 193,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:31.297Z",
+      "lastWrittenAt": "2026-08-11T23:13:19.749Z",
       "collapseStreak": 0
     },
     {
@@ -806,7 +806,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:34.408Z",
+      "lastWrittenAt": "2026-08-11T23:13:23.051Z",
       "collapseStreak": 0
     },
     {
@@ -816,7 +816,7 @@
       "blockedRanges": 12,
       "availableCount": 173,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:42.451Z",
+      "lastWrittenAt": "2026-08-11T23:13:30.541Z",
       "collapseStreak": 0
     },
     {
@@ -826,7 +826,7 @@
       "blockedRanges": 2,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:42.497Z",
+      "lastWrittenAt": "2026-08-11T23:13:30.944Z",
       "collapseStreak": 0
     },
     {
@@ -836,7 +836,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:50.189Z",
+      "lastWrittenAt": "2026-08-11T23:13:38.014Z",
       "collapseStreak": 0
     },
     {
@@ -846,7 +846,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:49.399Z",
+      "lastWrittenAt": "2026-08-11T23:13:37.776Z",
       "collapseStreak": 0
     },
     {
@@ -856,7 +856,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:56.067Z",
+      "lastWrittenAt": "2026-08-11T23:13:44.637Z",
       "collapseStreak": 0
     },
     {
@@ -866,7 +866,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:14:58.011Z",
+      "lastWrittenAt": "2026-08-11T23:13:45.876Z",
       "collapseStreak": 0
     },
     {
@@ -876,7 +876,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:03.406Z",
+      "lastWrittenAt": "2026-08-11T23:13:51.359Z",
       "collapseStreak": 0
     },
     {
@@ -886,7 +886,7 @@
       "blockedRanges": 8,
       "availableCount": 190,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:07.571Z",
+      "lastWrittenAt": "2026-08-11T23:13:55.086Z",
       "collapseStreak": 0
     },
     {
@@ -896,7 +896,7 @@
       "blockedRanges": 10,
       "availableCount": 180,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:14.130Z",
+      "lastWrittenAt": "2026-08-11T23:14:01.908Z",
       "collapseStreak": 0
     },
     {
@@ -906,7 +906,7 @@
       "blockedRanges": 8,
       "availableCount": 195,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:16.908Z",
+      "lastWrittenAt": "2026-08-11T23:14:04.124Z",
       "collapseStreak": 0
     },
     {
@@ -916,7 +916,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:21.780Z",
+      "lastWrittenAt": "2026-08-11T23:14:09.444Z",
       "collapseStreak": 0
     },
     {
@@ -926,7 +926,7 @@
       "blockedRanges": 11,
       "availableCount": 176,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:28.118Z",
+      "lastWrittenAt": "2026-08-11T23:14:14.944Z",
       "collapseStreak": 0
     },
     {
@@ -936,7 +936,7 @@
       "blockedRanges": 6,
       "availableCount": 194,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:30.505Z",
+      "lastWrittenAt": "2026-08-11T23:14:17.897Z",
       "collapseStreak": 0
     },
     {
@@ -946,7 +946,7 @@
       "blockedRanges": 8,
       "availableCount": 184,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:38.450Z",
+      "lastWrittenAt": "2026-08-11T23:14:25.209Z",
       "collapseStreak": 0
     },
     {
@@ -956,7 +956,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:36.988Z",
+      "lastWrittenAt": "2026-08-11T23:14:24.304Z",
       "collapseStreak": 0
     },
     {
@@ -966,7 +966,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T21:14:29.370Z",
+      "lastWrittenAt": "2026-08-11T23:14:31.380Z",
       "collapseStreak": 0
     },
     {
@@ -976,7 +976,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:45.248Z",
+      "lastWrittenAt": "2026-08-11T23:14:31.819Z",
       "collapseStreak": 0
     },
     {
@@ -986,7 +986,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:51.576Z",
+      "lastWrittenAt": "2026-08-11T23:14:39.221Z",
       "collapseStreak": 0
     },
     {
@@ -1005,7 +1005,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:52.386Z",
+      "lastWrittenAt": "2026-08-11T23:14:39.051Z",
       "collapseStreak": 0
     },
     {
@@ -1015,7 +1015,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:58.212Z",
+      "lastWrittenAt": "2026-08-11T23:14:45.820Z",
       "collapseStreak": 0
     },
     {
@@ -1025,7 +1025,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:15:59.377Z",
+      "lastWrittenAt": "2026-08-11T23:14:46.312Z",
       "collapseStreak": 0
     },
     {
@@ -1035,7 +1035,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:06.114Z",
+      "lastWrittenAt": "2026-08-11T23:14:53.867Z",
       "collapseStreak": 0
     },
     {
@@ -1045,7 +1045,7 @@
       "blockedRanges": 4,
       "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:07.161Z",
+      "lastWrittenAt": "2026-08-11T23:14:54.131Z",
       "collapseStreak": 0
     },
     {
@@ -1055,7 +1055,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:13.085Z",
+      "lastWrittenAt": "2026-08-11T23:15:01.946Z",
       "collapseStreak": 0
     },
     {
@@ -1065,7 +1065,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:15.125Z",
+      "lastWrittenAt": "2026-08-11T23:15:03.292Z",
       "collapseStreak": 0
     },
     {
@@ -1075,7 +1075,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:21.080Z",
+      "lastWrittenAt": "2026-08-11T23:15:09.923Z",
       "collapseStreak": 0
     },
     {
@@ -1085,7 +1085,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:22.104Z",
+      "lastWrittenAt": "2026-08-11T23:15:10.456Z",
       "collapseStreak": 0
     },
     {
@@ -1095,7 +1095,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:28.080Z",
+      "lastWrittenAt": "2026-08-11T23:15:17.149Z",
       "collapseStreak": 0
     },
     {
@@ -1105,7 +1105,7 @@
       "blockedRanges": 3,
       "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:29.654Z",
+      "lastWrittenAt": "2026-08-11T23:15:17.948Z",
       "collapseStreak": 0
     },
     {
@@ -1115,7 +1115,7 @@
       "blockedRanges": 2,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:37.591Z",
+      "lastWrittenAt": "2026-08-11T23:15:26.690Z",
       "collapseStreak": 0
     },
     {
@@ -1125,7 +1125,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:37.181Z",
+      "lastWrittenAt": "2026-08-11T23:15:25.364Z",
       "collapseStreak": 0
     },
     {
@@ -1135,7 +1135,7 @@
       "blockedRanges": 10,
       "availableCount": 162,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T21:15:32.003Z",
+      "lastWrittenAt": "2026-08-11T23:15:36.354Z",
       "collapseStreak": 0
     },
     {
@@ -1145,7 +1145,7 @@
       "blockedRanges": 3,
       "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:46.007Z",
+      "lastWrittenAt": "2026-08-11T23:15:34.884Z",
       "collapseStreak": 0
     },
     {
@@ -1155,7 +1155,7 @@
       "blockedRanges": 3,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:54.115Z",
+      "lastWrittenAt": "2026-08-11T23:15:42.666Z",
       "collapseStreak": 0
     },
     {
@@ -1165,7 +1165,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:16:54.379Z",
+      "lastWrittenAt": "2026-08-11T23:15:43.103Z",
       "collapseStreak": 0
     },
     {
@@ -1175,7 +1175,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:01.097Z",
+      "lastWrittenAt": "2026-08-11T23:15:49.394Z",
       "collapseStreak": 0
     },
     {
@@ -1185,7 +1185,7 @@
       "blockedRanges": 0,
       "availableCount": 212,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:01.508Z",
+      "lastWrittenAt": "2026-08-11T23:15:49.850Z",
       "collapseStreak": 0
     },
     {
@@ -1195,7 +1195,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:08.480Z",
+      "lastWrittenAt": "2026-08-11T23:15:56.761Z",
       "collapseStreak": 0
     },
     {
@@ -1205,7 +1205,7 @@
       "blockedRanges": 2,
       "availableCount": 199,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T21:15:53.768Z",
+      "lastWrittenAt": "2026-08-11T23:15:58.087Z",
       "collapseStreak": 0
     },
     {
@@ -1215,7 +1215,7 @@
       "blockedRanges": 4,
       "availableCount": 205,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:17.339Z",
+      "lastWrittenAt": "2026-08-11T23:16:05.429Z",
       "collapseStreak": 0
     },
     {
@@ -1225,7 +1225,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:17.580Z",
+      "lastWrittenAt": "2026-08-11T23:16:05.333Z",
       "collapseStreak": 0
     },
     {
@@ -1235,7 +1235,7 @@
       "blockedRanges": 6,
       "availableCount": 193,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:26.592Z",
+      "lastWrittenAt": "2026-08-11T23:16:14.357Z",
       "collapseStreak": 0
     },
     {
@@ -1245,7 +1245,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:25.292Z",
+      "lastWrittenAt": "2026-08-11T23:16:13.262Z",
       "collapseStreak": 0
     },
     {
@@ -1255,7 +1255,7 @@
       "blockedRanges": 1,
       "availableCount": 209,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:32.799Z",
+      "lastWrittenAt": "2026-08-11T23:16:20.506Z",
       "collapseStreak": 0
     },
     {
@@ -1265,7 +1265,7 @@
       "blockedRanges": 5,
       "availableCount": 187,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:35.861Z",
+      "lastWrittenAt": "2026-08-11T23:16:23.537Z",
       "collapseStreak": 0
     },
     {
@@ -1275,7 +1275,7 @@
       "blockedRanges": 2,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:40.869Z",
+      "lastWrittenAt": "2026-08-11T23:16:28.490Z",
       "collapseStreak": 0
     },
     {
@@ -1285,7 +1285,7 @@
       "blockedRanges": 7,
       "availableCount": 183,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:45.263Z",
+      "lastWrittenAt": "2026-08-11T23:16:32.616Z",
       "collapseStreak": 0
     },
     {
@@ -1295,7 +1295,7 @@
       "blockedRanges": 1,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:48.384Z",
+      "lastWrittenAt": "2026-08-11T23:16:35.726Z",
       "collapseStreak": 0
     },
     {
@@ -1305,7 +1305,7 @@
       "blockedRanges": 6,
       "availableCount": 189,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:55.653Z",
+      "lastWrittenAt": "2026-08-11T23:16:42.724Z",
       "collapseStreak": 0
     },
     {
@@ -1315,7 +1315,7 @@
       "blockedRanges": 1,
       "availableCount": 207,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:17:56.133Z",
+      "lastWrittenAt": "2026-08-11T23:16:43.523Z",
       "collapseStreak": 0
     },
     {
@@ -1325,7 +1325,7 @@
       "blockedRanges": 8,
       "availableCount": 198,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:05.275Z",
+      "lastWrittenAt": "2026-08-11T23:16:51.947Z",
       "collapseStreak": 0
     },
     {
@@ -1335,7 +1335,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:04.486Z",
+      "lastWrittenAt": "2026-08-11T23:16:51.657Z",
       "collapseStreak": 0
     },
     {
@@ -1345,7 +1345,7 @@
       "blockedRanges": 7,
       "availableCount": 195,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:14.237Z",
+      "lastWrittenAt": "2026-08-11T23:17:01.052Z",
       "collapseStreak": 0
     },
     {
@@ -1355,7 +1355,7 @@
       "blockedRanges": 12,
       "availableCount": 139,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:18.105Z",
+      "lastWrittenAt": "2026-08-11T23:17:04.440Z",
       "collapseStreak": 0
     },
     {
@@ -1365,7 +1365,7 @@
       "blockedRanges": 2,
       "availableCount": 210,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:21.497Z",
+      "lastWrittenAt": "2026-08-11T23:17:08.276Z",
       "collapseStreak": 0
     },
     {
@@ -1375,7 +1375,7 @@
       "blockedRanges": 1,
       "availableCount": 206,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:26.373Z",
+      "lastWrittenAt": "2026-08-11T23:17:12.589Z",
       "collapseStreak": 0
     },
     {
@@ -1385,7 +1385,7 @@
       "blockedRanges": 1,
       "availableCount": 208,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:29.669Z",
+      "lastWrittenAt": "2026-08-11T23:17:16.219Z",
       "collapseStreak": 0
     },
     {
@@ -1395,7 +1395,7 @@
       "blockedRanges": 3,
       "availableCount": 202,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:34.958Z",
+      "lastWrittenAt": "2026-08-11T23:17:20.681Z",
       "collapseStreak": 0
     },
     {
@@ -1403,9 +1403,9 @@
       "slug": "two-bedroom-apartment-in-the-center-of-zamalek-ROOM-018",
       "title": "Two Bedroom Apartment In The Center Of Zamalek",
       "blockedRanges": 1,
-      "availableCount": 210,
+      "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:37.094Z",
+      "lastWrittenAt": "2026-08-11T23:17:23.235Z",
       "collapseStreak": 0
     },
     {
@@ -1415,7 +1415,7 @@
       "blockedRanges": 5,
       "availableCount": 204,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:44.387Z",
+      "lastWrittenAt": "2026-08-11T23:17:29.984Z",
       "collapseStreak": 0
     },
     {
@@ -1425,7 +1425,7 @@
       "blockedRanges": 4,
       "availableCount": 198,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:46.474Z",
+      "lastWrittenAt": "2026-08-11T23:17:32.466Z",
       "collapseStreak": 0
     },
     {
@@ -1435,7 +1435,7 @@
       "blockedRanges": 5,
       "availableCount": 193,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:53.829Z",
+      "lastWrittenAt": "2026-08-11T23:17:39.079Z",
       "collapseStreak": 0
     },
     {
@@ -1445,7 +1445,7 @@
       "blockedRanges": 2,
       "availableCount": 203,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:18:55.800Z",
+      "lastWrittenAt": "2026-08-11T23:17:41.526Z",
       "collapseStreak": 0
     },
     {
@@ -1455,7 +1455,7 @@
       "blockedRanges": 1,
       "availableCount": 0,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:19:11.789Z",
+      "lastWrittenAt": "2026-08-11T23:17:56.054Z",
       "collapseStreak": 0
     },
     {
@@ -1465,7 +1465,7 @@
       "blockedRanges": 1,
       "availableCount": 211,
       "erroredBlocked": 0,
-      "lastWrittenAt": "2026-08-11T22:19:03.063Z",
+      "lastWrittenAt": "2026-08-11T23:17:48.438Z",
       "collapseStreak": 0
     }
   ]
