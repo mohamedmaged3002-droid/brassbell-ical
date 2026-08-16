@@ -71,5 +71,5 @@ jobs:
         env:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          NOTIFY_EMAIL: 'reservations@bluekeys.co, Youssefelsamanody58@gmail.com, mfikry772007@gmail.com, amrselim811@gmail.com'
+          NOTIFY_EMAIL: 'reservations@bluekeys.co, Youssefelsamanody58@gmail.com, mfikry772007@gmail.com, amrselim811@gmail.com, mohamedahmedzaki17@gmail.com'
         run: node send-alert.js
