@@ -1,5 +1,5 @@
 wp_post_id,title,ical_url,brassbell_url,blocked_ranges,available_nights
-70001,1 Bedroom Royal suite King bed Nile view,https://mohamedmaged3002-droid.github.io/brassbell-ical/70001.ics,https://www.brassbell.net/property/1-bedroom-royal-suite-king-bed-nile-view/,1,201
+70001,1 Bedroom Royal suite King bed Nile view,https://mohamedmaged3002-droid.github.io/brassbell-ical/70001.ics,https://www.brassbell.net/property/1-bedroom-royal-suite-king-bed-nile-view/,2,200
 70003,1 Bedroom suite Twin bed Nile view,https://mohamedmaged3002-droid.github.io/brassbell-ical/70003.ics,https://www.brassbell.net/property/1-bedroom-suite-twin-bed-nile-view/,0,212
 70004,2 Bedroom Royal suite 1 King bed and two twin beds,https://mohamedmaged3002-droid.github.io/brassbell-ical/70004.ics,https://www.brassbell.net/property/2-bedroom-royal-suite-1-king-bed-and-two-twin-beds/,1,211
 70005,2 Bedroom suite king bed and 2 Twin beds Nile view,https://mohamedmaged3002-droid.github.io/brassbell-ical/70005.ics,https://www.brassbell.net/property/2-bedroom-suite-king-bed-and-2-twin-beds-nile-view/,0,212
@@ -29,7 +29,7 @@ wp_post_id,title,ical_url,brassbell_url,blocked_ranges,available_nights
 70029,Budget Studio In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70029.ics,https://www.brassbell.net/property/budget-studio-in-the-center-of-zamalek-ROOM-014/,0,212
 70030,Budget Studio In The Central Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70030.ics,https://www.brassbell.net/property/budget-studio-in-the-central-of-zamalek-ROOM-121/,0,212
 70031,Budget Studio Near Tahrir Square,https://mohamedmaged3002-droid.github.io/brassbell-ical/70031.ics,https://www.brassbell.net/property/budget-studio-near-tahrir-square-ROOM-059/,6,197
-70032,Budget Studio Near The Saudi Embassy,https://mohamedmaged3002-droid.github.io/brassbell-ical/70032.ics,https://www.brassbell.net/property/budget-studio-near-the-saudi-embassy-ROOM-147/,1,211
+70032,Budget Studio Near The Saudi Embassy,https://mohamedmaged3002-droid.github.io/brassbell-ical/70032.ics,https://www.brassbell.net/property/budget-studio-near-the-saudi-embassy-ROOM-147/,1,210
 70033,Delux Studio With Balcony In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70033.ics,,1,210
 70034,Deluxe Junior Suite Near Tahrir Square,https://mohamedmaged3002-droid.github.io/brassbell-ical/70034.ics,https://www.brassbell.net/property/deluxe-junior-suite-near-tahrir-square-ROOM-162/,0,212
 70035,Deluxe Studio With Balcony,https://mohamedmaged3002-droid.github.io/brassbell-ical/70035.ics,https://www.brassbell.net/property/deluxe-studio-with-balcony-/,1,209
@@ -91,7 +91,7 @@ wp_post_id,title,ical_url,brassbell_url,blocked_ranges,available_nights
 70092,Spacious Suite In a Boutique Hotel With Breakfast,https://mohamedmaged3002-droid.github.io/brassbell-ical/70092.ics,https://www.brassbell.net/property/spacious-suite-in-a-boutique-hotel-with-breakfast-ROOM-027/,12,179
 70093,Spacious Suite In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70093.ics,https://www.brassbell.net/property/spacious-suite-in-the-center-of-zamalek-ROOM-038/,7,198
 70094,Standard room In a Boutique Hotel With Breakfast,https://mohamedmaged3002-droid.github.io/brassbell-ical/70094.ics,https://www.brassbell.net/property/standard-room-in-a-boutique-hotel-with-breakfast-ROOM-026/,2,209
-70095,Standard Room King Bed City View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70095.ics,https://www.brassbell.net/property/standard-room-king-bed-city-view/,13,178
+70095,Standard Room King Bed City View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70095.ics,https://www.brassbell.net/property/standard-room-king-bed-city-view/,13,177
 70096,Standard Room King Bed Nile View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70096.ics,https://www.brassbell.net/property/standard-room-king-bed-nile-view/,6,194
 70097,Standard Room Twin Bed City View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70097.ics,https://www.brassbell.net/property/standard-room-twin-bed-city-view/,7,185
 70098,Standard Room Twin Bed Nile View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70098.ics,https://www.brassbell.net/property/standard-room-twin-bed-nile-view/,1,211
@@ -126,7 +126,7 @@ wp_post_id,title,ical_url,brassbell_url,blocked_ranges,available_nights
 70128,Superior Apartment With City View In The Center Of Downtown Cairo,https://mohamedmaged3002-droid.github.io/brassbell-ical/70128.ics,https://www.brassbell.net/property/superior-apartment-with-city-view-in-the-center-of-downtown-cairo-ROOM-005/,1,208
 70129,Superior Studio With Balcony,https://mohamedmaged3002-droid.github.io/brassbell-ical/70129.ics,https://www.brassbell.net/property/superior-studio-with-balcony-/,1,209
 70130,Three Bedroom Apartment City view Next to Om Kolthoom Hotel,https://mohamedmaged3002-droid.github.io/brassbell-ical/70130.ics,https://www.brassbell.net/property/three-bedroom-apartment-city-view-next-to-om-kolthoom-hotel-ROOM-012/,6,187
-70131,Three Bedroom Apartment In The Center Of Downtown Cairo,https://mohamedmaged3002-droid.github.io/brassbell-ical/70131.ics,https://www.brassbell.net/property/three-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-054/,3,206
+70131,Three Bedroom Apartment In The Center Of Downtown Cairo,https://mohamedmaged3002-droid.github.io/brassbell-ical/70131.ics,https://www.brassbell.net/property/three-bedroom-apartment-in-the-center-of-downtown-cairo-ROOM-054/,3,203
 70132,Three Bedroom Apartment Nile view Next to Om Kolthoom Hotel,https://mohamedmaged3002-droid.github.io/brassbell-ical/70132.ics,https://www.brassbell.net/property/three-bedroom-apartment-nile-view-next-to-om-kolthoom-hotel-ROOM-013/,6,184
 70133,Three Bedrooms Apartment,https://mohamedmaged3002-droid.github.io/brassbell-ical/70133.ics,https://www.brassbell.net/property/three-bedrooms-apartment-ROOM-153-3BR/,0,212
 70134,Three Bedrooms Apartment Pyramids View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70134.ics,https://www.brassbell.net/property/three-bedrooms-apartment-pyramids-view-ROOM-152-3BR-DLX/,5,192
