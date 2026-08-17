@@ -17,13 +17,13 @@ wp_post_id,title,ical_url,brassbell_url,blocked_ranges,available_nights
 70017,Sh. Zayed Aeon Towers 2BR w/ Kitchen,https://mohamedmaged3002-droid.github.io/brassbell-ical/70017.ics,https://www.brassbell.net/property/brassbell-sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-1502/,1,167
 70018,Sh. Zayed Aeon Towers 2BR w/ Kitchen,https://mohamedmaged3002-droid.github.io/brassbell-ical/70018.ics,https://www.brassbell.net/property/brassbell-sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-702/,1,202
 70019,Sh. Zayed Aeon Towers 2BR w/ Kitchen,https://mohamedmaged3002-droid.github.io/brassbell-ical/70019.ics,https://www.brassbell.net/property/brassbell-sh-zayed-aeon-towers-2br-w-kitchen-AEON-2BR-SL01/,1,210
-70020,Sh. Zayed Aeon Towers 3BR Garden View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70020.ics,https://www.brassbell.net/property/brassbell-sh-zayed-aeon-towers-3br-garden-view-AEON-3BR-907/,4,189
+70020,Sh. Zayed Aeon Towers 3BR Garden View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70020.ics,https://www.brassbell.net/property/brassbell-sh-zayed-aeon-towers-3br-garden-view-AEON-3BR-907/,4,187
 70021,Sh. Zayed · Aeon Towers 2BR w/ Balcony,https://mohamedmaged3002-droid.github.io/brassbell-ical/70021.ics,https://www.brassbell.net/property/brassbell-sh-zayed-l-aeon-towers-2br-w-balcony-AEON-2BR-703/,2,197
 70022,Sh.Zayed Aeon Towers Studio w/ Balcony,https://mohamedmaged3002-droid.github.io/brassbell-ical/70022.ics,https://www.brassbell.net/property/brassbell-shzayed-aeon-towers-studio-w-balcony-AEON-Studio-602/,4,195
 70023,Sh.Zayed Aeon Towers Studio w/ Kitchen 2,https://mohamedmaged3002-droid.github.io/brassbell-ical/70023.ics,https://www.brassbell.net/property/brassbell-shzayed-aeon-towers-studio-w-kitchen-2-AEON-Studio-601/,1,208
 70024,ShZayed Aeon Towers Studio w/ Kitchen,https://mohamedmaged3002-droid.github.io/brassbell-ical/70024.ics,https://www.brassbell.net/property/brassbell-shzayed-aeon-towers-studio-w-kitchen-AEON-Studio-901/,1,197
 70025,ShZayed Aeon Towers Studio w/Kitchen,https://mohamedmaged3002-droid.github.io/brassbell-ical/70025.ics,https://www.brassbell.net/property/brassbell-shzayed-aeon-towers-studio-wkitchen-AEON-Studio-1006/,3,203
-70026,Budget Studio,https://mohamedmaged3002-droid.github.io/brassbell-ical/70026.ics,https://www.brassbell.net/property/budget-studio/,1,211
+70026,Budget Studio,https://mohamedmaged3002-droid.github.io/brassbell-ical/70026.ics,https://www.brassbell.net/property/budget-studio/,0,212
 70027,Budget Studio,https://mohamedmaged3002-droid.github.io/brassbell-ical/70027.ics,https://www.brassbell.net/property/budget-studio-/,0,212
 70028,Budget Studio In The Center of Downtown Cairo,https://mohamedmaged3002-droid.github.io/brassbell-ical/70028.ics,https://www.brassbell.net/property/budget-studio-in-the-center-of-downtown-cairo-ROOM-094/,1,211
 70029,Budget Studio In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70029.ics,https://www.brassbell.net/property/budget-studio-in-the-center-of-zamalek-ROOM-014/,0,212
@@ -54,7 +54,7 @@ wp_post_id,title,ical_url,brassbell_url,blocked_ranges,available_nights
 70055,King Studio In The Center Of Downtown Cairo,https://mohamedmaged3002-droid.github.io/brassbell-ical/70055.ics,https://www.brassbell.net/property/king-studio-in-the-center-of-downtown-cairo-ROOM-003/,6,202
 70056,King Studio In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70056.ics,https://www.brassbell.net/property/king-studio-in-the-center-of-zamalek-ROOM-122/,1,209
 70057,King Studio Near Tahrir Square,https://mohamedmaged3002-droid.github.io/brassbell-ical/70057.ics,https://www.brassbell.net/property/king-studio-near-tahrir-square-ROOM-165/,4,207
-70058,Loft City View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70058.ics,https://www.brassbell.net/property/loft-city-view-ROOM-082/,0,212
+70058,Loft City View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70058.ics,https://www.brassbell.net/property/loft-city-view-ROOM-082/,1,211
 70059,Loft Sea View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70059.ics,https://www.brassbell.net/property/loft-sea-view-ROOM-083/,9,199
 70060,Nile View Studio Near The Saudi Embassy,https://mohamedmaged3002-droid.github.io/brassbell-ical/70060.ics,https://www.brassbell.net/property/nile-view-studio-near-the-saudi-embassy-ROOM-41/,1,210
 70061,Nile View Suite Near The Saudi Embassy,https://mohamedmaged3002-droid.github.io/brassbell-ical/70061.ics,https://www.brassbell.net/property/nile-view-suite-near-the-saudi-embassy-ROOM-42/,1,210
@@ -96,7 +96,7 @@ wp_post_id,title,ical_url,brassbell_url,blocked_ranges,available_nights
 70097,Standard Room Twin Bed City View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70097.ics,https://www.brassbell.net/property/standard-room-twin-bed-city-view/,7,185
 70098,Standard Room Twin Bed Nile View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70098.ics,https://www.brassbell.net/property/standard-room-twin-bed-nile-view/,0,212
 70100,Standard Studio Apartment,https://mohamedmaged3002-droid.github.io/brassbell-ical/70100.ics,https://www.brassbell.net/property/standard-studio-apartment-ROOM-149-Studio/,0,212
-70101,Standard Studio City View Next To Tahrir Square,https://mohamedmaged3002-droid.github.io/brassbell-ical/70101.ics,https://www.brassbell.net/property/standard-studio-city-view-next-to-tahrir-square/,1,211
+70101,Standard Studio City View Next To Tahrir Square,https://mohamedmaged3002-droid.github.io/brassbell-ical/70101.ics,https://www.brassbell.net/property/standard-studio-city-view-next-to-tahrir-square/,1,210
 70102,Standard Studio In The Center Of Downtown Cairo,https://mohamedmaged3002-droid.github.io/brassbell-ical/70102.ics,https://www.brassbell.net/property/standard-studio-in-the-center-of-downtown-cairo-ROOM-079/,1,211
 70103,Standard Studio In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70103.ics,,1,211
 70104,Standard Studio In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70104.ics,https://www.brassbell.net/property/standard-studio-in-the-center-of-zamalek-ROOM-033/,0,212
@@ -116,7 +116,7 @@ wp_post_id,title,ical_url,brassbell_url,blocked_ranges,available_nights
 70118,Studio Sea View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70118.ics,https://www.brassbell.net/property/studio-sea-view-ROOM-085/,1,207
 70119,Studio Twin Bed Garden View with Balcony,https://mohamedmaged3002-droid.github.io/brassbell-ical/70119.ics,https://www.brassbell.net/property/studio-twin-bed-garden-view-with-balcony/,3,209
 70120,Studio With Balcony In The Center Of Downtown Cairo,https://mohamedmaged3002-droid.github.io/brassbell-ical/70120.ics,https://www.brassbell.net/property/studio-with-balcony-in-the-center-of-downtown-cairo-ROOM-004/,0,212
-70121,Studio with Garden View In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70121.ics,https://www.brassbell.net/property/studio-with-garden-view-in-the-center-of-zamalek-ROOM-015/,0,212
+70121,Studio with Garden View In The Center Of Zamalek,https://mohamedmaged3002-droid.github.io/brassbell-ical/70121.ics,https://www.brassbell.net/property/studio-with-garden-view-in-the-center-of-zamalek-ROOM-015/,1,211
 70122,Studio With Kitchenette And Balcony Next To Tahrir Square,https://mohamedmaged3002-droid.github.io/brassbell-ical/70122.ics,https://www.brassbell.net/property/studio-with-kitchenette-and-balcony-next-to-tahrir-square-ROOM-050/,0,212
 70123,Studio With Sofa Bed In The Center Of Downtown Cairo,https://mohamedmaged3002-droid.github.io/brassbell-ical/70123.ics,https://www.brassbell.net/property/studio-with-sofa-bed-in-the-center-of-downtown-cairo-ROOM-128/,0,212
 70124,Suite City View,https://mohamedmaged3002-droid.github.io/brassbell-ical/70124.ics,https://www.brassbell.net/property/suite-city-view-ROOM-086/,3,204
