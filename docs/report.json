@@ -1,25 +1,16 @@
 {
-  "startedAt": "2026-08-19T10:55:56.036Z",
+  "startedAt": "2026-08-19T11:44:47.560Z",
   "nights": 212,
-  "written": 142,
+  "written": 143,
   "skipped": [
     {
       "wp": 70007,
       "reason": "availability-collapse",
-      "collapseStreak": 1,
+      "collapseStreak": 2,
       "ok": true,
       "blocked": 163,
       "available": 49,
       "errors": 0
-    },
-    {
-      "wp": 70052,
-      "reason": "low-coverage",
-      "collapseStreak": 0,
-      "ok": true,
-      "blocked": 0,
-      "available": 198,
-      "errors": 14
     }
   ],
   "units": [
@@ -403,14 +394,6 @@
       "wp": 70052,
       "ok": true,
       "blocked": 0,
-      "available": 198,
-      "errors": 14,
-      "decision": "low-coverage"
-    },
-    {
-      "wp": 70054,
-      "ok": true,
-      "blocked": 0,
       "available": 212,
       "errors": 0,
       "decision": "ok"
@@ -420,6 +403,14 @@
       "ok": true,
       "blocked": 90,
       "available": 122,
+      "errors": 0,
+      "decision": "ok"
+    },
+    {
+      "wp": 70054,
+      "ok": true,
+      "blocked": 0,
+      "available": 212,
       "errors": 0,
       "decision": "ok"
     },
@@ -746,8 +737,8 @@
     {
       "wp": 70095,
       "ok": true,
-      "blocked": 35,
-      "available": 177,
+      "blocked": 37,
+      "available": 175,
       "errors": 0,
       "decision": "ok"
     },
@@ -984,18 +975,18 @@
       "decision": "ok"
     },
     {
-      "wp": 70128,
-      "ok": true,
-      "blocked": 1,
-      "available": 211,
-      "errors": 0,
-      "decision": "ok"
-    },
-    {
       "wp": 70127,
       "ok": true,
       "blocked": 19,
       "available": 193,
+      "errors": 0,
+      "decision": "ok"
+    },
+    {
+      "wp": 70128,
+      "ok": true,
+      "blocked": 1,
+      "available": 211,
       "errors": 0,
       "decision": "ok"
     },
@@ -1176,7 +1167,7 @@
       "decision": "ok"
     }
   ],
-  "finishedAt": "2026-08-19T11:06:41.004Z",
+  "finishedAt": "2026-08-19T11:55:15.516Z",
   "filtered": false,
   "staleFeedHours": 48,
   "staleFeeds": [],
