@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-08-19T03:27:54.040Z",
+  "startedAt": "2026-08-19T04:11:27.489Z",
   "nights": 212,
   "written": 144,
   "skipped": [],
@@ -437,18 +437,18 @@
       "decision": "ok"
     },
     {
-      "wp": 70060,
-      "ok": true,
-      "blocked": 1,
-      "available": 211,
-      "errors": 0,
-      "decision": "ok"
-    },
-    {
       "wp": 70059,
       "ok": true,
       "blocked": 9,
       "available": 203,
+      "errors": 0,
+      "decision": "ok"
+    },
+    {
+      "wp": 70060,
+      "ok": true,
+      "blocked": 1,
+      "available": 211,
       "errors": 0,
       "decision": "ok"
     },
@@ -637,14 +637,6 @@
       "decision": "ok"
     },
     {
-      "wp": 70084,
-      "ok": true,
-      "blocked": 37,
-      "available": 175,
-      "errors": 0,
-      "decision": "ok"
-    },
-    {
       "wp": 70085,
       "ok": true,
       "blocked": 25,
@@ -653,10 +645,10 @@
       "decision": "ok"
     },
     {
-      "wp": 70086,
+      "wp": 70084,
       "ok": true,
-      "blocked": 2,
-      "available": 210,
+      "blocked": 37,
+      "available": 175,
       "errors": 0,
       "decision": "ok"
     },
@@ -665,6 +657,14 @@
       "ok": true,
       "blocked": 0,
       "available": 212,
+      "errors": 0,
+      "decision": "ok"
+    },
+    {
+      "wp": 70086,
+      "ok": true,
+      "blocked": 2,
+      "available": 210,
       "errors": 0,
       "decision": "ok"
     },
@@ -965,18 +965,18 @@
       "decision": "ok"
     },
     {
-      "wp": 70127,
-      "ok": true,
-      "blocked": 19,
-      "available": 193,
-      "errors": 0,
-      "decision": "ok"
-    },
-    {
       "wp": 70128,
       "ok": true,
       "blocked": 1,
       "available": 211,
+      "errors": 0,
+      "decision": "ok"
+    },
+    {
+      "wp": 70127,
+      "ok": true,
+      "blocked": 19,
+      "available": 193,
       "errors": 0,
       "decision": "ok"
     },
@@ -1039,8 +1039,8 @@
     {
       "wp": 70136,
       "ok": true,
-      "blocked": 17,
-      "available": 195,
+      "blocked": 16,
+      "available": 196,
       "errors": 0,
       "decision": "ok"
     },
@@ -1157,7 +1157,7 @@
       "decision": "ok"
     }
   ],
-  "finishedAt": "2026-08-19T03:38:14.702Z",
+  "finishedAt": "2026-08-19T04:22:00.862Z",
   "filtered": false,
   "staleFeedHours": 48,
   "staleFeeds": [],
